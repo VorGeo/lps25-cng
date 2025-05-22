@@ -176,3 +176,10 @@ cython_debug/
 # pixi environments
 .pixi
 *.egg-info
+
+# Quarto
+/.quarto/
+/_site/
+
+# MacOS
+.DS_Store

@@ -17,3 +17,6 @@ platforms = ["osx-arm64"]
 
 [tool.pixi.dependencies]
 python = "==3.12"
+jupyter = ">=1.1.1,<2"
+numpy = ">=2.2.6,<3"
+pandas = ">=2.2.3,<3"
