@@ -365,6 +365,26 @@ items.append({
 ```
 
 ```{python}
+display(HTML(f"""
+  <div class="alert alert-dismissible alert-success">
+    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+    <p>
+    The following is a list of events at the
+    <a href='https://lps25.esa.int/'>2025 ESA Living Planet Symposium</a>
+    that involve cloud-native geospatial technologies.
+    </p>
+    <p>
+    Of course, we may have missed some events while compiling this list.
+    If you know of other events, please fill out an
+    <a href='https://github.com/VorGeo/lps25-cng/issues'>issue</a>
+    and/or submit a
+    <a href='https://github.com/VorGeo/lps25-cng/pulls'>PR</a>.
+    </p>
+  </div>
+"""))
+```
+
+```{python}
 # See https://bootswatch.com/ for Theme classes
 
 df = pd.DataFrame(items)
@@ -373,7 +393,7 @@ df.sort_values(by='start_time', inplace=True)
 for idx, row in df.iterrows():
   desc = f'<p class="card-text">{row.desc_html}</p>' if isinstance(row.desc_html, str) else ''
   display(HTML(f"""
-    <div class="card mb-3">
+    <div class="card border-primary mb-3">
       <div class="card-header">
         {row.start_time.strftime("%A %d %B")}
         {row.start_time.strftime("%H:%M")} - {row.end_time.strftime("%H:%M")}
