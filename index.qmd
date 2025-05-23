@@ -220,6 +220,17 @@ items.append({
 })
 
 items.append({
+  'session': 'D.04.01',
+  'start_time': parse('Friday, June 27, 2025 14:30'),
+  'end_time': parse('Friday, June 27, 2025 16:00'),
+  'location': 'Room 0.11/0.12',
+  'type': 'ORAL SESSION',
+  'title': 'Data Access and Interoperability to enable Infrastructure-agnostic Science Reproducibility',
+  'url': 'https://lps25.esa.int/programme/programme-session/?id=3F0CB6D2-A334-452D-B6E7-80EF3F53ADD7',
+  'tags': ['cloud-native']
+})
+
+items.append({
   'session': 'D.04.06',
   'start_time': parse('Friday, June 27, 2025 11:30'),
   'end_time': parse('Friday, June 27, 2025 13:00'),
