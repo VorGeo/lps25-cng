@@ -410,7 +410,7 @@ display(HTML(f"""
   <div class="alert alert-dismissible alert-success">
     <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
    <p>
-    Of course, we may have missed some events while compiling this list.
+    Of course, some events may have been missed while compiling this list.
     If you know of other LPS events involving CNG, please create a 
     <a href='https://github.com/VorGeo/lps25-cng/issues/new'>new issue</a>
     describing the event
