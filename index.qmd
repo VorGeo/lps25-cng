@@ -227,7 +227,7 @@ items.append({
   'type': 'ORAL SESSION',
   'title': 'Data Access and Interoperability to enable Infrastructure-agnostic Science Reproducibility',
   'url': 'https://lps25.esa.int/programme/programme-session/?id=3F0CB6D2-A334-452D-B6E7-80EF3F53ADD7',
-  'tags': ['cloud-native']
+  'tags': ['cog', 'stac', 'zarr']
 })
 
 items.append({
@@ -248,7 +248,7 @@ items.append({
   'location': 'X5 - Poster Area',
   'type': 'Poster Session',
   'title': 'Advancements in cloud-native formats and APIs for efficient management and processing of Earth Observation data',
-  'url': 'https://lps25.esa.int/programme/programme-session/?id=98C8A8A1-7F82-4AFB-9BFC-F84FAAFE7136',
+  'url': 'https://lps25.esa.int/programme/programme-session/?id=242BB4C6-4036-48CE-AEF0-CE7BB8F16336',
   'tags': ['cog', 'geoparquet', 'stac', 'zarr']
 })
 

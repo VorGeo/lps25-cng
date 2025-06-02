@@ -1,0 +1,3937 @@
+{
+  "51F3DC34-F844-481A-AAFA-E88FE904E7A5": {
+    "id": "51F3DC34-F844-481A-AAFA-E88FE904E7A5",
+    "title": "A.10.05 HANDS-ON TRAINING - Open-source hyperspectral analysis using hylite and python",
+    "event_type": "session"
+  },
+  "F03224E2-9F1D-43F0-A632-A5F1D91EB3C6": {
+    "id": "F03224E2-9F1D-43F0-A632-A5F1D91EB3C6",
+    "title": "A.10.06 HANDS-ON TRAINING - InSAR Time Series Analysis: Exploring SARvey and InSAR Explorer for Engineering Applications",
+    "event_type": "session"
+  },
+  "F91B8959-A94D-4020-829B-697B096B8676": {
+    "id": "F91B8959-A94D-4020-829B-697B096B8676",
+    "title": "D.02.17 HANDS-ON TRAINING - Advanced Artificial Intelligence for Extreme Event Analysis: Hands-on with the AIDE Toolbox",
+    "event_type": "session"
+  },
+  "B430765F-EF5D-4EA5-9079-C768E22F503F": {
+    "id": "B430765F-EF5D-4EA5-9079-C768E22F503F",
+    "title": "D.03.17 TUTORIAL - Cloud-Native Earth Observation Processing with SNAP and Copernicus Data Space Ecosystem CDSE",
+    "event_type": "session"
+  },
+  "D786ED2B-B9F9-4296-8F76-80FA128A59B7": {
+    "id": "D786ED2B-B9F9-4296-8F76-80FA128A59B7",
+    "title": "D.04.12 TUTORIAL - Cloud optimized way to explore, access, analyze and visualize Copernicus data sets",
+    "event_type": "session"
+  },
+  "62ACDFCD-9946-4EB6-B31D-F11E3D0FE180": {
+    "id": "62ACDFCD-9946-4EB6-B31D-F11E3D0FE180",
+    "title": "F.02.20 TUTORIAL - CEOS COAST Demo: Novel coastal satellite data products",
+    "event_type": "session"
+  },
+  "85AF7A08-CD28-47A5-8162-A2FAD00009F2": {
+    "id": "85AF7A08-CD28-47A5-8162-A2FAD00009F2",
+    "title": "D.02.20 TUTORIAL - EVE: A Comprehensive Suite of LLMs and Data for Earth Observation and Earth Sciences",
+    "event_type": "session"
+  },
+  "F3B64208-88D1-43C0-9F9E-6B8FE02AD6D7": {
+    "id": "F3B64208-88D1-43C0-9F9E-6B8FE02AD6D7",
+    "title": "D.03.15 TUTORIAL - FAIR and Open Science with EarthCODE Integrated Platforms",
+    "event_type": "session"
+  },
+  "AF905B50-ABEB-4932-B55D-1C7F9A842311": {
+    "id": "AF905B50-ABEB-4932-B55D-1C7F9A842311",
+    "title": "D.04.13 TUTORIAL - Accelerating insights: New Google Earth Engine data products and capabilities for sustainability applications",
+    "event_type": "session"
+  },
+  "09ADD51F-38F9-404F-8F80-3984A2BB796D": {
+    "id": "09ADD51F-38F9-404F-8F80-3984A2BB796D",
+    "title": "C.01.23 HANDS-ON TRAINING - OGC API - DGGS and Free & Open-Source Software Discrete Global Grid Abstraction Library (DGGAL)",
+    "event_type": "session"
+  },
+  "F7A5CF32-C450-4090-97B2-4106687F2A59": {
+    "id": "F7A5CF32-C450-4090-97B2-4106687F2A59",
+    "title": "C.06.13 HANDS-ON TRAINING - SAR Calibration Toolbox (SCT) an open-source multi mission tool for quality analysis of SAR data",
+    "event_type": "session"
+  },
+  "DEF01298-3148-4808-80D6-5971571D54EC": {
+    "id": "DEF01298-3148-4808-80D6-5971571D54EC",
+    "title": "D.02.16 HANDS-ON TRAINING - AI Foundation Models for Multi-Temporal and Multi-Modal EO Applications",
+    "event_type": "session"
+  },
+  "625AEDD4-E005-4332-B850-B44A42AD0474": {
+    "id": "625AEDD4-E005-4332-B850-B44A42AD0474",
+    "title": "A.08.16 TUTORIAL - ALTICAP: a global satellite altimetry sea level product for coastal applications",
+    "event_type": "session"
+  },
+  "5F07F96E-4FA8-4892-B306-48DBE7A0F6EE": {
+    "id": "5F07F96E-4FA8-4892-B306-48DBE7A0F6EE",
+    "title": "D.01.10 TUTORIAL - Unlocking the Power of Destination Earth: A Guide to Data Lake Services",
+    "event_type": "session"
+  },
+  "9265B57F-9662-4AD1-AE76-9FE8618A9D37": {
+    "id": "9265B57F-9662-4AD1-AE76-9FE8618A9D37",
+    "title": "D.03.12 TUTORIAL - Deep dive into vector data cubes for Python and R",
+    "event_type": "session"
+  },
+  "D87A24C4-AF8D-4FBC-BE77-BDA3763CC1E1": {
+    "id": "D87A24C4-AF8D-4FBC-BE77-BDA3763CC1E1",
+    "title": "A.03.09 TUTORIAL - EO AFRICA \u2013 Continental Demonstrator LUISA project: Human Appropriation of Net Primary Production Tutorial",
+    "event_type": "session"
+  },
+  "66EA2276-ED78-45BB-B984-3EFF03E0C4AE": {
+    "id": "66EA2276-ED78-45BB-B984-3EFF03E0C4AE",
+    "title": "C.02.21 TUTORIAL - Visualization and analysis of Imaging Spectroscopy data with the EnMAP-Box",
+    "event_type": "session"
+  },
+  "7A4E4BC9-92EE-41D3-8A3A-62FF63DC914E": {
+    "id": "7A4E4BC9-92EE-41D3-8A3A-62FF63DC914E",
+    "title": "D.03.18 TUTORIAL - From Earth Science to Storytelling with EO Dashboard",
+    "event_type": "session"
+  },
+  "8FC9A3B7-D8BD-451D-BC0E-2B1C516A6BE4": {
+    "id": "8FC9A3B7-D8BD-451D-BC0E-2B1C516A6BE4",
+    "title": "A.02.14 HANDS-ON TRAINING - NaturaSat software in identification, classification and monitoring of habitats by using Sentinel and UAV data",
+    "event_type": "session"
+  },
+  "E78A2B3A-64FE-41DB-98D3-1E41BA62C371": {
+    "id": "E78A2B3A-64FE-41DB-98D3-1E41BA62C371",
+    "title": "B.01.06 HANDS-ON TRAINING - Unlocking Earth Observation Analytics: Hands-on Training with the Global Development Assistance (GDA) Analytical Processing Platform (APP)",
+    "event_type": "session"
+  },
+  "43D4CC5E-6C00-4B4A-B25E-CAFEFA692E6D": {
+    "id": "43D4CC5E-6C00-4B4A-B25E-CAFEFA692E6D",
+    "title": "F.04.33 HANDS-ON TRAINING - Monitoring the high seas \u2013 enhancing marine protection using transparency and technology",
+    "event_type": "session"
+  },
+  "9D7DEAB9-6ACC-4063-AF4D-6738F2FD3D50": {
+    "id": "9D7DEAB9-6ACC-4063-AF4D-6738F2FD3D50",
+    "title": "A.02.13 HANDS-ON TRAINING - Biodiversity Data Cubes for Earth Science: From SQL Queries to Standardized Geospatial Output",
+    "event_type": "session"
+  },
+  "430A527A-E0F6-454A-A4E2-C3C76E7116EB": {
+    "id": "430A527A-E0F6-454A-A4E2-C3C76E7116EB",
+    "title": "B.04.07 HANDS-ON TRAINING - A Disaster Response Toolbox for Efficient Damage Proxy Map Creation and Analysis",
+    "event_type": "session"
+  },
+  "16FC9704-C82C-4494-B563-413DB31D60E0": {
+    "id": "16FC9704-C82C-4494-B563-413DB31D60E0",
+    "title": "F.01.13 HANDS-ON TRAINING - Crafting Interactive Stories with DEA: From Data to Narrative",
+    "event_type": "session"
+  },
+  "7A338FEB-272F-430E-BB57-859FD654D9E4": {
+    "id": "7A338FEB-272F-430E-BB57-859FD654D9E4",
+    "title": "C.03.20 HANDS-ON TRAINING - ACOLITE processing of Sentinel-2/MSI and Sentinel-3/OLCI data",
+    "event_type": "session"
+  },
+  "FB35E57F-5928-432E-B243-1C713C136D3C": {
+    "id": "FB35E57F-5928-432E-B243-1C713C136D3C",
+    "title": "D.04.10 HANDS-ON TRAINING - Working with Sentinel Hub API-s in Copernicus Data Space Ecosystem Jupyter Lab",
+    "event_type": "session"
+  },
+  "A23FF5FB-93E4-4EB0-ACAC-522E01C96392": {
+    "id": "A23FF5FB-93E4-4EB0-ACAC-522E01C96392",
+    "title": "F.01.12 HANDS-ON TRAINING - Communicating Climate Change with the ESA Climate Change Initiative\u2019s Essential Climate Variables",
+    "event_type": "session"
+  },
+  "5E2FA476-DFC4-42A2-9705-DA70121F1652": {
+    "id": "5E2FA476-DFC4-42A2-9705-DA70121F1652",
+    "title": "D.02.18 TUTORIAL - Mastering EOTDL: A Tutorial on crafting Training Datasets and developing Machine Learning Models",
+    "event_type": "session"
+  },
+  "8C96036A-06E6-438F-B2C6-69D9CA20D964": {
+    "id": "8C96036A-06E6-438F-B2C6-69D9CA20D964",
+    "title": "D.02.21 TUTORIAL - Easy and Efficient Fine-tuning of Foundation Models for Earth Observation",
+    "event_type": "session"
+  },
+  "A8B902A9-C6C8-44DE-BA2C-F3FC040A8611": {
+    "id": "A8B902A9-C6C8-44DE-BA2C-F3FC040A8611",
+    "title": "D.05.07 TUTORIAL - Using Earth Observations within Climate Applications that are Fit for Your Purpose",
+    "event_type": "session"
+  },
+  "91128438-8AE3-4D0C-8757-0A23AA69626E": {
+    "id": "91128438-8AE3-4D0C-8757-0A23AA69626E",
+    "title": "D.03.09 HANDS-ON TRAINING - The CoMet toolkit \u2013 Uncertainties made easy",
+    "event_type": "session"
+  },
+  "B97391AC-F0D6-4C3D-B38C-FB69AA1219D6": {
+    "id": "B97391AC-F0D6-4C3D-B38C-FB69AA1219D6",
+    "title": "D.04.11 HANDS-ON TRAINING - JupyterGIS: Collaborative Geospatial Analysis in Jupyter",
+    "event_type": "session"
+  },
+  "CAE6A11A-3CF2-4AB9-A470-AE3946871AD9": {
+    "id": "CAE6A11A-3CF2-4AB9-A470-AE3946871AD9",
+    "title": "D.06.06 HANDS-ON TRAINING - SpaceHPC hands-on training",
+    "event_type": "session"
+  },
+  "388CE0A4-4D64-4C38-808C-3B70530C5F97": {
+    "id": "388CE0A4-4D64-4C38-808C-3B70530C5F97",
+    "title": "A.01.15 TUTORIAL - Atmospheric Composition Training at the Living Planet Symposium",
+    "event_type": "session"
+  },
+  "51F6F20A-31FC-4B44-9D42-FE4857FB3385": {
+    "id": "51F6F20A-31FC-4B44-9D42-FE4857FB3385",
+    "title": "A.08.20 TUTORIAL - Satellite data for the UN Ocean Decade: Addressing the 10 \"ocean challenges\" with marine data from the Copernicus Programme and EUMETSAT",
+    "event_type": "session"
+  },
+  "B5824985-5B0D-4033-AAAE-5FB43286923E": {
+    "id": "B5824985-5B0D-4033-AAAE-5FB43286923E",
+    "title": "D.01.11 TUTORIAL - From basic to advanced: build and run your first workflows with DeltaTwin and SesamEO services",
+    "event_type": "session"
+  },
+  "58B690C5-E14D-4F92-8E53-A7551E547C55": {
+    "id": "58B690C5-E14D-4F92-8E53-A7551E547C55",
+    "title": "D.02.22 TUTORIAL - Geospatial Machine Learning Libraries and the Road to TorchGeo 1.0",
+    "event_type": "session"
+  },
+  "492C0C74-B91B-450D-9F38-86A361891B62": {
+    "id": "492C0C74-B91B-450D-9F38-86A361891B62",
+    "title": "D.03.11 TUTORIAL - Satellite Image Time Series Analysis on Earth Observation Data Cubes",
+    "event_type": "session"
+  },
+  "5B0E53A4-9C5D-4197-9F2A-9496981C602F": {
+    "id": "5B0E53A4-9C5D-4197-9F2A-9496981C602F",
+    "title": "D.03.13 TUTORIAL - Code Once, Reuse and Scale Seamlessly: Build EO Workflows using openEO in the Copernicus Data Space Ecosystem",
+    "event_type": "session"
+  },
+  "C6A70C4C-A9F1-4314-9C30-2BBDB70E4761": {
+    "id": "C6A70C4C-A9F1-4314-9C30-2BBDB70E4761",
+    "title": "Opening session",
+    "event_type": "session"
+  },
+  "A41DD3C0-D052-4551-8F68-86A72A05CED3": {
+    "id": "A41DD3C0-D052-4551-8F68-86A72A05CED3",
+    "title": "C.05.08 TRUTHS",
+    "event_type": "session"
+  },
+  "3890AB70-D959-40F3-9C0D-2302E9E44DDE": {
+    "id": "3890AB70-D959-40F3-9C0D-2302E9E44DDE",
+    "title": "F.02.14 African-European Earth Observation Partnership",
+    "event_type": "session"
+  },
+  "D4807E83-4FF0-40F6-84CC-CE6C2C186C4C": {
+    "id": "D4807E83-4FF0-40F6-84CC-CE6C2C186C4C",
+    "title": "Icebreaker",
+    "event_type": "session"
+  },
+  "E0DA0192-5DAA-4B69-92C9-C12342BDBB3B": {
+    "id": "E0DA0192-5DAA-4B69-92C9-C12342BDBB3B",
+    "title": "D.04.07 Unlocking Copernicus Browser & openEO Capabilities in the Copernicus Data Space Ecosystem",
+    "event_type": "session"
+  },
+  "654077AA-D20C-4AE0-85CE-864722DD2008": {
+    "id": "654077AA-D20C-4AE0-85CE-864722DD2008",
+    "title": "F.01.11 What\u2019s Next for Teaching Earth Observation? Trends, Tools, and Strategies",
+    "event_type": "session"
+  },
+  "F51A80BF-98F9-462C-A8B8-C6125CB6F6BD": {
+    "id": "F51A80BF-98F9-462C-A8B8-C6125CB6F6BD",
+    "title": "F.02.15 FAO & ESA Partnership on the use of Earth Observation for Food and Agriculture",
+    "event_type": "session"
+  },
+  "0C55957A-5D22-468E-88EB-BD90CCB51D85": {
+    "id": "0C55957A-5D22-468E-88EB-BD90CCB51D85",
+    "title": "F.05.06 GEOValue: an international community focusing on the value of geospatial information for decision making",
+    "event_type": "session"
+  },
+  "4C4E386E-FEA0-4033-8CC3-A158006CC8AF": {
+    "id": "4C4E386E-FEA0-4033-8CC3-A158006CC8AF",
+    "title": "D.03.06 Empowering Collective Action Through Earth Observation: Informing and Engaging Society",
+    "event_type": "session"
+  },
+  "63BAD67A-3EF6-4E3D-9B93-3BE2F6BF62B0": {
+    "id": "63BAD67A-3EF6-4E3D-9B93-3BE2F6BF62B0",
+    "title": "D.03.07 Implementing FAIR Open Science: Advancing ESA\u2019s EO Science Strategy",
+    "event_type": "session"
+  },
+  "1ED27121-D977-4DB5-AAE3-4CB34DC96597": {
+    "id": "1ED27121-D977-4DB5-AAE3-4CB34DC96597",
+    "title": "F.01.08 Climate Call Card Game",
+    "event_type": "session"
+  },
+  "4E0BD956-0E21-48E5-BD10-1B4DE7142A7A": {
+    "id": "4E0BD956-0E21-48E5-BD10-1B4DE7142A7A",
+    "title": "F.04.21 Waves of Data: EO\u2019s Role in Ensuring Global Food Security",
+    "event_type": "session"
+  },
+  "326EA557-8595-4CF0-8C77-C7C8108665B5": {
+    "id": "326EA557-8595-4CF0-8C77-C7C8108665B5",
+    "title": "A.01.01 - POSTER - Advances in atmospheric composition",
+    "event_type": "poster session"
+  },
+  "325F2286-2BC2-48D2-83EF-CEA9D5E27AAB": {
+    "id": "325F2286-2BC2-48D2-83EF-CEA9D5E27AAB",
+    "title": "A.01.02 - POSTER - Vertical Coupling in the Whole Atmosphere System",
+    "event_type": "poster session"
+  },
+  "30DD12FD-216A-41E3-B518-C0A97951BFCD": {
+    "id": "30DD12FD-216A-41E3-B518-C0A97951BFCD",
+    "title": "A.02.03 - POSTER - EO for Agriculture Under Pressure",
+    "event_type": "poster session"
+  },
+  "0ABBB171-1732-441C-B50A-07861EE63112": {
+    "id": "0ABBB171-1732-441C-B50A-07861EE63112",
+    "title": "A.03.01 - POSTER - Global Carbon Budgets and Earth Observation",
+    "event_type": "poster session"
+  },
+  "2202E931-2B49-4A3B-8D69-7C8591CB80EA": {
+    "id": "2202E931-2B49-4A3B-8D69-7C8591CB80EA",
+    "title": "A.08.02 - POSTER - Advances in the theory and methodology of SAR Oceanography",
+    "event_type": "poster session"
+  },
+  "A1E38E01-1BE7-4ACB-AF35-4702F61F051F": {
+    "id": "A1E38E01-1BE7-4ACB-AF35-4702F61F051F",
+    "title": "A.09.11 - POSTER - Snow in the cryosphere: improving observations and modelling",
+    "event_type": "poster session"
+  },
+  "8FA6CAEC-0500-41F1-80A2-1FB48173A960": {
+    "id": "8FA6CAEC-0500-41F1-80A2-1FB48173A960",
+    "title": "A.10.03 - POSTER - Our solid Earth: from core to surface",
+    "event_type": "poster session"
+  },
+  "FA2F9E6A-24A3-4EE1-9A44-AD2446836F1A": {
+    "id": "FA2F9E6A-24A3-4EE1-9A44-AD2446836F1A",
+    "title": "B.03.08 - POSTER - Earth Observation in support of the energy transition",
+    "event_type": "poster session"
+  },
+  "A426F883-5967-4ABC-B5C4-2CCE61D268B7": {
+    "id": "A426F883-5967-4ABC-B5C4-2CCE61D268B7",
+    "title": "B.04.03 - POSTER - Integrating multi-sensor Earth Observation data to improve natural hazard monitoring",
+    "event_type": "poster session"
+  },
+  "6F7E5974-CC44-4E42-9368-D8738DBC896D": {
+    "id": "6F7E5974-CC44-4E42-9368-D8738DBC896D",
+    "title": "C.01.07 - POSTER - Discrete Global Grid Systems (DGGS)",
+    "event_type": "poster session"
+  },
+  "B3EBA7E8-AC98-4CC8-90F9-B516ADDB1609": {
+    "id": "B3EBA7E8-AC98-4CC8-90F9-B516ADDB1609",
+    "title": "C.03.01 - POSTER - The Sentinel User Preparation Initiative for High-Priority Applications",
+    "event_type": "poster session"
+  },
+  "F3915431-9DAD-4211-B353-03EDFD74956C": {
+    "id": "F3915431-9DAD-4211-B353-03EDFD74956C",
+    "title": "C.03.05 - POSTER - Copernicus CRISTAL: Operational Monitoring for Cryospheric Science, Hydrology, and Oceanography from Coasts to Polar Seas",
+    "event_type": "poster session"
+  },
+  "39B2AFEA-07F6-4BAB-A820-34D97FD2C283": {
+    "id": "39B2AFEA-07F6-4BAB-A820-34D97FD2C283",
+    "title": "C.03.06 - POSTER - Synergy of visible and infrared measurements for Earth surface applications",
+    "event_type": "poster session"
+  },
+  "4D835C57-CB6B-4DBC-B4F6-F5B32FE6854D": {
+    "id": "4D835C57-CB6B-4DBC-B4F6-F5B32FE6854D",
+    "title": "C.05.01 - POSTER - PROBA-V and PV-CC",
+    "event_type": "poster session"
+  },
+  "56FB9737-D57D-49B8-B89F-258B84B99C25": {
+    "id": "56FB9737-D57D-49B8-B89F-258B84B99C25",
+    "title": "C.06.05 - POSTER - CEOS Analysis Ready Data (CEOS-ARD)",
+    "event_type": "poster session"
+  },
+  "A3E19EC8-BF2B-459E-89FC-41B49A5B3BF0": {
+    "id": "A3E19EC8-BF2B-459E-89FC-41B49A5B3BF0",
+    "title": "C.06.09 - POSTER - CAL/VAL towards future VNIR/SWIR imaging spectroscopy",
+    "event_type": "poster session"
+  },
+  "130AE89F-F932-4C78-B4BC-949E7E247C5D": {
+    "id": "130AE89F-F932-4C78-B4BC-949E7E247C5D",
+    "title": "D.01.02 - POSTER - Technological Innovations for a Digital Twin of the Earth system",
+    "event_type": "poster session"
+  },
+  "4B6D9B47-9BAE-4DB6-A3D4-218C48D8A0C4": {
+    "id": "4B6D9B47-9BAE-4DB6-A3D4-218C48D8A0C4",
+    "title": "D.03.02 - POSTER -Free Open Source Software for the Geospatial Domain: current status & evolution",
+    "event_type": "poster session"
+  },
+  "619ED0CC-EE22-486C-9995-7B296B3A5551": {
+    "id": "619ED0CC-EE22-486C-9995-7B296B3A5551",
+    "title": "D.06.01 - POSTER -Orbital Intelligence for Earth Observation applications: The edge of AI In Space",
+    "event_type": "poster session"
+  },
+  "68C9B2A4-5FB2-4D4B-AEAF-C1F8D82B67BB": {
+    "id": "68C9B2A4-5FB2-4D4B-AEAF-C1F8D82B67BB",
+    "title": "E.01.02 - POSTER -Earth Observation in Practise: Linking Public and Commercial Data for Earth Action",
+    "event_type": "poster session"
+  },
+  "EE6A3FCE-6A04-497F-B3A3-61B3457A9E1F": {
+    "id": "EE6A3FCE-6A04-497F-B3A3-61B3457A9E1F",
+    "title": "F.02.02 - POSTER - C- nd L-band SAR synergies - ESA-JAXA cooperation and beyond",
+    "event_type": "poster session"
+  },
+  "50C660D5-D53B-43C4-B57F-FA85EBC011FD": {
+    "id": "50C660D5-D53B-43C4-B57F-FA85EBC011FD",
+    "title": "F.02.05 - POSTER -Capacity Building and Technology Transfer in Earth Observation",
+    "event_type": "poster session"
+  },
+  "AF260EB7-F273-43EA-9A60-8790503DFBCD": {
+    "id": "AF260EB7-F273-43EA-9A60-8790503DFBCD",
+    "title": "F.04.05 - POSTER - In-land Water Quality and Resources Management",
+    "event_type": "poster session"
+  },
+  "C48AA654-6D25-4636-921B-E0294A726A8C": {
+    "id": "C48AA654-6D25-4636-921B-E0294A726A8C",
+    "title": "F.05.04 - POSTER -Earth Observation in Governance: Bridging Data and Decision-Making",
+    "event_type": "poster session"
+  },
+  "4B1C2342-EF78-4494-AB19-A891088CC347": {
+    "id": "4B1C2342-EF78-4494-AB19-A891088CC347",
+    "title": "A.02.15 DEMO - Sen4Stat: an open-source toolbox leveraging satellite Earth Observation to improve agriculture statistics",
+    "event_type": "session"
+  },
+  "842B1E8D-F80F-45ED-9BF9-C66B3E381406": {
+    "id": "842B1E8D-F80F-45ED-9BF9-C66B3E381406",
+    "title": "A.07.10 DEMO - Generating hydrographic products with GRASS GIS: A hands-on workshop on the Hydrography90m methodology",
+    "event_type": "session"
+  },
+  "6EF73AFA-6207-4D94-B71B-67B1A9A8580A": {
+    "id": "6EF73AFA-6207-4D94-B71B-67B1A9A8580A",
+    "title": "C.06.14 DEMO - The DEMIX Operations Platform: a free tool for the visualisation, processing and quality assessment of Digital Elevation Models",
+    "event_type": "session"
+  },
+  "CDAC45AE-D463-4823-9C95-F118E7C5AB80": {
+    "id": "CDAC45AE-D463-4823-9C95-F118E7C5AB80",
+    "title": "C.06.19 DEMO - Sentinel-2 Open-Source Viewing Model Tool (Sen2VM)",
+    "event_type": "session"
+  },
+  "DBC43074-1BC3-47CD-AABD-7797DCC84556": {
+    "id": "DBC43074-1BC3-47CD-AABD-7797DCC84556",
+    "title": "D.02.23 DEMO - Machine Learning API for Earth Observation Data Cubes",
+    "event_type": "session"
+  },
+  "3EF2E823-44DD-4605-BB30-69AE1A8ACB8E": {
+    "id": "3EF2E823-44DD-4605-BB30-69AE1A8ACB8E",
+    "title": "D.03.21 DEMO - Revolutionizing EO Data Access: The Power of openEO Federation",
+    "event_type": "session"
+  },
+  "113D658D-6904-48F2-8DCF-6B8630F6A760": {
+    "id": "113D658D-6904-48F2-8DCF-6B8630F6A760",
+    "title": "D.03.23 DEMO - Real-time Collaboration for GIS Workflows with JupyterGIS",
+    "event_type": "session"
+  },
+  "FE2CBAD1-81D6-4D4C-A71D-C465A1A3B4D1": {
+    "id": "FE2CBAD1-81D6-4D4C-A71D-C465A1A3B4D1",
+    "title": "D.03.25 DEMO - The WorldCereal Reference Data Module: An open harmonized repository of global crop data",
+    "event_type": "session"
+  },
+  "F8A45A91-6492-462A-8FAB-C97EF4E61E4A": {
+    "id": "F8A45A91-6492-462A-8FAB-C97EF4E61E4A",
+    "title": "D.03.30 DEMO - Raster and Vector Data Cubes Across Spatial Data Science Languages - Part 1",
+    "event_type": "session"
+  },
+  "FF3209E5-9E95-4AC7-A773-D710620C85D7": {
+    "id": "FF3209E5-9E95-4AC7-A773-D710620C85D7",
+    "title": "D.03.30 DEMO - Raster and Vector Data Cubes Across Spatial Data Science Languages - Part 2",
+    "event_type": "session"
+  },
+  "F73C9415-7A77-4483-A6F9-A8F5D4FB6E69": {
+    "id": "F73C9415-7A77-4483-A6F9-A8F5D4FB6E69",
+    "title": "D.03.31 DEMO - SNAP in Action - Various Application Examples throught the week demonstrating the power of SNAP for EO data visualisation, analysis and processing - Session 1",
+    "event_type": "session"
+  },
+  "259BB083-9C8F-45CB-B998-FCBA3746581D": {
+    "id": "259BB083-9C8F-45CB-B998-FCBA3746581D",
+    "title": "D.04.20 DEMO - Can I use your code? Free, fast and open processing of EO data in the EU",
+    "event_type": "session"
+  },
+  "EA7C0877-1CC8-41DB-A087-7D9AB6182C14": {
+    "id": "EA7C0877-1CC8-41DB-A087-7D9AB6182C14",
+    "title": "D.04.23 DEMO - Leveraging Sentinel Zarr Data",
+    "event_type": "session"
+  },
+  "9745CA77-3EA7-4268-AC90-B654DE39E68D": {
+    "id": "9745CA77-3EA7-4268-AC90-B654DE39E68D",
+    "title": "D.04.29 DEMO - xcube viewer: More than visualization - using xcube Viewer for exploration and analysis of Earth Science Data",
+    "event_type": "session"
+  },
+  "1AC3CD57-3579-487D-BC84-C9CFD3497100": {
+    "id": "1AC3CD57-3579-487D-BC84-C9CFD3497100",
+    "title": "D.04.31 DEMO - NoR Updates and Road Map - Session 1",
+    "event_type": "session"
+  },
+  "3D453D61-9C99-4AD5-A43F-C4338816E50C": {
+    "id": "3D453D61-9C99-4AD5-A43F-C4338816E50C",
+    "title": "F.01.14 DEMO - Free visualization, analysis and sharing of Sentinel satellite imagery in Copernicus Browser",
+    "event_type": "session"
+  },
+  "9FDA6EB1-8187-4AED-BC4A-83A85EC80291": {
+    "id": "9FDA6EB1-8187-4AED-BC4A-83A85EC80291",
+    "title": "A.01.14 HANDS-ON TRAINING - Forecast severe thunderstorms in the coming hours using new Meteosat Third Generation weather satellite data",
+    "event_type": "session"
+  },
+  "DDA2832B-4566-42E8-AC85-F1339DCCE389": {
+    "id": "DDA2832B-4566-42E8-AC85-F1339DCCE389",
+    "title": "A.09.11 Snow in the cryosphere: improving observations and modelling - PART 1",
+    "event_type": "session"
+  },
+  "BF3DA6F2-13B3-4757-8342-2F94A2B389C2": {
+    "id": "BF3DA6F2-13B3-4757-8342-2F94A2B389C2",
+    "title": "A.09.11 Snow in the cryosphere: improving observations and modelling - PART 2",
+    "event_type": "session"
+  },
+  "324D76A4-0A95-4E41-9DCA-4EC33B29F5B9": {
+    "id": "324D76A4-0A95-4E41-9DCA-4EC33B29F5B9",
+    "title": "A.10.03 Our solid Earth: from core to surface - PART 1",
+    "event_type": "session"
+  },
+  "EF1E27B3-64D4-4E01-AAB6-EEEF1749EE19": {
+    "id": "EF1E27B3-64D4-4E01-AAB6-EEEF1749EE19",
+    "title": "A.10.03 Our solid Earth: from core to surface - PART 2",
+    "event_type": "session"
+  },
+  "9438FB1E-7C39-4BAF-96C5-38AC21CF30F0": {
+    "id": "9438FB1E-7C39-4BAF-96C5-38AC21CF30F0",
+    "title": "A.01.01 Advances in atmospheric composition - PART 1",
+    "event_type": "session"
+  },
+  "3BCE114B-989C-40C9-8D8B-90D411D9C991": {
+    "id": "3BCE114B-989C-40C9-8D8B-90D411D9C991",
+    "title": "A.01.01 Advances in atmospheric composition - PART 2",
+    "event_type": "session"
+  },
+  "6EFF706E-567B-418A-8622-CB3434AC163A": {
+    "id": "6EFF706E-567B-418A-8622-CB3434AC163A",
+    "title": "A.02.03 EO for Agriculture Under Pressure - PART 1",
+    "event_type": "session"
+  },
+  "32FBBF1D-7D8D-422E-8928-695C525E8E6F": {
+    "id": "32FBBF1D-7D8D-422E-8928-695C525E8E6F",
+    "title": "A.02.03 EO for Agriculture Under Pressure - PART 2",
+    "event_type": "session"
+  },
+  "5AE656D5-F576-4038-BA10-AB327643A697": {
+    "id": "5AE656D5-F576-4038-BA10-AB327643A697",
+    "title": "C.03.06 Synergy of visible and infrared measurements for Earth surface applications",
+    "event_type": "session"
+  },
+  "16EBF2E2-6DF0-4E12-932B-038515ACC508": {
+    "id": "16EBF2E2-6DF0-4E12-932B-038515ACC508",
+    "title": "C.06.09 CAL/VAL towards future VNIR/SWIR imaging spectroscopy",
+    "event_type": "session"
+  },
+  "7C5A63A7-6182-4849-9B27-AE2F94B51D24": {
+    "id": "7C5A63A7-6182-4849-9B27-AE2F94B51D24",
+    "title": "C.03.05 Copernicus CRISTAL: Operational Monitoring for Cryospheric Science, Hydrology, and Oceanography from Coasts to Polar Seas",
+    "event_type": "session"
+  },
+  "C1D5BE85-C8A5-4756-B48F-A779C388CFA7": {
+    "id": "C1D5BE85-C8A5-4756-B48F-A779C388CFA7",
+    "title": "F.02.05 Capacity Building and Technology Transfer in Earth Observation",
+    "event_type": "session"
+  },
+  "AE245075-D2D2-47C3-9FFA-94AE26BF5868": {
+    "id": "AE245075-D2D2-47C3-9FFA-94AE26BF5868",
+    "title": "D.01.02 Technological Innovations for a Digital Twin of the Earth system - PART 1",
+    "event_type": "session"
+  },
+  "2CF6C779-D709-4A38-B9AD-6AB46197EBD2": {
+    "id": "2CF6C779-D709-4A38-B9AD-6AB46197EBD2",
+    "title": "D.01.02 Technological Innovations for a Digital Twin of the Earth system - PART 2",
+    "event_type": "session"
+  },
+  "C31736C8-79BC-48F9-B5ED-99B36A49A2CC": {
+    "id": "C31736C8-79BC-48F9-B5ED-99B36A49A2CC",
+    "title": "C.03.01 The Sentinel User Preparation Initiative for High-Priority Applications",
+    "event_type": "session"
+  },
+  "FB88AF0D-63FF-4EDF-99B5-3DA11787830A": {
+    "id": "FB88AF0D-63FF-4EDF-99B5-3DA11787830A",
+    "title": "D.06.01 Orbital Intelligence for Earth Observation applications: The edge of AI In Space",
+    "event_type": "session"
+  },
+  "62C11988-C54B-49CA-AF43-9BAA33CAC656": {
+    "id": "62C11988-C54B-49CA-AF43-9BAA33CAC656",
+    "title": "E.01.03 Green Transition Information Factories (GTIF) \u2013 EO driven solutions to address sustainability challenges",
+    "event_type": "session"
+  },
+  "615EFA29-F315-4412-AB44-521B4BC699F7": {
+    "id": "615EFA29-F315-4412-AB44-521B4BC699F7",
+    "title": "F.05.04 Earth Observation in Governance: Bridging Data and Decision-Making",
+    "event_type": "session"
+  },
+  "90BEEAD3-53E0-4B43-926A-193BD1D3074A": {
+    "id": "90BEEAD3-53E0-4B43-926A-193BD1D3074A",
+    "title": "B.03.08 Earth Observation in support of the energy transition - PART 1",
+    "event_type": "session"
+  },
+  "AE9AFABF-9167-4AEE-B2D1-2B4999A4BE21": {
+    "id": "AE9AFABF-9167-4AEE-B2D1-2B4999A4BE21",
+    "title": "B.03.08 Earth Observation in support of the energy transition - PART 2",
+    "event_type": "session"
+  },
+  "05038E8E-C309-41FB-85C8-F5A982613DDD": {
+    "id": "05038E8E-C309-41FB-85C8-F5A982613DDD",
+    "title": "C.01.24 TUTORIAL - Land Characterization System Software (LCHS)",
+    "event_type": "session"
+  },
+  "3F71ABA9-5B1A-4771-A287-639A2FE4F92A": {
+    "id": "3F71ABA9-5B1A-4771-A287-639A2FE4F92A",
+    "title": "C.03.15 10 Years of Copernicus Sentinel-2 - PART 1",
+    "event_type": "session"
+  },
+  "456DB3F7-F844-4245-9C2D-A90B32F1EC2A": {
+    "id": "456DB3F7-F844-4245-9C2D-A90B32F1EC2A",
+    "title": "C.03.15 10 Years of Copernicus Sentinel-2 - PART 2",
+    "event_type": "session"
+  },
+  "59B02279-E536-4162-8763-4ACB7228C2AE": {
+    "id": "59B02279-E536-4162-8763-4ACB7228C2AE",
+    "title": "D.03.02 Free Open Source Software for the Geospatial Domain: current status & evolution - PART 1",
+    "event_type": "session"
+  },
+  "437441B7-E0A2-4D01-8E69-38AF96650FDD": {
+    "id": "437441B7-E0A2-4D01-8E69-38AF96650FDD",
+    "title": "D.03.02 Free Open Source Software for the Geospatial Domain: current status & evolution - PART 2",
+    "event_type": "session"
+  },
+  "7FF3F6B9-456E-425F-A1FD-3AAD03084A50": {
+    "id": "7FF3F6B9-456E-425F-A1FD-3AAD03084A50",
+    "title": "D.02.19 TUTORIAL - Foundation Models for Remote Sensing Applications",
+    "event_type": "session"
+  },
+  "C7E7042E-382E-4023-8E32-EF5B5E589981": {
+    "id": "C7E7042E-382E-4023-8E32-EF5B5E589981",
+    "title": "F.04.05 In-land Water Quality and Resources Management - PART 1",
+    "event_type": "session"
+  },
+  "FE00EF33-9876-4D14-9D33-6CBD4EB1FE80": {
+    "id": "FE00EF33-9876-4D14-9D33-6CBD4EB1FE80",
+    "title": "F.04.05 In-land Water Quality and Resources Management - PART 2",
+    "event_type": "session"
+  },
+  "D4E0B1B0-D76D-450F-9481-B4D93697CBDB": {
+    "id": "D4E0B1B0-D76D-450F-9481-B4D93697CBDB",
+    "title": "A.02.12 HANDS-ON TRAINING - lidR: (A workshop for) Airborne LiDAR Data Manipulation and Visualization for Environmental Applications",
+    "event_type": "session"
+  },
+  "113FED6C-A887-4CCA-BBF0-66DC022CD1E9": {
+    "id": "113FED6C-A887-4CCA-BBF0-66DC022CD1E9",
+    "title": "A.08.14 Enhancing Cooperation between EC and ESA Ocean Science projects",
+    "event_type": "session"
+  },
+  "D2D8A96D-95D6-4CFB-A1BF-98C00B18CF26": {
+    "id": "D2D8A96D-95D6-4CFB-A1BF-98C00B18CF26",
+    "title": "C.01.17 Creating the Perfect Bouquet of Innovation: Designing the Next EO Technology Demonstration Mission - Part 1",
+    "event_type": "session"
+  },
+  "1EBB9293-DA86-43A9-884E-B1F6B12FD7E7": {
+    "id": "1EBB9293-DA86-43A9-884E-B1F6B12FD7E7",
+    "title": "A.08.02 Advances in the theory and methodology of SAR Oceanography - PART 1",
+    "event_type": "session"
+  },
+  "BEB02684-09A6-4FB5-A55B-937E34DC9047": {
+    "id": "BEB02684-09A6-4FB5-A55B-937E34DC9047",
+    "title": "A.08.02 Advances in the theory and methodology of SAR Oceanography - PART 2",
+    "event_type": "session"
+  },
+  "1EFD2847-F6F7-4991-9B14-986A8D3A60E7": {
+    "id": "1EFD2847-F6F7-4991-9B14-986A8D3A60E7",
+    "title": "D.03.14 TUTORIAL - ESA WorldCereal: Cloud-based, Custom Crop Mapping Made Easy",
+    "event_type": "session"
+  },
+  "A7643214-76BA-4F78-9E07-3B191872FD95": {
+    "id": "A7643214-76BA-4F78-9E07-3B191872FD95",
+    "title": "A.04.04 TUTORIAL - Empowering Climate Research with GHGSat Emissions Data",
+    "event_type": "session"
+  },
+  "4EEAE2A1-C6D2-48E5-926C-DB5069347EEF": {
+    "id": "4EEAE2A1-C6D2-48E5-926C-DB5069347EEF",
+    "title": "C.05.01 PROBA-V and PV-CC",
+    "event_type": "session"
+  },
+  "4155DC23-5D4C-4AB9-BB6C-2D24EBA0211B": {
+    "id": "4155DC23-5D4C-4AB9-BB6C-2D24EBA0211B",
+    "title": "F.05.08 Demonstrating the domestic benefits derived from Copernicus in ESA Member States: challenges and achievements",
+    "event_type": "session"
+  },
+  "3B4C896E-8D9E-4240-BB85-F95BC638BD2B": {
+    "id": "3B4C896E-8D9E-4240-BB85-F95BC638BD2B",
+    "title": "D.03.10 HANDS-ON TRAINING - EarthCODE 101 Hands-On Workshop",
+    "event_type": "session"
+  },
+  "6E102C55-9F6D-482E-8B9B-07FEA08C254D": {
+    "id": "6E102C55-9F6D-482E-8B9B-07FEA08C254D",
+    "title": "D.05.06 Keynote Panel: Improving Environmental Sustainability - How Industry is meeting the Challenges",
+    "event_type": "session"
+  },
+  "484A7C0C-4FB1-470A-A20C-2F5962671F18": {
+    "id": "484A7C0C-4FB1-470A-A20C-2F5962671F18",
+    "title": "D.06.02 HPC and Quantum Computing",
+    "event_type": "session"
+  },
+  "401C7779-B118-4925-AC33-4C7FDAA50DE9": {
+    "id": "401C7779-B118-4925-AC33-4C7FDAA50DE9",
+    "title": "D.01.09 HANDS-ON TRAINING - DestinE Platform: how to create your processor in Insula Processing",
+    "event_type": "session"
+  },
+  "030A114A-0513-4954-A01D-4ABA9B5B5870": {
+    "id": "030A114A-0513-4954-A01D-4ABA9B5B5870",
+    "title": "F.02.08 Advancing Research and Development Through European-African Collaboration: EO AFRICA - PART 1",
+    "event_type": "session"
+  },
+  "BD9F483D-BF30-4238-B32F-AC12E10CDAA3": {
+    "id": "BD9F483D-BF30-4238-B32F-AC12E10CDAA3",
+    "title": "F.02.08 Advancing Research and Development Through European-African Collaboration: EO AFRICA - PART 2",
+    "event_type": "session"
+  },
+  "33D0C7C8-7B1D-4A87-B491-21E54C4B1226": {
+    "id": "33D0C7C8-7B1D-4A87-B491-21E54C4B1226",
+    "title": "A.02.10 ESA Agriculture Science Cluster",
+    "event_type": "session"
+  },
+  "74148780-9100-48D9-9F88-C9BD68683B2C": {
+    "id": "74148780-9100-48D9-9F88-C9BD68683B2C",
+    "title": "A.07.09 ESA Hydrology Science Cluster",
+    "event_type": "session"
+  },
+  "283198FF-B9CC-4149-9B30-D27050999B1B": {
+    "id": "283198FF-B9CC-4149-9B30-D27050999B1B",
+    "title": "D.04.09 HANDS-ON TRAINING - EOEPCA Exploitation Platform Hands-on Deployment and Usage",
+    "event_type": "session"
+  },
+  "D17924E7-6E8C-4758-8112-ECC05D9C5643": {
+    "id": "D17924E7-6E8C-4758-8112-ECC05D9C5643",
+    "title": "B.01.07 TUTORIAL - From Space To Impact: Highlighting Key Elements Of EO Integration In The Processes Of Operational Development Finance",
+    "event_type": "session"
+  },
+  "8287C46A-69FB-4228-955B-E790170B7524": {
+    "id": "8287C46A-69FB-4228-955B-E790170B7524",
+    "title": "B.04.03 Integrating multi-sensor Earth Observation data to improve natural hazard monitoring - PART 1",
+    "event_type": "session"
+  },
+  "794A9785-A5F4-487E-8434-56409617FE01": {
+    "id": "794A9785-A5F4-487E-8434-56409617FE01",
+    "title": "B.04.03 Integrating multi-sensor Earth Observation data to improve natural hazard monitoring - PART 2",
+    "event_type": "session"
+  },
+  "F3A350FC-F2CF-43E1-B68E-082A6ABCA015": {
+    "id": "F3A350FC-F2CF-43E1-B68E-082A6ABCA015",
+    "title": "D.04.08 HANDS-ON TRAINING - EO Data Processing with openEO: transitioning from local to cloud",
+    "event_type": "session"
+  },
+  "CB045A06-FE7B-4812-9794-3ABB079FD76D": {
+    "id": "CB045A06-FE7B-4812-9794-3ABB079FD76D",
+    "title": "E.01.02 Earth Observation in Practise: Linking Public and Commercial Data for Earth Action - PART 2",
+    "event_type": "session"
+  },
+  "7E777DFE-3913-402D-A3EB-E9D772B92D79": {
+    "id": "7E777DFE-3913-402D-A3EB-E9D772B92D79",
+    "title": "E.01.02 Earth Observation in Practise: Linking Public and Commercial Data for Earth Action- PART 1",
+    "event_type": "session"
+  },
+  "03F70CF3-6AE2-4D47-AB64-15D02B7837C3": {
+    "id": "03F70CF3-6AE2-4D47-AB64-15D02B7837C3",
+    "title": "A.01.02 Vertical Coupling in the Whole Atmosphere System",
+    "event_type": "session"
+  },
+  "B06D5E7A-2529-4EE3-9824-F61464197FD9": {
+    "id": "B06D5E7A-2529-4EE3-9824-F61464197FD9",
+    "title": "B.04.08 TUTORIAL - Mapping for Disaster Risk Management: Using UN-SPIDER Recommended Practices and Digital Twin for Effective Flood Hazard Depiction",
+    "event_type": "session"
+  },
+  "EB4B0EC8-751E-4773-A6EC-2BC0CED9EF24": {
+    "id": "EB4B0EC8-751E-4773-A6EC-2BC0CED9EF24",
+    "title": "F.02.02 C- and L-band SAR synergies - ESA-JAXA cooperation and beyond",
+    "event_type": "session"
+  },
+  "1AFC0547-332F-4651-9F99-623401D13B74": {
+    "id": "1AFC0547-332F-4651-9F99-623401D13B74",
+    "title": "A.03.01 Global Carbon Budgets and Earth Observation - PART 1",
+    "event_type": "session"
+  },
+  "4D5BB673-7B08-49AF-ADB4-D0FE83ECB86C": {
+    "id": "4D5BB673-7B08-49AF-ADB4-D0FE83ECB86C",
+    "title": "A.03.01 Global Carbon Budgets and Earth Observation - PART 2",
+    "event_type": "session"
+  },
+  "30C3B102-9A2C-40E6-940F-184A406058DE": {
+    "id": "30C3B102-9A2C-40E6-940F-184A406058DE",
+    "title": "C.04.02 TUTORIAL - EarthCARE sample dataset handling",
+    "event_type": "session"
+  },
+  "340567B4-056B-48AA-9493-D607F4CE948A": {
+    "id": "340567B4-056B-48AA-9493-D607F4CE948A",
+    "title": "Breaking Barriers by Working Together in Earth Science",
+    "event_type": "session"
+  },
+  "CB8B6F91-252F-44D3-8925-5D72AC320D20": {
+    "id": "CB8B6F91-252F-44D3-8925-5D72AC320D20",
+    "title": "Outlook for ESA's Earth Observation programmes - CM25",
+    "event_type": "session"
+  },
+  "1ABEFE26-3141-4C26-9569-7DA8E9BF42C9": {
+    "id": "1ABEFE26-3141-4C26-9569-7DA8E9BF42C9",
+    "title": "C.01.29 Crafting the European Earth Observation Ecosystem 2040+: Needs, Offers, Gaps leading to ideas for a future EO Ecosystem architecture",
+    "event_type": "session"
+  },
+  "F303F7D2-FA25-47ED-9C91-F6FD0E7FC20B": {
+    "id": "F303F7D2-FA25-47ED-9C91-F6FD0E7FC20B",
+    "title": "D.02.14 AI and Earth observation - where to now?",
+    "event_type": "session"
+  },
+  "BFDB6C07-5367-455B-8983-58C0FC1E2424": {
+    "id": "BFDB6C07-5367-455B-8983-58C0FC1E2424",
+    "title": "E.01.04 Co-creating EO-driven solutions with stakeholders: the ESA Green Transition Information Factories (GTIF)",
+    "event_type": "session"
+  },
+  "48BB2D8E-03A1-4D1C-B1DF-696443B5E55D": {
+    "id": "48BB2D8E-03A1-4D1C-B1DF-696443B5E55D",
+    "title": "E.03.02 New approaches to support commercialisation",
+    "event_type": "session"
+  },
+  "2A278837-8498-407B-B485-213DA7BFD6F1": {
+    "id": "2A278837-8498-407B-B485-213DA7BFD6F1",
+    "title": "F.02.19 Austrian Space Cooperation Day - Connectivity & Secure Communications, Navigation, Space Safety",
+    "event_type": "session"
+  },
+  "A4C069A3-FD4D-44BE-8913-F7E88ED8E361": {
+    "id": "A4C069A3-FD4D-44BE-8913-F7E88ED8E361",
+    "title": "F.02.19 Austrian Space Cooperation Day - Earth Observation",
+    "event_type": "session"
+  },
+  "F6F41B47-F4EE-4AC7-A4E7-06824B1713F9": {
+    "id": "F6F41B47-F4EE-4AC7-A4E7-06824B1713F9",
+    "title": "F.02.19 Austrian Space Cooperation Day - Human & Robotic Exploration, Space Transportation",
+    "event_type": "session"
+  },
+  "EB2CD0F5-93BF-4500-843B-39323CC34FDB": {
+    "id": "EB2CD0F5-93BF-4500-843B-39323CC34FDB",
+    "title": "C.05.10 EO National Missions Implemented by ESA - Future Evolution",
+    "event_type": "session"
+  },
+  "725F710B-CA00-4BB4-A59C-ADA4893400A3": {
+    "id": "725F710B-CA00-4BB4-A59C-ADA4893400A3",
+    "title": "D.03.08 Open Science in the Making",
+    "event_type": "session"
+  },
+  "841C68DF-11FD-4081-8B68-73C91FE6299B": {
+    "id": "841C68DF-11FD-4081-8B68-73C91FE6299B",
+    "title": "E.01.09 Space for Energy Sector Transformation, Sustainability, and Resilience",
+    "event_type": "session"
+  },
+  "A2311534-2B9C-4A38-801C-2C1E6A5A27BA": {
+    "id": "A2311534-2B9C-4A38-801C-2C1E6A5A27BA",
+    "title": "E.03.05 Shaping the Future of EO: Digital Systems & Disruptive Public-Private Models",
+    "event_type": "session"
+  },
+  "BD01E3A6-FF41-4202-9D1A-78ABC2E2E476": {
+    "id": "BD01E3A6-FF41-4202-9D1A-78ABC2E2E476",
+    "title": "F.04.26 Towards Operational Greenhouse Gas Monitoring for Policy",
+    "event_type": "session"
+  },
+  "B93850A0-5704-4F51-9E7A-1F2790367855": {
+    "id": "B93850A0-5704-4F51-9E7A-1F2790367855",
+    "title": "A.11.02 Amplifying impact through EO integration in international development finance mechanisms",
+    "event_type": "session"
+  },
+  "2DCE92C7-8A83-478D-89AD-5C491C107E04": {
+    "id": "2DCE92C7-8A83-478D-89AD-5C491C107E04",
+    "title": "F.02.11 Enhancing Earth Observation Uptake in the Philippines and ASEAN Region",
+    "event_type": "session"
+  },
+  "B69998D6-212C-44C7-914E-54433C684D49": {
+    "id": "B69998D6-212C-44C7-914E-54433C684D49",
+    "title": "F.04.31 UNEP ESA Strategic Partnership",
+    "event_type": "session"
+  },
+  "6ED3A6FF-4782-4DBF-B0F9-0AA4B6F2E1CE": {
+    "id": "6ED3A6FF-4782-4DBF-B0F9-0AA4B6F2E1CE",
+    "title": "F.05.07 Women Trailblazers Round Tables - Session 1",
+    "event_type": "session"
+  },
+  "26A7D865-1783-4338-AA3C-166B83B524ED": {
+    "id": "26A7D865-1783-4338-AA3C-166B83B524ED",
+    "title": "A.01.03 - POSTER - Fourier Transform Spectroscopy for Atmospheric Measurements",
+    "event_type": "poster session"
+  },
+  "37BD8EA4-62F5-47AB-8C0F-413CD4D1958C": {
+    "id": "37BD8EA4-62F5-47AB-8C0F-413CD4D1958C",
+    "title": "A.01.05 - POSTER - Ozone and its precursors through the Atmosphere: Advances in understanding and methods",
+    "event_type": "poster session"
+  },
+  "6B51F620-192F-4BAB-96E3-D1EFBE376BEA": {
+    "id": "6B51F620-192F-4BAB-96E3-D1EFBE376BEA",
+    "title": "A.01.08 - POSTER - Planetary Boundary Layer from Space",
+    "event_type": "poster session"
+  },
+  "472D3E0A-EBF2-4748-BAEA-CC2FDCF34239": {
+    "id": "472D3E0A-EBF2-4748-BAEA-CC2FDCF34239",
+    "title": "A.02.02 - POSTER - Terrestrial and Freshwater Biodiversity",
+    "event_type": "poster session"
+  },
+  "E00EE05D-8DE4-4E0F-AC0E-8EB379DE1EA8": {
+    "id": "E00EE05D-8DE4-4E0F-AC0E-8EB379DE1EA8",
+    "title": "A.02.05 - POSTER - Peatland",
+    "event_type": "poster session"
+  },
+  "7175685A-A8C8-48AE-9DAE-72F6E5B22385": {
+    "id": "7175685A-A8C8-48AE-9DAE-72F6E5B22385",
+    "title": "A.03.04 - POSTER - Model-data interfaces and the carbon cycle",
+    "event_type": "poster session"
+  },
+  "E9B32D18-0426-49FD-BF30-A1A7F1B9D55F": {
+    "id": "E9B32D18-0426-49FD-BF30-A1A7F1B9D55F",
+    "title": "A.03.06 - POSTER - Exploring ground-based, airborne and satellite observations and concepts\u202ffor the carbon cycle",
+    "event_type": "poster session"
+  },
+  "20B7C86E-D7E9-4DF5-BB95-CA204B74F2AE": {
+    "id": "20B7C86E-D7E9-4DF5-BB95-CA204B74F2AE",
+    "title": "A.05.01 - POSTER - Using earth observation to assess climate change in cities",
+    "event_type": "poster session"
+  },
+  "0E84AC4B-A5B6-4893-9064-C30C5E6F3E98": {
+    "id": "0E84AC4B-A5B6-4893-9064-C30C5E6F3E98",
+    "title": "A.05.05 - POSTER - Tipping points and abrupt change in the Earth system",
+    "event_type": "poster session"
+  },
+  "8234B45F-C932-41BF-A376-ED8930050463": {
+    "id": "8234B45F-C932-41BF-A376-ED8930050463",
+    "title": "A.05.07 - POSTER -Sea level change from global to coastal scales and causes",
+    "event_type": "poster session"
+  },
+  "A71275BB-5348-4A76-9095-BA56CE24E398": {
+    "id": "A71275BB-5348-4A76-9095-BA56CE24E398",
+    "title": "A.06.01 - POSTER - Geospace dynamics: modelling, coupling and Space Weather",
+    "event_type": "poster session"
+  },
+  "F6E8DA50-35F0-4077-B9B2-460EFED9CD28": {
+    "id": "F6E8DA50-35F0-4077-B9B2-460EFED9CD28",
+    "title": "A.06.02 - POSTER - Enhancing Space Weather Understanding: Insights from LEO Satellite-Based Operational and Pre-Operational Products",
+    "event_type": "poster session"
+  },
+  "18821700-14EC-4981-AB65-E39B50FD2B13": {
+    "id": "18821700-14EC-4981-AB65-E39B50FD2B13",
+    "title": "A.07.07 - POSTER - Advancements in Observation of Physical Snow Parameters",
+    "event_type": "poster session"
+  },
+  "0F6FF952-05B7-4E04-A8BD-AD5FD0867620": {
+    "id": "0F6FF952-05B7-4E04-A8BD-AD5FD0867620",
+    "title": "A.07.08 - POSTER - Global and regional water cycle in the integrated human-Earth system, estimation of hydrological variables and hyper-resolution modelling",
+    "event_type": "poster session"
+  },
+  "2C2D1670-9AE8-4A3D-BCA2-7D7A92B2F839": {
+    "id": "2C2D1670-9AE8-4A3D-BCA2-7D7A92B2F839",
+    "title": "A.08.01 - POSTER- Advances in Swath Altimetry",
+    "event_type": "poster session"
+  },
+  "82389A4B-5AB4-44C0-B4C9-4A2349BBCD4E": {
+    "id": "82389A4B-5AB4-44C0-B4C9-4A2349BBCD4E",
+    "title": "A.08.03 - POSTER - Ocean Salinity",
+    "event_type": "poster session"
+  },
+  "D0B6689A-3D89-4950-93C1-CB477ADCB915": {
+    "id": "D0B6689A-3D89-4950-93C1-CB477ADCB915",
+    "title": "A.08.07 - POSTER - Ocean Health including marine and coastal biodiversity",
+    "event_type": "poster session"
+  },
+  "BE3A0703-D33A-45B4-AE5A-B54B12719460": {
+    "id": "BE3A0703-D33A-45B4-AE5A-B54B12719460",
+    "title": "A.08.12 - POSTER - Advances and applications of sea surface temperature and the Group for High Resolution Sea Surface Temperature",
+    "event_type": "poster session"
+  },
+  "F04A2D11-A598-4F96-92B0-4652E462A8DD": {
+    "id": "F04A2D11-A598-4F96-92B0-4652E462A8DD",
+    "title": "A.09.01 - POSTER - The mountain cryosphere in peril \u2013 improved monitoring of snow and ice in complex terrain to address societal challenges in the face of climate change",
+    "event_type": "poster session"
+  },
+  "5012EE66-8BEA-41D2-8BD3-8B6211474D8F": {
+    "id": "5012EE66-8BEA-41D2-8BD3-8B6211474D8F",
+    "title": "A.09.04 - POSTER - Glaciers - the other pole",
+    "event_type": "poster session"
+  },
+  "AC6F41C1-A674-43D2-85BD-FB188DB9A9C3": {
+    "id": "AC6F41C1-A674-43D2-85BD-FB188DB9A9C3",
+    "title": "A.10.01 - POSTER - EO for Mineralogy Geology and Geomorphology",
+    "event_type": "poster session"
+  },
+  "B90F17D7-A2A1-4DA0-86E9-C9A812864B9D": {
+    "id": "B90F17D7-A2A1-4DA0-86E9-C9A812864B9D",
+    "title": "B.01.02 - POSTER - Earth Observation accelerating Impact in International Development Assistance and Finance",
+    "event_type": "poster session"
+  },
+  "BD717FA0-C305-4B25-96DA-155F41092B54": {
+    "id": "BD717FA0-C305-4B25-96DA-155F41092B54",
+    "title": "B.03.06 - POSTER - Climate, Environment, and Human Health",
+    "event_type": "poster session"
+  },
+  "D60C323C-43FD-44D1-8BF8-DD35BD299085": {
+    "id": "D60C323C-43FD-44D1-8BF8-DD35BD299085",
+    "title": "B.04.01 - POSTER - Satellite based terrain motion mapping for better understanding geohazards",
+    "event_type": "poster session"
+  },
+  "A3FC4D29-9678-4261-8931-2D9A08647661": {
+    "id": "A3FC4D29-9678-4261-8931-2D9A08647661",
+    "title": "B.04.05 - POSTER - Remote sensing for disaster preparedness and response to geo-hazards, hydro-meteorological hazards and man-made disasters",
+    "event_type": "poster session"
+  },
+  "F8D3B242-1734-441E-827F-035F157FA1AE": {
+    "id": "F8D3B242-1734-441E-827F-035F157FA1AE",
+    "title": "C.02.06 - POSTER - Swarm - ESA's extremely versatile magnetic field and geospace explorer",
+    "event_type": "poster session"
+  },
+  "ABE07CA8-ED52-4FFC-BD4F-1F26AC783158": {
+    "id": "ABE07CA8-ED52-4FFC-BD4F-1F26AC783158",
+    "title": "C.02.07 - POSTER - FORUM- ESA's 9th Earth Explorer",
+    "event_type": "poster session"
+  },
+  "94C11BC9-2F63-44FC-9C72-8ACE48490AF2": {
+    "id": "94C11BC9-2F63-44FC-9C72-8ACE48490AF2",
+    "title": "C.05.03 - POSTER - ALTIUS: ESA's Ozone Mission",
+    "event_type": "poster session"
+  },
+  "A5BEA143-F1A6-4337-8A3C-D10F27A6FE72": {
+    "id": "A5BEA143-F1A6-4337-8A3C-D10F27A6FE72",
+    "title": "C.05.04 - POSTER - Landsat Program and Science Applications",
+    "event_type": "poster session"
+  },
+  "3563808A-AFC5-44B8-AA6F-39510D801E94": {
+    "id": "3563808A-AFC5-44B8-AA6F-39510D801E94",
+    "title": "C.06.01 - POSTER - Sentinel-1 mission performance and product evolution",
+    "event_type": "poster session"
+  },
+  "4F5A60E0-75DC-4AA9-9130-A7E14F6C0C90": {
+    "id": "4F5A60E0-75DC-4AA9-9130-A7E14F6C0C90",
+    "title": "C.06.03 - POSTER -Validation of GNSS-RO and GNSS-R observations from small sats",
+    "event_type": "poster session"
+  },
+  "2E9569B1-AC65-4EDF-BA2F-4BC79FECF67F": {
+    "id": "2E9569B1-AC65-4EDF-BA2F-4BC79FECF67F",
+    "title": "C.06.06 - POSTER - Global Digital Elevation Models and geometric reference data",
+    "event_type": "poster session"
+  },
+  "8C0D6D76-5BBF-483E-A404-6395B84FAAAE": {
+    "id": "8C0D6D76-5BBF-483E-A404-6395B84FAAAE",
+    "title": "D.01.01 - POSTER - Collaborative Innovation: building a Digital Twin of the Earth System through Global and Local Partnerships",
+    "event_type": "poster session"
+  },
+  "45669F29-12D7-49DB-AA94-379A6A1A0547": {
+    "id": "45669F29-12D7-49DB-AA94-379A6A1A0547",
+    "title": "D.01.03 - POSTER - Synergies between ESA DTE Programme and DestinE Ecosystem",
+    "event_type": "poster session"
+  },
+  "0D8BF424-9842-41BD-B3C9-5885318CEF8A": {
+    "id": "0D8BF424-9842-41BD-B3C9-5885318CEF8A",
+    "title": "D.01.04 - POSTER - Using Earth Observation to develop Digital Twin Components for the Earth System",
+    "event_type": "poster session"
+  },
+  "929C8B43-C533-4949-B175-61AF38DA0A97": {
+    "id": "929C8B43-C533-4949-B175-61AF38DA0A97",
+    "title": "D.02.11 - POSTER - Super-resolution in Earth Observation: The AI change of paradigm",
+    "event_type": "poster session"
+  },
+  "C530FA18-3260-427D-A235-FCD49B450BC9": {
+    "id": "C530FA18-3260-427D-A235-FCD49B450BC9",
+    "title": "D.03.04 - POSTER - Innovative technologies, tools and strategies for scientific visualisation and outreach",
+    "event_type": "poster session"
+  },
+  "01B99E2F-4EBA-4423-8828-F7D758BF77AC": {
+    "id": "01B99E2F-4EBA-4423-8828-F7D758BF77AC",
+    "title": "F.01.03 - POSTER - Trends in Earth Observation Education and Capacity Building: Embracing Emerging Technologies and Open Innovations",
+    "event_type": "poster session"
+  },
+  "278FABAC-F08B-4F35-B46D-5E09FB8E28F4": {
+    "id": "278FABAC-F08B-4F35-B46D-5E09FB8E28F4",
+    "title": "F.02.01 - POSTER - Harnessing the Power of Remote Sensing for Research and Development in Africa",
+    "event_type": "poster session"
+  },
+  "8223493E-F818-47A6-90C5-7935DE89C918": {
+    "id": "8223493E-F818-47A6-90C5-7935DE89C918",
+    "title": "F.04.03 - POSTER - Desertification, land degradation and soil management",
+    "event_type": "poster session"
+  },
+  "D0DD71AA-1143-4F23-B7EE-D0B555167A70": {
+    "id": "D0DD71AA-1143-4F23-B7EE-D0B555167A70",
+    "title": "F.04.06 - POSTER - Wetlands: from Inventory to Conservation",
+    "event_type": "poster session"
+  },
+  "64D8A53D-4EA4-43A0-AC8E-544D2F4C1310": {
+    "id": "64D8A53D-4EA4-43A0-AC8E-544D2F4C1310",
+    "title": "F.04.20 - POSTER - EO in support of the regulation on Deforestation-free products (EUDR, EU 2023/1115)",
+    "event_type": "poster session"
+  },
+  "4E688777-9B38-4F9E-A673-4D5CF1232080": {
+    "id": "4E688777-9B38-4F9E-A673-4D5CF1232080",
+    "title": "A.01.16 DEMO - How to add your own forward model in the GRASP version 2.0.0 retrieval framework",
+    "event_type": "session"
+  },
+  "B3AC6DBD-2B70-425D-AD0A-82F1E79C2297": {
+    "id": "B3AC6DBD-2B70-425D-AD0A-82F1E79C2297",
+    "title": "A.08.18 DEMO - OVL-NG portals: online web portals for EO data discovery",
+    "event_type": "session"
+  },
+  "2B91FDDD-A41D-455A-AD12-99485FAF0EFD": {
+    "id": "2B91FDDD-A41D-455A-AD12-99485FAF0EFD",
+    "title": "C.01.25 DEMO - DGGS: Scalable Geospatial Data Processing for Earth Observation",
+    "event_type": "session"
+  },
+  "EC6621DF-77EA-42EE-8DCD-6D44901464E1": {
+    "id": "EC6621DF-77EA-42EE-8DCD-6D44901464E1",
+    "title": "C.01.27 DEMO - Sen2Like Tool & data harmonization workflow",
+    "event_type": "session"
+  },
+  "8E75993C-9D58-4703-8207-E79A5A5A7039": {
+    "id": "8E75993C-9D58-4703-8207-E79A5A5A7039",
+    "title": "C.03.21 DEMO - SentiBoard: Your Real-Time Window into Copernicus Operations",
+    "event_type": "session"
+  },
+  "ABC5410E-619E-4E0F-8636-8FE9A01694D1": {
+    "id": "ABC5410E-619E-4E0F-8636-8FE9A01694D1",
+    "title": "C.04.03 DEMO - Handling observations in BUFR format",
+    "event_type": "session"
+  },
+  "F32CF105-1C5E-4245-9657-59E3CBD9B887": {
+    "id": "F32CF105-1C5E-4245-9657-59E3CBD9B887",
+    "title": "C.06.17 DEMO - Pi-MEP: A Comprehensive Platform for Satellite Sea Surface Salinity Validation and Analysis",
+    "event_type": "session"
+  },
+  "C3E255EF-D2A1-4904-86BB-FEA4CFCC6523": {
+    "id": "C3E255EF-D2A1-4904-86BB-FEA4CFCC6523",
+    "title": "D.01.15 DEMO - TourismSquare, monitor and anticipate the practicability of tourist activities according to environmental conditions and climate projections",
+    "event_type": "session"
+  },
+  "45A50D42-EB56-45F7-9033-13598657E4BB": {
+    "id": "45A50D42-EB56-45F7-9033-13598657E4BB",
+    "title": "D.02.25 DEMO - Freedom to apply complex calculations and ML models on EO data",
+    "event_type": "session"
+  },
+  "549609E4-F41D-47A2-A29A-9A406292B167": {
+    "id": "549609E4-F41D-47A2-A29A-9A406292B167",
+    "title": "D.02.26 DEMO - Putting the A.I. in F.A.I.R.: Unlocking Reproducible Machine Learning through openEO",
+    "event_type": "session"
+  },
+  "8FBE8EE3-A847-4E46-9450-A934320CA2B8": {
+    "id": "8FBE8EE3-A847-4E46-9450-A934320CA2B8",
+    "title": "D.03.26 DEMO - The Geo-Quest mobile application: Easy and accurate Earth Observation-enhanced ground data collection",
+    "event_type": "session"
+  },
+  "90EBCC42-812B-470B-BFF9-5AF2A463AF3F": {
+    "id": "90EBCC42-812B-470B-BFF9-5AF2A463AF3F",
+    "title": "D.03.28 DEMO - Lexcube viewer: Interactive Data Cube Visualization \u2013 using Lexcube as standalone or in a Jupyter notebook",
+    "event_type": "session"
+  },
+  "E53DE7A8-4CAF-44AF-823E-E0DEBB810458": {
+    "id": "E53DE7A8-4CAF-44AF-823E-E0DEBB810458",
+    "title": "D.03.31 DEMO - SNAP in Action - Various Application Examples throught the week demonstrating the power of SNAP for EO data visualisation, analysis and processing - session 2",
+    "event_type": "session"
+  },
+  "7A613D5A-F956-41EF-B520-EE0A71549B47": {
+    "id": "7A613D5A-F956-41EF-B520-EE0A71549B47",
+    "title": "D.03.32 DEMO - NASA-ESA-JAXA EO Dashboard",
+    "event_type": "session"
+  },
+  "3FAA3ACF-E200-4197-9052-92D89B65FEE4": {
+    "id": "3FAA3ACF-E200-4197-9052-92D89B65FEE4",
+    "title": "D.03.33 DEMO - RACE Dashboard Demonstration",
+    "event_type": "session"
+  },
+  "E8D71CE6-246F-4734-BD5D-971C4046B714": {
+    "id": "E8D71CE6-246F-4734-BD5D-971C4046B714",
+    "title": "D.03.35 DEMO - Introducing EarthCODE",
+    "event_type": "session"
+  },
+  "2DADBDF8-9908-446F-893C-018EDC40AC62": {
+    "id": "2DADBDF8-9908-446F-893C-018EDC40AC62",
+    "title": "D.04.14 DEMO - ESA WorldCereal: Effortless Crop Mapping from Local to Global Scales",
+    "event_type": "session"
+  },
+  "5E8276F6-A7E0-497C-A30C-0725FBCF3917": {
+    "id": "5E8276F6-A7E0-497C-A30C-0725FBCF3917",
+    "title": "D.04.15 DEMO - Dunia: an all-in-one processing and dissemination platform for EO data over Africa",
+    "event_type": "session"
+  },
+  "DE4EC98D-2B50-403A-8BF6-691894FE71F7": {
+    "id": "DE4EC98D-2B50-403A-8BF6-691894FE71F7",
+    "title": "D.04.17 DEMO - Interactively visualise your project results in Copernicus Browser in no time",
+    "event_type": "session"
+  },
+  "FA5C67D6-FAC1-4783-AC21-152CB740CEDC": {
+    "id": "FA5C67D6-FAC1-4783-AC21-152CB740CEDC",
+    "title": "D.04.19 DEMO - Visualizing Sentinel satellite imagery and data products in desktop GIS with the Copernicus Data Space Ecosystem QGIS Plugin",
+    "event_type": "session"
+  },
+  "4A4ED9F7-1F38-4744-81F8-A88850085FB4": {
+    "id": "4A4ED9F7-1F38-4744-81F8-A88850085FB4",
+    "title": "D.04.24 DEMO - Streamlining Snow monitoring with openEO and CDSE",
+    "event_type": "session"
+  },
+  "D2B83C30-2CAB-4D47-BB47-79D05CE5A271": {
+    "id": "D2B83C30-2CAB-4D47-BB47-79D05CE5A271",
+    "title": "D.04.26 DEMO - Accessing Copernicus Contributing Missions, Copernicus Services and other complementary data using CDSE APIs: OData, STAC, S3, OGC, openEO",
+    "event_type": "session"
+  },
+  "41BBA9F1-C53D-4276-8EBC-1350ECD1D840": {
+    "id": "41BBA9F1-C53D-4276-8EBC-1350ECD1D840",
+    "title": "D.04.28 DEMO - Exploring Copernicus Sentinel Data in the New EOPF-Zarr Format",
+    "event_type": "session"
+  },
+  "F4A236FB-9800-48D1-AD12-AE411634B81C": {
+    "id": "F4A236FB-9800-48D1-AD12-AE411634B81C",
+    "title": "D.04.31 DEMO - NoR Updates and Road Map - session 2",
+    "event_type": "session"
+  },
+  "BB225C76-10E0-465B-9639-F8E35B87C552": {
+    "id": "BB225C76-10E0-465B-9639-F8E35B87C552",
+    "title": "C.02.07 FORUM- ESA's 9th Earth Explorer",
+    "event_type": "session"
+  },
+  "A0369079-7496-4480-8183-7D784B2129AC": {
+    "id": "A0369079-7496-4480-8183-7D784B2129AC",
+    "title": "C.03.07 The Copernicus Sentinel Expansion missions development: status and challenges - PART 1",
+    "event_type": "session"
+  },
+  "0B47FEC9-E459-49F1-B6F8-6271A80B68D3": {
+    "id": "0B47FEC9-E459-49F1-B6F8-6271A80B68D3",
+    "title": "C.03.07 The Copernicus Sentinel Expansion missions development: status and challenges - PART 2",
+    "event_type": "session"
+  },
+  "AC22C21B-CC54-4143-9E56-2744457B84D7": {
+    "id": "AC22C21B-CC54-4143-9E56-2744457B84D7",
+    "title": "C.03.07 The Copernicus Sentinels: from first to Next Generation missions - development status and technology challenges",
+    "event_type": "session"
+  },
+  "12974211-AA87-43DE-9950-EA7865A6C67B": {
+    "id": "12974211-AA87-43DE-9950-EA7865A6C67B",
+    "title": "A.06.01 Geospace dynamics: modelling, coupling and Space Weather - PART 1",
+    "event_type": "session"
+  },
+  "3BD77C3B-D69E-4DC2-A326-7EDBEEEB0B42": {
+    "id": "3BD77C3B-D69E-4DC2-A326-7EDBEEEB0B42",
+    "title": "A.06.01 Geospace dynamics: modelling, coupling and Space Weather - PART 2",
+    "event_type": "session"
+  },
+  "7D3AC9C7-29E4-4940-BDED-858AB24CD7EB": {
+    "id": "7D3AC9C7-29E4-4940-BDED-858AB24CD7EB",
+    "title": "A.06.02 Enhancing Space Weather Understanding: Insights from LEO Satellite-Based Operational and Pre-Operational Products",
+    "event_type": "session"
+  },
+  "47ABA3D9-E86D-4430-B3F2-AC76549690BD": {
+    "id": "47ABA3D9-E86D-4430-B3F2-AC76549690BD",
+    "title": "C.02.06 Swarm - ESA's extremely versatile magnetic field and geospace explorer",
+    "event_type": "session"
+  },
+  "9E5F4CD9-B9CA-474B-A729-D26EA18A1B53": {
+    "id": "9E5F4CD9-B9CA-474B-A729-D26EA18A1B53",
+    "title": "C.03.11 Sentinel-1 Mission: Sentinel-1C In-Orbit Commissioning Phase Results and beyond",
+    "event_type": "session"
+  },
+  "C7320613-600B-4AA3-B508-683030217ABF": {
+    "id": "C7320613-600B-4AA3-B508-683030217ABF",
+    "title": "C.03.12 Sentinel-1 Mission: Advances in Remote Sensing After a Decade in Space",
+    "event_type": "session"
+  },
+  "967A3D9B-1721-4D33-8F0D-3DA56FCF2836": {
+    "id": "967A3D9B-1721-4D33-8F0D-3DA56FCF2836",
+    "title": "C.03.13 Sentinel-1C Preliminary User Assessment: Early Insights and Feedback from the Community",
+    "event_type": "session"
+  },
+  "39CB74D7-6426-4631-9AD0-31F7E36EDD11": {
+    "id": "39CB74D7-6426-4631-9AD0-31F7E36EDD11",
+    "title": "C.06.01 Sentinel-1 mission performance and product evolution",
+    "event_type": "session"
+  },
+  "E261C5F7-C91F-46B8-B3E2-6BFAFF18A5C6": {
+    "id": "E261C5F7-C91F-46B8-B3E2-6BFAFF18A5C6",
+    "title": "A.02.03 EO for Agriculture Under Pressure - PART 3",
+    "event_type": "session"
+  },
+  "FC8A0B85-4885-452B-8CF3-720835DCFAB6": {
+    "id": "FC8A0B85-4885-452B-8CF3-720835DCFAB6",
+    "title": "A.02.03 EO for Agriculture Under Pressure - PART 4",
+    "event_type": "session"
+  },
+  "B1DAE729-4AC3-4726-BA9F-7DFE6330344C": {
+    "id": "B1DAE729-4AC3-4726-BA9F-7DFE6330344C",
+    "title": "A.02.03 EO for Agriculture Under Pressure - PART 5",
+    "event_type": "session"
+  },
+  "936E352B-093E-4CF1-9AB9-FB92AF8384C8": {
+    "id": "936E352B-093E-4CF1-9AB9-FB92AF8384C8",
+    "title": "A.02.03 EO for Agriculture Under Pressure - PART 6",
+    "event_type": "session"
+  },
+  "7A5C23C3-DB7A-45C0-9F53-124F60E05F78": {
+    "id": "7A5C23C3-DB7A-45C0-9F53-124F60E05F78",
+    "title": "C.03.08 The European Copernicus Space component: status, future prospects and challenges - PART 1",
+    "event_type": "session"
+  },
+  "C59522F3-DA4D-4958-99D0-8EC95E600E2C": {
+    "id": "C59522F3-DA4D-4958-99D0-8EC95E600E2C",
+    "title": "C.03.08 The European Copernicus Space component: status, future prospects and challenges - PART 2",
+    "event_type": "session"
+  },
+  "CC42A0AA-FD60-429C-8786-9B7307B62FEF": {
+    "id": "CC42A0AA-FD60-429C-8786-9B7307B62FEF",
+    "title": "D.02.11 Super-resolution in Earth Observation: The AI change of paradigm",
+    "event_type": "session"
+  },
+  "BF75B739-B334-4BB9-8EAC-AD3BA93A5269": {
+    "id": "BF75B739-B334-4BB9-8EAC-AD3BA93A5269",
+    "title": "D.02.13 AI-based Methods for EO data compression",
+    "event_type": "session"
+  },
+  "8D4AF809-7C17-47A1-8974-6AFCFC8A5E3A": {
+    "id": "8D4AF809-7C17-47A1-8974-6AFCFC8A5E3A",
+    "title": "A.05.07 Sea level change from global to coastal scales and causes",
+    "event_type": "session"
+  },
+  "0C12CD24-EC42-4A29-8CB2-007097BA2117": {
+    "id": "0C12CD24-EC42-4A29-8CB2-007097BA2117",
+    "title": "A.08.01 Advances in Swath Altimetry - PART 1",
+    "event_type": "session"
+  },
+  "12D5ED2C-1B1F-4BD6-9AB2-232515AE2EBA": {
+    "id": "12D5ED2C-1B1F-4BD6-9AB2-232515AE2EBA",
+    "title": "A.08.01 Advances in Swath Altimetry - PART 2",
+    "event_type": "session"
+  },
+  "7F51E189-0283-4274-A4AB-2503D88A7134": {
+    "id": "7F51E189-0283-4274-A4AB-2503D88A7134",
+    "title": "A.08.01 Advances in Swath Altimetry - PART 3",
+    "event_type": "session"
+  },
+  "92924265-9E1B-4665-AC62-7837ABB46146": {
+    "id": "92924265-9E1B-4665-AC62-7837ABB46146",
+    "title": "D.01.01 Collaborative Innovation: building a Digital Twin of the Earth System through Global and Local Partnerships",
+    "event_type": "session"
+  },
+  "0942B93B-C79B-4787-8024-67A550843686": {
+    "id": "0942B93B-C79B-4787-8024-67A550843686",
+    "title": "D.01.03 Synergies between ESA DTE Programme and DestinE Ecosystem",
+    "event_type": "session"
+  },
+  "3460492C-8DAD-4CCE-9446-275DCC9DFB5E": {
+    "id": "3460492C-8DAD-4CCE-9446-275DCC9DFB5E",
+    "title": "D.01.04 Using Earth Observation to develop Digital Twin Components for the Earth System - PART 1",
+    "event_type": "session"
+  },
+  "436839D2-0996-4F67-AD4B-163451E715D6": {
+    "id": "436839D2-0996-4F67-AD4B-163451E715D6",
+    "title": "D.01.04 Using Earth Observation to develop Digital Twin Components for the Earth System - PART 2",
+    "event_type": "session"
+  },
+  "FD479848-3315-4494-9E99-F8E0C4E8C91E": {
+    "id": "FD479848-3315-4494-9E99-F8E0C4E8C91E",
+    "title": "B.04.01 Satellite based terrain motion mapping for better understanding geohazards. - PART 1",
+    "event_type": "session"
+  },
+  "B9445891-69EA-4EF3-BA87-C94BE8174466": {
+    "id": "B9445891-69EA-4EF3-BA87-C94BE8174466",
+    "title": "B.04.01 Satellite based terrain motion mapping for better understanding geohazards. - PART 2",
+    "event_type": "session"
+  },
+  "37A0DA3A-AEDA-4A9C-BFA3-570885370644": {
+    "id": "37A0DA3A-AEDA-4A9C-BFA3-570885370644",
+    "title": "B.04.05 Remote sensing for disaster preparedness and response to geo-hazards, hydro-meteorological hazards and man-made disasters - PART 1",
+    "event_type": "session"
+  },
+  "1D2B6A1E-D1CD-43CB-AB07-DB9417CE8276": {
+    "id": "1D2B6A1E-D1CD-43CB-AB07-DB9417CE8276",
+    "title": "B.04.05 Remote sensing for disaster preparedness and response to geo-hazards, hydro-meteorological hazards and man-made disasters - PART 2",
+    "event_type": "session"
+  },
+  "6054D218-1DE5-49FE-8D15-E1E75B4A1BB2": {
+    "id": "6054D218-1DE5-49FE-8D15-E1E75B4A1BB2",
+    "title": "C.05.04 Landsat Program and Science Applications",
+    "event_type": "session"
+  },
+  "45FF88C5-BA4F-4D74-B20B-1FA7A1172FB6": {
+    "id": "45FF88C5-BA4F-4D74-B20B-1FA7A1172FB6",
+    "title": "F.02.09 The Space for Climate Observatory Initiative: accelerating the deployment of digital solutions for climate change adaptation",
+    "event_type": "session"
+  },
+  "9DC7A223-55A7-4890-B450-C5564C3106DD": {
+    "id": "9DC7A223-55A7-4890-B450-C5564C3106DD",
+    "title": "F.02.16 GFOI Session on Tropical Forest Monitoring",
+    "event_type": "session"
+  },
+  "8D80C9B1-0729-46CE-AE49-299C528F937B": {
+    "id": "8D80C9B1-0729-46CE-AE49-299C528F937B",
+    "title": "F.05.10 50 Years of ESA/100 year Roy Gibson, Session - Roy Gibson - The Golden Age of EO",
+    "event_type": "session"
+  },
+  "82756A9B-C856-4A23-B052-FDA48EA8FDE7": {
+    "id": "82756A9B-C856-4A23-B052-FDA48EA8FDE7",
+    "title": "C.05.06 Status ESA Mission development: National Programmes managed by ESA - PART 1",
+    "event_type": "session"
+  },
+  "63CA64B5-67EC-4437-98C5-07A5BE50026A": {
+    "id": "63CA64B5-67EC-4437-98C5-07A5BE50026A",
+    "title": "C.05.06 Status ESA Mission development: National Programmes managed by ESA - PART 2",
+    "event_type": "session"
+  },
+  "35DD12E4-1320-4B98-B4E0-37E08ED4DF9B": {
+    "id": "35DD12E4-1320-4B98-B4E0-37E08ED4DF9B",
+    "title": "C.05.07 EO National Missions and Programmes",
+    "event_type": "session"
+  },
+  "5FFE20BF-3462-4506-96E7-30CCB5D273D3": {
+    "id": "5FFE20BF-3462-4506-96E7-30CCB5D273D3",
+    "title": "C.05.09 EO National Missions Implemented by ESA - Setting the Scene",
+    "event_type": "session"
+  },
+  "48E4C984-9C36-4307-BAFF-BD412D920390": {
+    "id": "48E4C984-9C36-4307-BAFF-BD412D920390",
+    "title": "A.05.05 Tipping points and abrupt change in the Earth system",
+    "event_type": "session"
+  },
+  "30A6B8BB-94ED-4B9E-A770-C16C46B6DA28": {
+    "id": "30A6B8BB-94ED-4B9E-A770-C16C46B6DA28",
+    "title": "D.03.04 Innovative technologies, tools and strategies for scientific visualisation and outreach",
+    "event_type": "session"
+  },
+  "235860C5-936E-4987-82CD-EDBC939634C7": {
+    "id": "235860C5-936E-4987-82CD-EDBC939634C7",
+    "title": "F.01.03 Trends in Earth Observation Education and Capacity Building: Embracing Emerging Technologies and Open Innovations - PART 1",
+    "event_type": "session"
+  },
+  "9A09988D-DD40-4811-B847-1400B84AA4CB": {
+    "id": "9A09988D-DD40-4811-B847-1400B84AA4CB",
+    "title": "F.01.03 Trends in Earth Observation Education and Capacity Building: Embracing Emerging Technologies and Open Innovations - PART 2",
+    "event_type": "session"
+  },
+  "83FE09DD-1FD0-4620-A5D8-2C51C9C016A1": {
+    "id": "83FE09DD-1FD0-4620-A5D8-2C51C9C016A1",
+    "title": "D.05.05 CDSE User Review Meeting - Navigating the Copernicus Data Galaxy: Insights and Innovations from the Copernicus Data Space Ecosystem",
+    "event_type": "session"
+  },
+  "1790DAC5-0BC3-47BC-8106-C2A23C24F402": {
+    "id": "1790DAC5-0BC3-47BC-8106-C2A23C24F402",
+    "title": "D.05.05 CDSE User Review Meeting - Annual User Review: Co-Creating the Copernicus Data Space Ecosystem",
+    "event_type": "session"
+  },
+  "CD214E54-9A0A-4BEA-9B11-563FB58295E5": {
+    "id": "CD214E54-9A0A-4BEA-9B11-563FB58295E5",
+    "title": "D.05.05 CDSE User Review Meeting - Becoming Part of the Copernicus Data Space Ecosystem: Opportunities, Collaboration, and Community Guidelines",
+    "event_type": "session"
+  },
+  "8937B317-45FA-46EF-BBDA-DE260CD6541A": {
+    "id": "8937B317-45FA-46EF-BBDA-DE260CD6541A",
+    "title": "D.05.05 CDSE User Review Meeting - User Innovations in Action",
+    "event_type": "session"
+  },
+  "F9B75141-41B7-4C8C-86D9-01A687E4B4BE": {
+    "id": "F9B75141-41B7-4C8C-86D9-01A687E4B4BE",
+    "title": "A.01.05 Ozone and its precursors through the Atmosphere: Advances in understanding and methods",
+    "event_type": "session"
+  },
+  "0A5E32B1-33FB-4AC1-98EF-E7BB0BE296EB": {
+    "id": "0A5E32B1-33FB-4AC1-98EF-E7BB0BE296EB",
+    "title": "A.01.08 Planetary Boundary Layer from Space",
+    "event_type": "session"
+  },
+  "FE5D03D4-30D2-4194-8B8B-3ED29F1BE021": {
+    "id": "FE5D03D4-30D2-4194-8B8B-3ED29F1BE021",
+    "title": "A.01.10 Copernicus Sentinel-5P 7.5 Years in Orbit: Mission Status",
+    "event_type": "session"
+  },
+  "2EA05A64-1507-48C7-B0F1-9A49F8621A17": {
+    "id": "2EA05A64-1507-48C7-B0F1-9A49F8621A17",
+    "title": "C.05.03 ALTIUS: ESA's Ozone Mission",
+    "event_type": "session"
+  },
+  "5FB8049A-E383-4BD5-8424-F89ADFC86511": {
+    "id": "5FB8049A-E383-4BD5-8424-F89ADFC86511",
+    "title": "A.01.12 EE9 FORUM - WHAFFFERS campaign networking event",
+    "event_type": "session"
+  },
+  "E782EEDC-62FF-4D47-AC9B-BF2755A7F84E": {
+    "id": "E782EEDC-62FF-4D47-AC9B-BF2755A7F84E",
+    "title": "A.08.13 Multiple stressors on Ocean Health and Marine Biodiversity: Lessons Learned and Path Forward",
+    "event_type": "session"
+  },
+  "F48CDF3A-A5B7-4D91-98E7-CE795E16FA46": {
+    "id": "F48CDF3A-A5B7-4D91-98E7-CE795E16FA46",
+    "title": "F.05.05 Copernicus4regions: meet the community of the Copernicus regional and local users and providers",
+    "event_type": "session"
+  },
+  "FBF17C9B-D3C2-4206-8555-4E114E003651": {
+    "id": "FBF17C9B-D3C2-4206-8555-4E114E003651",
+    "title": "F.05.09 Case Studies on the Economic Impacts of Earth Observation",
+    "event_type": "session"
+  },
+  "92C37E3B-E821-4D32-870D-15A554611B00": {
+    "id": "92C37E3B-E821-4D32-870D-15A554611B00",
+    "title": "A.08.03 Ocean Salinity",
+    "event_type": "session"
+  },
+  "32FA8872-FD3C-4E6C-B1D9-2B66E42A6BB3": {
+    "id": "32FA8872-FD3C-4E6C-B1D9-2B66E42A6BB3",
+    "title": "A.08.07 Ocean Health including marine and coastal biodiversity - PART 1",
+    "event_type": "session"
+  },
+  "97CF6BE7-42BE-4D51-AA8E-00DC0CB2FE79": {
+    "id": "97CF6BE7-42BE-4D51-AA8E-00DC0CB2FE79",
+    "title": "A.08.07 Ocean Health including marine and coastal biodiversity - PART 2",
+    "event_type": "session"
+  },
+  "7EF92A2F-C2B8-4A52-925C-E0CCC969CBC0": {
+    "id": "7EF92A2F-C2B8-4A52-925C-E0CCC969CBC0",
+    "title": "A.08.12 Advances and applications of sea surface temperature and the Group for High Resolution Sea Surface Temperature",
+    "event_type": "session"
+  },
+  "557465F2-8ABC-4D11-BCD6-85642B9DE3CD": {
+    "id": "557465F2-8ABC-4D11-BCD6-85642B9DE3CD",
+    "title": "A.05.01 Using earth observation to assess climate change in cities",
+    "event_type": "session"
+  },
+  "44730450-EEB5-49D1-B1CC-2BE27B12C860": {
+    "id": "44730450-EEB5-49D1-B1CC-2BE27B12C860",
+    "title": "B.03.06 Climate, Environment, and Human Health - PART 1",
+    "event_type": "session"
+  },
+  "B4954E8E-888F-4D9E-A4FC-593F4ABA5B38": {
+    "id": "B4954E8E-888F-4D9E-A4FC-593F4ABA5B38",
+    "title": "B.03.06 Climate, Environment, and Human Health - PART 2",
+    "event_type": "session"
+  },
+  "0E4BDA59-3187-4747-B073-A2EE9FD56F47": {
+    "id": "0E4BDA59-3187-4747-B073-A2EE9FD56F47",
+    "title": "B.03.06 Climate, Environment, and Human Health - PART 3",
+    "event_type": "session"
+  },
+  "89462D71-8D0F-44C2-AFDA-8617D1AD0442": {
+    "id": "89462D71-8D0F-44C2-AFDA-8617D1AD0442",
+    "title": "A.02.02 Terrestrial and Freshwater Biodiversity - PART 1",
+    "event_type": "session"
+  },
+  "8E0F6572-F9F3-40F7-B09E-4E6572AAD21F": {
+    "id": "8E0F6572-F9F3-40F7-B09E-4E6572AAD21F",
+    "title": "A.02.02 Terrestrial and Freshwater Biodiversity - PART 2",
+    "event_type": "session"
+  },
+  "EDF65A25-48B6-4C78-8165-F8987DA1C26F": {
+    "id": "EDF65A25-48B6-4C78-8165-F8987DA1C26F",
+    "title": "A.02.02 Terrestrial and Freshwater Biodiversity - PART 3",
+    "event_type": "session"
+  },
+  "45F1C426-13E5-4F06-B1AF-E8434E5F48CE": {
+    "id": "45F1C426-13E5-4F06-B1AF-E8434E5F48CE",
+    "title": "A.02.05 Peatland",
+    "event_type": "session"
+  },
+  "7F9CD532-E2D1-4174-863F-B873504D851E": {
+    "id": "7F9CD532-E2D1-4174-863F-B873504D851E",
+    "title": "A.03.07 The ESA-NASA Carbon Budget Reconciliation Challenge",
+    "event_type": "session"
+  },
+  "266FD624-55CE-4D23-B9F6-458593D3A2A7": {
+    "id": "266FD624-55CE-4D23-B9F6-458593D3A2A7",
+    "title": "A.10.01 EO for Mineralogy Geology and Geomorphology",
+    "event_type": "session"
+  },
+  "E2C56B42-F9D8-4C67-82DD-49199E0E9A4B": {
+    "id": "E2C56B42-F9D8-4C67-82DD-49199E0E9A4B",
+    "title": "F.02.01 Harnessing the Power of Remote Sensing for Research and Development in Africa",
+    "event_type": "session"
+  },
+  "DD28D496-9C21-4854-B5C6-F447FD468A94": {
+    "id": "DD28D496-9C21-4854-B5C6-F447FD468A94",
+    "title": "F.04.32 Toward an Aquatic Carbon Roadmap as a key integrated contribution to the GST",
+    "event_type": "session"
+  },
+  "24966922-7BF1-437A-9995-97FF75110FC6": {
+    "id": "24966922-7BF1-437A-9995-97FF75110FC6",
+    "title": "A.01.03 Fourier Transform Spectroscopy for Atmospheric Measurements",
+    "event_type": "session"
+  },
+  "B07201AD-5DCD-45E2-88B7-246D2CAFC035": {
+    "id": "B07201AD-5DCD-45E2-88B7-246D2CAFC035",
+    "title": "A.07.08 Global and regional water cycle in the integrated human-Earth system, estimation of hydrological variables and hyper-resolution modelling - PART 1",
+    "event_type": "session"
+  },
+  "737098C8-530A-4380-A895-4C333994FBC0": {
+    "id": "737098C8-530A-4380-A895-4C333994FBC0",
+    "title": "A.07.08 Global and regional water cycle in the integrated human-Earth system, estimation of hydrological variables and hyper-resolution modelling - PART 2",
+    "event_type": "session"
+  },
+  "F0A8CE7C-EB78-4125-83C1-238854B7B340": {
+    "id": "F0A8CE7C-EB78-4125-83C1-238854B7B340",
+    "title": "F.04.06 Wetlands: from Inventory to Conservation",
+    "event_type": "session"
+  },
+  "1560786C-E6E2-43D2-83A0-3D81BFC41D67": {
+    "id": "1560786C-E6E2-43D2-83A0-3D81BFC41D67",
+    "title": "A.09.04 Glaciers - the other pole - PART 1",
+    "event_type": "session"
+  },
+  "3DAB21A9-E58C-427F-BA2F-C935DCC7691D": {
+    "id": "3DAB21A9-E58C-427F-BA2F-C935DCC7691D",
+    "title": "A.09.04 Glaciers - the other pole - PART 2",
+    "event_type": "session"
+  },
+  "9064313F-7890-4F51-ADF7-2C6CEE245DDA": {
+    "id": "9064313F-7890-4F51-ADF7-2C6CEE245DDA",
+    "title": "C.01.17 Creating the Perfect Bouquet of Innovation: Designing the Next EO Technology Demonstration Mission - Part 2",
+    "event_type": "session"
+  },
+  "04D97076-4D6E-4FA9-8EAF-AF96B6F16098": {
+    "id": "04D97076-4D6E-4FA9-8EAF-AF96B6F16098",
+    "title": "F.02.12 Achieving EO uptake in Latin America and Caribbean through partnerships",
+    "event_type": "session"
+  },
+  "85CFF0EA-EEF7-490F-AB1A-8309C92D4FCE": {
+    "id": "85CFF0EA-EEF7-490F-AB1A-8309C92D4FCE",
+    "title": "A.03.04 Model-data interfaces and the carbon cycle",
+    "event_type": "session"
+  },
+  "41F4DDDA-47E1-4AFA-A5CA-891D954123A4": {
+    "id": "41F4DDDA-47E1-4AFA-A5CA-891D954123A4",
+    "title": "C.06.03 Validation of GNSS-RO and GNSS-R observations from small sats",
+    "event_type": "session"
+  },
+  "29AA84DC-ECD7-4848-8403-DB0530068960": {
+    "id": "29AA84DC-ECD7-4848-8403-DB0530068960",
+    "title": "C.06.06 Global Digital Elevation Models and geometric reference data",
+    "event_type": "session"
+  },
+  "7B58430B-ACDE-4B4D-9BED-92BF981C3207": {
+    "id": "7B58430B-ACDE-4B4D-9BED-92BF981C3207",
+    "title": "F.02.13 International Cooperation in Spaceborne Imaging Spectroscopy",
+    "event_type": "session"
+  },
+  "E366ADF0-7695-44AE-8F31-367F18FCF1F4": {
+    "id": "E366ADF0-7695-44AE-8F31-367F18FCF1F4",
+    "title": "A.03.06 Exploring ground-based, airborne and satellite observations and concepts\u202ffor the carbon cycle",
+    "event_type": "session"
+  },
+  "A9E20134-C56E-49C1-AA1D-AD7029C5A147": {
+    "id": "A9E20134-C56E-49C1-AA1D-AD7029C5A147",
+    "title": "F.04.03 Desertification, land degradation and soil management",
+    "event_type": "session"
+  },
+  "DACFE14A-66AA-4182-BAEA-98DCF53F8557": {
+    "id": "DACFE14A-66AA-4182-BAEA-98DCF53F8557",
+    "title": "F.04.20 EO in support of the regulation on Deforestation-free products (EUDR, EU 2023/1115) - PART 1.",
+    "event_type": "session"
+  },
+  "AAD67A95-7052-4093-B276-111453337445": {
+    "id": "AAD67A95-7052-4093-B276-111453337445",
+    "title": "F.04.20 EO in support of the regulation on Deforestation-free products (EUDR, EU 2023/1115) - PART 2.",
+    "event_type": "session"
+  },
+  "DFB755AB-8664-49B1-B65C-0CDE30C32017": {
+    "id": "DFB755AB-8664-49B1-B65C-0CDE30C32017",
+    "title": "A.07.07 Advancements in Observation of Physical Snow Parameters",
+    "event_type": "session"
+  },
+  "51255D22-B6B9-4FFD-8370-2262A83CDDCA": {
+    "id": "51255D22-B6B9-4FFD-8370-2262A83CDDCA",
+    "title": "A.09.01 The mountain cryosphere in peril \u2013 improved monitoring of snow and ice in complex terrain to address societal challenges in the face of climate change",
+    "event_type": "session"
+  },
+  "452A2F75-75E9-48B9-A3B4-2208FAC74D28": {
+    "id": "452A2F75-75E9-48B9-A3B4-2208FAC74D28",
+    "title": "B.01.02 Earth Observation accelerating Impact in International Development Assistance and Finance - PART 1",
+    "event_type": "session"
+  },
+  "C3E2BABF-89EF-4B9D-B1FD-73A609416682": {
+    "id": "C3E2BABF-89EF-4B9D-B1FD-73A609416682",
+    "title": "B.01.02 Earth Observation accelerating Impact in International Development Assistance and Finance - PART 2",
+    "event_type": "session"
+  },
+  "272CF21B-7042-4F53-B186-383EFC384E91": {
+    "id": "272CF21B-7042-4F53-B186-383EFC384E91",
+    "title": "The Global Crisis and Earth Action",
+    "event_type": "session"
+  },
+  "50CFB42C-7B03-4A2F-9F2A-8495C536E6FC": {
+    "id": "50CFB42C-7B03-4A2F-9F2A-8495C536E6FC",
+    "title": "A.05.08 Europe\u2019s capacity for climate monitoring, prediction and services: the Earth Observation perspective",
+    "event_type": "session"
+  },
+  "37E7C260-5487-4ACC-91B1-ADBEF15607B5": {
+    "id": "37E7C260-5487-4ACC-91B1-ADBEF15607B5",
+    "title": "A.05.12 Joint EC-ESA Earth System Science Initiative: Joining forces to",
+    "event_type": "session"
+  },
+  "31B709B8-1376-4F1C-BEBA-BE407DED7AF3": {
+    "id": "31B709B8-1376-4F1C-BEBA-BE407DED7AF3",
+    "title": "C.03.17 Exploring New Radar Altimetry Products from Sentinel-3 for Inland Water Monitoring",
+    "event_type": "session"
+  },
+  "08EB8F04-D3F6-4193-A4BC-02F9186C0397": {
+    "id": "08EB8F04-D3F6-4193-A4BC-02F9186C0397",
+    "title": "F.01.06 Earth Observation for Everyone: Creating an Inclusive Sector Together",
+    "event_type": "session"
+  },
+  "6E4A4EC9-04AA-4BDE-AE7B-4F5C0DCAD1E8": {
+    "id": "6E4A4EC9-04AA-4BDE-AE7B-4F5C0DCAD1E8",
+    "title": "F.01.07 LPS25 Sustainable Horizons Award",
+    "event_type": "session"
+  },
+  "890123BE-8F7F-4551-9F8D-08F1ED470100": {
+    "id": "890123BE-8F7F-4551-9F8D-08F1ED470100",
+    "title": "F.01.17 ArtEO \u2013 methods and benefits of building bridges between art and Earth sciences",
+    "event_type": "session"
+  },
+  "558C2B41-CBAD-4118-9D7C-20E18C790F6E": {
+    "id": "558C2B41-CBAD-4118-9D7C-20E18C790F6E",
+    "title": "B.01.04 Accelerating efforts of global Climate Finance with EO \u2013 how ESA is partnering with the multilateral climate funds",
+    "event_type": "session"
+  },
+  "D21A0DFF-E194-4287-AAF9-035B145E1102": {
+    "id": "D21A0DFF-E194-4287-AAF9-035B145E1102",
+    "title": "C.02.24 FutureEO, Pioneering world-class Earth Observation for the benefits of society - Status and Future Prospects",
+    "event_type": "session"
+  },
+  "4964E15F-3692-4E3B-86CF-9E5466D52B96": {
+    "id": "4964E15F-3692-4E3B-86CF-9E5466D52B96",
+    "title": "F.01.09 EO award ceremony",
+    "event_type": "session"
+  },
+  "8D754C83-31F1-4DAA-8EB7-6ABFEF79F193": {
+    "id": "8D754C83-31F1-4DAA-8EB7-6ABFEF79F193",
+    "title": "F.01.10 Grand Marathon Finalists pitching and award",
+    "event_type": "session"
+  },
+  "2A71136F-7333-4B7A-9D0B-B18EABFC306A": {
+    "id": "2A71136F-7333-4B7A-9D0B-B18EABFC306A",
+    "title": "A.05.13 Delivering Sustained Mode Climate Forcings \u2013 the Critical Role of Earth Observations",
+    "event_type": "session"
+  },
+  "22D026F3-B0B0-43D4-A363-13ADD183B2FF": {
+    "id": "22D026F3-B0B0-43D4-A363-13ADD183B2FF",
+    "title": "B.01.05 Integrated global climate observations: in-situ global terrestrial networks and their sustainability",
+    "event_type": "session"
+  },
+  "9526AECF-E9E3-4BBA-B429-BEC4FDE7D058": {
+    "id": "9526AECF-E9E3-4BBA-B429-BEC4FDE7D058",
+    "title": "C.03.19 The future evolution of the Copernicus services",
+    "event_type": "session"
+  },
+  "173BEBD9-C545-4027-A2BE-8B9D1EA76357": {
+    "id": "173BEBD9-C545-4027-A2BE-8B9D1EA76357",
+    "title": "F.05.07 Women Trailblazers Round Tables - Session 2",
+    "event_type": "session"
+  },
+  "EF82BE1A-78F2-4502-82F5-72BE908804DC": {
+    "id": "EF82BE1A-78F2-4502-82F5-72BE908804DC",
+    "title": "A.02.06 - POSTER - Advances in land surface phenology monitoring and applications",
+    "event_type": "poster session"
+  },
+  "98DF16AA-1D18-4CED-A5E2-625315884795": {
+    "id": "98DF16AA-1D18-4CED-A5E2-625315884795",
+    "title": "A.02.08 - POSTER - Impacts of fire in the Earth system",
+    "event_type": "poster session"
+  },
+  "F24624B2-C4E4-4A63-83AF-647E3E7C52F1": {
+    "id": "F24624B2-C4E4-4A63-83AF-647E3E7C52F1",
+    "title": "A.03.05 - POSTER - Opportunities and challenges for global monitoring of photosynthesis from space",
+    "event_type": "poster session"
+  },
+  "12C771CD-19BC-4560-BF7F-2784A4BCB90E": {
+    "id": "12C771CD-19BC-4560-BF7F-2784A4BCB90E",
+    "title": "A.04.01 - POSTER - Estimating and observing local-scale GHG emissions",
+    "event_type": "poster session"
+  },
+  "DC364D93-AB0A-484B-B17B-1ACCC5347446": {
+    "id": "DC364D93-AB0A-484B-B17B-1ACCC5347446",
+    "title": "A.04.03 - POSTER - Monitoring Greenhouse Gases from Space - Methods and Validation",
+    "event_type": "poster session"
+  },
+  "8B929374-8F0D-4E36-8409-B6AFFBAAD6C4": {
+    "id": "8B929374-8F0D-4E36-8409-B6AFFBAAD6C4",
+    "title": "A.05.04 - POSTER - Advances at the observation -modelling interface",
+    "event_type": "poster session"
+  },
+  "850B8AC9-BE6F-421E-8B69-16F6379DB28A": {
+    "id": "850B8AC9-BE6F-421E-8B69-16F6379DB28A",
+    "title": "A.07.05 - POSTER - Monitoring and predicting surface water and flood dynamics",
+    "event_type": "poster session"
+  },
+  "B01B3F52-6972-4FF7-9FC1-3B27C5A38B7B": {
+    "id": "B01B3F52-6972-4FF7-9FC1-3B27C5A38B7B",
+    "title": "A.07.06 - POSTER - Monitoring river discharge variability in a context of climate change: bridging satellite technology, ground data and modelling",
+    "event_type": "poster session"
+  },
+  "5920D1C5-6BD7-4768-B45E-FCE7BA68580D": {
+    "id": "5920D1C5-6BD7-4768-B45E-FCE7BA68580D",
+    "title": "A.08.04 - POSTER - Submesoscale air-sea interactions: understanding, observability and impact",
+    "event_type": "poster session"
+  },
+  "C179B989-34D8-40A6-BB7F-C30B55C9BAE3": {
+    "id": "C179B989-34D8-40A6-BB7F-C30B55C9BAE3",
+    "title": "A.08.08 - POSTER - Upper Ocean Dynamics",
+    "event_type": "poster session"
+  },
+  "92AFEBFB-561B-4FF9-ABDA-97C7B3AEA1D7": {
+    "id": "92AFEBFB-561B-4FF9-ABDA-97C7B3AEA1D7",
+    "title": "A.08.09 - POSTER - Marine and Coastal Carbon",
+    "event_type": "poster session"
+  },
+  "C2493989-AC02-4C53-96FF-BA14D4632F24": {
+    "id": "C2493989-AC02-4C53-96FF-BA14D4632F24",
+    "title": "A.08.10 - POSTER - Coastal Ocean and Land-sea interaction",
+    "event_type": "poster session"
+  },
+  "8B517ECB-9271-4198-AA8A-9FD14BCA3A74": {
+    "id": "8B517ECB-9271-4198-AA8A-9FD14BCA3A74",
+    "title": "A.09.02 - POSTER - Dynamic Antarctica: From the coastal margins to the deep interior",
+    "event_type": "poster session"
+  },
+  "59D07FE5-E851-4DAF-92CE-E0280DE5C87E": {
+    "id": "59D07FE5-E851-4DAF-92CE-E0280DE5C87E",
+    "title": "A.09.08 - POSTER - Understanding the state of the cryosphere with satellite altimetry",
+    "event_type": "poster session"
+  },
+  "717DC667-1885-47BB-A16A-5D321D982098": {
+    "id": "717DC667-1885-47BB-A16A-5D321D982098",
+    "title": "A.10.02 - POSTER - Geodetic satellite missions and their applications",
+    "event_type": "poster session"
+  },
+  "470E0738-8D52-4235-8C97-C8A9404C891E": {
+    "id": "470E0738-8D52-4235-8C97-C8A9404C891E",
+    "title": "B.02.02 - POSTER - Managing the Urban Green Transition with Earth Observation data and advanced analytics.",
+    "event_type": "poster session"
+  },
+  "55635FDB-1BD7-496F-97AF-1CC0AC1F3F96": {
+    "id": "55635FDB-1BD7-496F-97AF-1CC0AC1F3F96",
+    "title": "B.02.05 - POSTER - Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink",
+    "event_type": "poster session"
+  },
+  "49774D60-65D9-4568-9828-827651537420": {
+    "id": "49774D60-65D9-4568-9828-827651537420",
+    "title": "B.02.07 - POSTER - Social-ecological land systems: practical approaches for improved mapping",
+    "event_type": "poster session"
+  },
+  "31F9B3FD-68E0-41BF-AE42-4A49D404E590": {
+    "id": "31F9B3FD-68E0-41BF-AE42-4A49D404E590",
+    "title": "B.03.02 - POSTER - Monitoring and measuring climate adaptation using earth observation",
+    "event_type": "poster session"
+  },
+  "071060C7-D78D-4BC1-8190-B18A99144289": {
+    "id": "071060C7-D78D-4BC1-8190-B18A99144289",
+    "title": "B.04.02 - POSTER - Addressing multi-hazards: Compounding and Cascading Events through Earth Observation",
+    "event_type": "poster session"
+  },
+  "DB4DA621-9EED-4A91-844C-59A91AC8F862": {
+    "id": "DB4DA621-9EED-4A91-844C-59A91AC8F862",
+    "title": "C.01.08 - POSTER - Optical instrument concepts and technologies to enable new EO science missions",
+    "event_type": "poster session"
+  },
+  "CE69B0AA-B40B-496E-BA9B-0ADCE2FDDD3D": {
+    "id": "CE69B0AA-B40B-496E-BA9B-0ADCE2FDDD3D",
+    "title": "C.01.10 - POSTER - Microwave Instrument Concepts and Technologies to enable new EO Science Missions",
+    "event_type": "poster session"
+  },
+  "68B73C06-F0AD-4AC2-ACBB-5868B4BB273A": {
+    "id": "68B73C06-F0AD-4AC2-ACBB-5868B4BB273A",
+    "title": "C.01.12 - POSTER - New science-driven Earth Observation Mission ideas \u2013 Are you ready to boost future satellite Earth Observation?",
+    "event_type": "poster session"
+  },
+  "F08E8D44-90FE-4658-8336-C1869999EE48": {
+    "id": "F08E8D44-90FE-4658-8336-C1869999EE48",
+    "title": "C.02.05 - POSTER - MAGIC \u2013 Preparing for the ESA-NASA satellite gravity constellation",
+    "event_type": "poster session"
+  },
+  "C8B1E9E3-14A7-4D0C-BB40-727B59E3CAB0": {
+    "id": "C8B1E9E3-14A7-4D0C-BB40-727B59E3CAB0",
+    "title": "C.02.12 - POSTER - ESA's Biomass mission",
+    "event_type": "poster session"
+  },
+  "2ED934A3-25F8-44B9-B51D-76F4CD4A7C2D": {
+    "id": "2ED934A3-25F8-44B9-B51D-76F4CD4A7C2D",
+    "title": "C.02.14 - POSTER - The EarthCARE Mission\u2019s First Year in Orbit: Opening new Horizons for Cloud, Aerosol and Radiation Science",
+    "event_type": "poster session"
+  },
+  "BFB3F079-22CF-4C2F-820F-CA68EB9670ED": {
+    "id": "BFB3F079-22CF-4C2F-820F-CA68EB9670ED",
+    "title": "C.03.03 - POSTER - Advancing global-scale high resolution imaging spectroscopy in preparation for CHIME",
+    "event_type": "poster session"
+  },
+  "0C242DFF-ED02-48E0-A4BD-18A251B289C9": {
+    "id": "0C242DFF-ED02-48E0-A4BD-18A251B289C9",
+    "title": "C.05.05 - POSTER - The German EnMAP Mission: 3 Years of hyperspectral data - From Science to Environmental Applications",
+    "event_type": "poster session"
+  },
+  "D47BE5FC-EB88-4F65-81F6-370D2DA6FB7B": {
+    "id": "D47BE5FC-EB88-4F65-81F6-370D2DA6FB7B",
+    "title": "D.02.04 - POSTER - Machine Learning for Earth System Observation and Prediction",
+    "event_type": "poster session"
+  },
+  "541FFE50-E3A1-4BDC-9860-2E8775B72D82": {
+    "id": "541FFE50-E3A1-4BDC-9860-2E8775B72D82",
+    "title": "D.02.05 - POSTER - EO-based solutions to address civil security-related scenarios",
+    "event_type": "poster session"
+  },
+  "858F48B7-373C-4B17-9FC2-B9C3E5592D38": {
+    "id": "858F48B7-373C-4B17-9FC2-B9C3E5592D38",
+    "title": "D.02.09 - POSTER - Enhancement of EO products using advanced multi-instrument and multi-platform synergies",
+    "event_type": "poster session"
+  },
+  "025B8900-934E-4F1F-B563-A4B6B87DE754": {
+    "id": "025B8900-934E-4F1F-B563-A4B6B87DE754",
+    "title": "D.02.12 - POSTER - Big-data Driven AI Techniques in Ocean Applications: Enhancing Marine Monitoring and Analysis",
+    "event_type": "poster session"
+  },
+  "1F06F147-5A05-4151-A64C-A3400829BCE1": {
+    "id": "1F06F147-5A05-4151-A64C-A3400829BCE1",
+    "title": "D.03.03 - POSTER - Impact through Reproducibility in Earth Observation Science and Applications",
+    "event_type": "poster session"
+  },
+  "AE17439C-D6A1-4D02-B49B-1148A65C6883": {
+    "id": "AE17439C-D6A1-4D02-B49B-1148A65C6883",
+    "title": "D.03.05 - POSTER - Harnessing Open and Community-Driven Innovation in Times of Emergencies",
+    "event_type": "poster session"
+  },
+  "919922B2-8457-4FDC-B891-EC234EAF48F1": {
+    "id": "919922B2-8457-4FDC-B891-EC234EAF48F1",
+    "title": "E.05.01 - POSTER - Traceable, Transparent Supply Chain Data for Monitoring: Examples from the Forest Data Partnership and A Call to Accelerate Industry Alignment.",
+    "event_type": "poster session"
+  },
+  "C6F14B87-3B0E-41F0-914C-7A0BFCB0F1B1": {
+    "id": "C6F14B87-3B0E-41F0-914C-7A0BFCB0F1B1",
+    "title": "F.02.03 - POSTER - Using satellite EO in global capabilities for disaster response",
+    "event_type": "poster session"
+  },
+  "E875B12D-BF45-4F89-9DED-EA77AC576E97": {
+    "id": "E875B12D-BF45-4F89-9DED-EA77AC576E97",
+    "title": "F.02.07 - POSTER - Essential Agricultural Variables: Building Blocks for Global Agriculture Monitoring and Policy Support",
+    "event_type": "poster session"
+  },
+  "01806FE3-0CD8-467C-A0F3-2CDDCBBFEB91": {
+    "id": "01806FE3-0CD8-467C-A0F3-2CDDCBBFEB91",
+    "title": "F.04.01 - POSTER - Earth Observation for European Agricultural Policies",
+    "event_type": "poster session"
+  },
+  "EC866050-EB32-4F5D-B935-EF3B5D89BB09": {
+    "id": "EC866050-EB32-4F5D-B935-EF3B5D89BB09",
+    "title": "F.04.02 - POSTER - Supporting Global Food Security through Earth Observation",
+    "event_type": "poster session"
+  },
+  "258416D0-DF72-4114-B009-01745B3789A4": {
+    "id": "258416D0-DF72-4114-B009-01745B3789A4",
+    "title": "F.04.08 - POSTER - Earth Observation for Nature Finance and Ecosystem Accounting",
+    "event_type": "poster session"
+  },
+  "75CCFDC3-869E-4217-8DC8-94669E4728C1": {
+    "id": "75CCFDC3-869E-4217-8DC8-94669E4728C1",
+    "title": "F.04.13 - POSTER - Urban Resilience",
+    "event_type": "poster session"
+  },
+  "742EEC40-A28A-486E-91B5-108FE1716047": {
+    "id": "742EEC40-A28A-486E-91B5-108FE1716047",
+    "title": "F.05.01 - POSTER - Satellite EO data benefit the economy, the environment and our societies: the evidence and the stories",
+    "event_type": "poster session"
+  },
+  "EEDA1F8F-8E25-4EE2-84DD-7F97D6C5CD0A": {
+    "id": "EEDA1F8F-8E25-4EE2-84DD-7F97D6C5CD0A",
+    "title": "A.01.17 DEMO - Demonstration of an Integrated approach for the Validation and exploitation of Atmospheric missions",
+    "event_type": "session"
+  },
+  "8BC09133-9347-4709-B0AE-78D60F0CFDB5": {
+    "id": "8BC09133-9347-4709-B0AE-78D60F0CFDB5",
+    "title": "A.02.16 DEMO - Interactive calculation of area-wide Farmland Habitat Biodiversity",
+    "event_type": "session"
+  },
+  "FB8851A8-67EE-41F9-861C-FA42DE7F0B90": {
+    "id": "FB8851A8-67EE-41F9-861C-FA42DE7F0B90",
+    "title": "A.08.17 DEMO - CNES cloud platform and services to optimize SWOT ocean data use",
+    "event_type": "session"
+  },
+  "56BFD92D-D0A1-45E2-B531-E26E5FFAFE39": {
+    "id": "56BFD92D-D0A1-45E2-B531-E26E5FFAFE39",
+    "title": "A.08.19 DEMO - SEAScope: interactive EO data visualisation and analysis tool",
+    "event_type": "session"
+  },
+  "BBCF2329-9E79-4EDC-81E9-22BF7EBD25A0": {
+    "id": "BBCF2329-9E79-4EDC-81E9-22BF7EBD25A0",
+    "title": "B.02.10 DEMO - Monitoring grassland productivity through remote sensing to provide drought adaptation strategies",
+    "event_type": "session"
+  },
+  "796295A1-0A68-425B-B136-E164BAF915BD": {
+    "id": "796295A1-0A68-425B-B136-E164BAF915BD",
+    "title": "B.03.16 DEMO - Copernicus-based Evapotranspiration and Root-Zone Soil Moisture Products",
+    "event_type": "session"
+  },
+  "A2D85370-B856-4F85-95B1-4CA4CA92AA9C": {
+    "id": "A2D85370-B856-4F85-95B1-4CA4CA92AA9C",
+    "title": "C.01.28 DEMO - Innovative space-based solution for the Maritime Domain Awareness",
+    "event_type": "session"
+  },
+  "674755ED-F9AD-49D2-B9C5-56A1C9B6663C": {
+    "id": "674755ED-F9AD-49D2-B9C5-56A1C9B6663C",
+    "title": "C.02.23 DEMO - CryoSat Companion: A LLM Support Tool for Cryospheric Science",
+    "event_type": "session"
+  },
+  "09D3B59C-9684-46BF-AE04-D8C03761495D": {
+    "id": "09D3B59C-9684-46BF-AE04-D8C03761495D",
+    "title": "D.01.16 DEMO - Experience Destination Earth: The Art of Immersive Climate Data",
+    "event_type": "session"
+  },
+  "6C0CE354-37E0-49A9-B7FE-7BCDA32EFF35": {
+    "id": "6C0CE354-37E0-49A9-B7FE-7BCDA32EFF35",
+    "title": "D.02.24 DEMO - EarthDataInsight: AI-Driven Geospatial Intelligence for Climate and ESG Applications",
+    "event_type": "session"
+  },
+  "7CC3F4C0-601F-42BF-A92C-A17B96498F2C": {
+    "id": "7CC3F4C0-601F-42BF-A92C-A17B96498F2C",
+    "title": "D.02.28 DEMO - Platform Extension with AI capabilities: Kubeflow",
+    "event_type": "session"
+  },
+  "D8375BF5-71E4-4EA0-8F41-6954EE303A2F": {
+    "id": "D8375BF5-71E4-4EA0-8F41-6954EE303A2F",
+    "title": "D.03.22 DEMO - Enabling Open Science with EarthCODE and the Copernicus Dataspace Ecosystem openEO Federation",
+    "event_type": "session"
+  },
+  "4F2AF980-97E0-40F5-8321-BB3E391AC227": {
+    "id": "4F2AF980-97E0-40F5-8321-BB3E391AC227",
+    "title": "D.03.24 DEMO - AlTiS-NG software for generating Time-Series of Water Levels from Radar Altimetry Data",
+    "event_type": "session"
+  },
+  "78A14040-47DF-44D0-B5C4-B2C6D201A682": {
+    "id": "78A14040-47DF-44D0-B5C4-B2C6D201A682",
+    "title": "D.03.31 DEMO - SNAP in Action - Various Application Examples throught the week demonstrating the power of SNAP for EO data visualisation, analysis and processing - session 3",
+    "event_type": "session"
+  },
+  "2E4C7414-62CF-4F4E-9070-67E1B51E047D": {
+    "id": "2E4C7414-62CF-4F4E-9070-67E1B51E047D",
+    "title": "D.03.31 DEMO - SNAP in Action - Various Application Examples throught the week demonstrating the power of SNAP for EO data visualisation, analysis and processing - session 4",
+    "event_type": "session"
+  },
+  "81AA4053-47DD-4BF8-8491-ADC3715CE2CB": {
+    "id": "81AA4053-47DD-4BF8-8491-ADC3715CE2CB",
+    "title": "D.03.34 DEMO - EDC & Pangeo Integration on EarthCODE",
+    "event_type": "session"
+  },
+  "1F200190-EB88-494A-846D-B8B4C39965C9": {
+    "id": "1F200190-EB88-494A-846D-B8B4C39965C9",
+    "title": "D.04.27 DEMO - The Sentinels EOPF toolkit: Notebooks and Plug-ins for using Copernicus Sentinel Data in Zarr format",
+    "event_type": "session"
+  },
+  "9972574C-BAC6-4D2A-A02D-B277C998FF36": {
+    "id": "9972574C-BAC6-4D2A-A02D-B277C998FF36",
+    "title": "D.04.31 DEMO - NoR Updates and Road Map - session 3",
+    "event_type": "session"
+  },
+  "13B35D2D-E627-4C26-B76C-93108AFE034A": {
+    "id": "13B35D2D-E627-4C26-B76C-93108AFE034A",
+    "title": "D.05.08 DEMO - EvoLand: New methods for the next generation of Copernicus Land Monitoring",
+    "event_type": "session"
+  },
+  "CF29DAB2-C66E-4F5A-96A2-F2C289233037": {
+    "id": "CF29DAB2-C66E-4F5A-96A2-F2C289233037",
+    "title": "E.01.10 DEMO - SatGrass app for near-real time yield and quality estimation of grassland",
+    "event_type": "session"
+  },
+  "13CCF0A3-FC1A-4E13-B7BB-B2324DFC92DD": {
+    "id": "13CCF0A3-FC1A-4E13-B7BB-B2324DFC92DD",
+    "title": "E.01.11 DEMO - Advanced Web Platform for Infrastructure Monitoring and Natural Risk Management through Data Fusion and Artificial Intelligence",
+    "event_type": "session"
+  },
+  "F3FF978E-6DB2-48B3-8DCD-282691D6A74F": {
+    "id": "F3FF978E-6DB2-48B3-8DCD-282691D6A74F",
+    "title": "E.05.04 DEMO - Applications Showcase: Urban Issues",
+    "event_type": "session"
+  },
+  "0E1D40B3-E3E5-44D0-AF38-4090D9267F13": {
+    "id": "0E1D40B3-E3E5-44D0-AF38-4090D9267F13",
+    "title": "E.05.05 DEMO - Applications Showcase: Official Statistics",
+    "event_type": "session"
+  },
+  "88D31CA5-25A7-472F-8EE4-5B6FABB85195": {
+    "id": "88D31CA5-25A7-472F-8EE4-5B6FABB85195",
+    "title": "F.01.16 DEMO - Education & Professional Development Platform - Session 1",
+    "event_type": "session"
+  },
+  "934C28B5-5467-4691-8A17-2B50AC36C1C7": {
+    "id": "934C28B5-5467-4691-8A17-2B50AC36C1C7",
+    "title": "F.04.34 DEMO - Applications Showcase: Ecosystems and Biodiversity",
+    "event_type": "session"
+  },
+  "67B74DA0-89A3-4C32-B01A-3DB5BB416D70": {
+    "id": "67B74DA0-89A3-4C32-B01A-3DB5BB416D70",
+    "title": "A.10.02 Geodetic satellite missions and their applications - PART 1",
+    "event_type": "session"
+  },
+  "68DDD0EF-238B-4E84-8D80-4D2EAE7DF1B3": {
+    "id": "68DDD0EF-238B-4E84-8D80-4D2EAE7DF1B3",
+    "title": "A.10.02 Geodetic satellite missions and their applications - PART 2",
+    "event_type": "session"
+  },
+  "94FE1964-06F3-4BFB-91A0-53D108C5912C": {
+    "id": "94FE1964-06F3-4BFB-91A0-53D108C5912C",
+    "title": "F.02.07 Essential Agricultural Variables: Building Blocks for Global Agriculture Monitoring and Policy Support",
+    "event_type": "session"
+  },
+  "2570EB30-AE96-4E3F-844A-4719665C28B1": {
+    "id": "2570EB30-AE96-4E3F-844A-4719665C28B1",
+    "title": "F.04.01 Earth Observation for European Agricultural Policies",
+    "event_type": "session"
+  },
+  "8C079184-C471-4510-A1CA-F3A90A32BAB8": {
+    "id": "8C079184-C471-4510-A1CA-F3A90A32BAB8",
+    "title": "D.01.08 4th DestinE User eXchange - Addressing Application Needs for Climate Adaptation",
+    "event_type": "session"
+  },
+  "A17B48B4-CD6D-4C46-B814-44D2E1CF7612": {
+    "id": "A17B48B4-CD6D-4C46-B814-44D2E1CF7612",
+    "title": "D.01.08 4th DestinE User eXchange - Addressing Application Needs for Extreme Events Preparedness",
+    "event_type": "session"
+  },
+  "9967442E-6B67-4147-85FF-282B5B30DC50": {
+    "id": "9967442E-6B67-4147-85FF-282B5B30DC50",
+    "title": "D.01.08 4th DestinE User eXchange - Opening Session and Visionary Insights",
+    "event_type": "session"
+  },
+  "3156D1A4-61F7-48E6-B155-3379E57601B4": {
+    "id": "3156D1A4-61F7-48E6-B155-3379E57601B4",
+    "title": "D.01.08 4th DestinE User eXchange - Panel Discussion \"From Vision to Impact: Unlocking Destination Earth's Potential for Users\"",
+    "event_type": "session"
+  },
+  "D3C64C1F-3AF2-4954-8006-7EF5384D6ADA": {
+    "id": "D3C64C1F-3AF2-4954-8006-7EF5384D6ADA",
+    "title": "A.04.01 Estimating and observing local-scale GHG emissions - PART 1",
+    "event_type": "session"
+  },
+  "92F6158F-A758-4EA0-ADEC-6D2CB4A7B32B": {
+    "id": "92F6158F-A758-4EA0-ADEC-6D2CB4A7B32B",
+    "title": "A.04.01 Estimating and observing local-scale GHG emissions - PART 2",
+    "event_type": "session"
+  },
+  "DB0CAB45-F84F-4A74-9E83-BDFC1112C040": {
+    "id": "DB0CAB45-F84F-4A74-9E83-BDFC1112C040",
+    "title": "A.04.03 Monitoring Greenhouse Gases from Space - Methods and Validation - PART 1",
+    "event_type": "session"
+  },
+  "08D373A4-E5A1-4CD4-9C5E-C3F9802319A7": {
+    "id": "08D373A4-E5A1-4CD4-9C5E-C3F9802319A7",
+    "title": "A.04.03 Monitoring Greenhouse Gases from Space - Methods and Validation - PART 2",
+    "event_type": "session"
+  },
+  "C7AC8CEC-BDF7-4646-B993-9ECE68E0CE4D": {
+    "id": "C7AC8CEC-BDF7-4646-B993-9ECE68E0CE4D",
+    "title": "A.03.05 Opportunities and challenges for global monitoring of photosynthesis from space",
+    "event_type": "session"
+  },
+  "5E45289C-C4BF-4B53-BE77-BF4D3925233B": {
+    "id": "5E45289C-C4BF-4B53-BE77-BF4D3925233B",
+    "title": "C.02.12 ESA's Biomass mission - PART 1",
+    "event_type": "session"
+  },
+  "EF58565E-82BF-4608-86F8-B3900CFCA2A9": {
+    "id": "EF58565E-82BF-4608-86F8-B3900CFCA2A9",
+    "title": "C.02.12 ESA's Biomass mission - PART 2",
+    "event_type": "session"
+  },
+  "62C53DBE-0D54-43E2-8D7B-F8C5CAA82427": {
+    "id": "62C53DBE-0D54-43E2-8D7B-F8C5CAA82427",
+    "title": "C.02.18 BIOMASS Mission Insight: Open cloud computing platform, processors, tools and data",
+    "event_type": "session"
+  },
+  "6C1333DE-2735-4305-A555-D14FFA16C146": {
+    "id": "6C1333DE-2735-4305-A555-D14FFA16C146",
+    "title": "D.02.04 Machine Learning for Earth System Observation and Prediction - PART 1",
+    "event_type": "session"
+  },
+  "F1D69BD0-2C4C-4641-AE7A-90B51941D770": {
+    "id": "F1D69BD0-2C4C-4641-AE7A-90B51941D770",
+    "title": "D.02.04 Machine Learning for Earth System Observation and Prediction - PART 2",
+    "event_type": "session"
+  },
+  "D0292AE9-4649-4550-B5CA-F1DCDFC79C4F": {
+    "id": "D0292AE9-4649-4550-B5CA-F1DCDFC79C4F",
+    "title": "D.02.04 Machine Learning for Earth System Observation and Prediction - PART 3",
+    "event_type": "session"
+  },
+  "5560F899-F664-4A6A-A8B0-20752383F4D6": {
+    "id": "5560F899-F664-4A6A-A8B0-20752383F4D6",
+    "title": "D.02.09 Enhancement of EO products using advanced multi-instrument and multi-platform synergies",
+    "event_type": "session"
+  },
+  "CBECD6D5-534A-4D1C-AF33-0B6A8ABC95CA": {
+    "id": "CBECD6D5-534A-4D1C-AF33-0B6A8ABC95CA",
+    "title": "A.08.04 Submesoscale air-sea interactions: understanding, observability and impact",
+    "event_type": "session"
+  },
+  "038669B0-DF46-4ECA-A212-894C77B489F4": {
+    "id": "038669B0-DF46-4ECA-A212-894C77B489F4",
+    "title": "A.08.08 Upper Ocean Dynamics - PART 1",
+    "event_type": "session"
+  },
+  "CC5D2027-A292-4C1F-B8F5-43F882F32BCB": {
+    "id": "CC5D2027-A292-4C1F-B8F5-43F882F32BCB",
+    "title": "A.08.08 Upper Ocean Dynamics - PART 2",
+    "event_type": "session"
+  },
+  "1B5D8127-1A80-4751-8625-7450E7360B43": {
+    "id": "1B5D8127-1A80-4751-8625-7450E7360B43",
+    "title": "D.02.12 Big-data Driven AI Techniques in Ocean Applications: Enhancing Marine Monitoring and Analysis",
+    "event_type": "session"
+  },
+  "BB6F3136-3B2D-444B-BD27-489ABEDF5193": {
+    "id": "BB6F3136-3B2D-444B-BD27-489ABEDF5193",
+    "title": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink - PART 1",
+    "event_type": "session"
+  },
+  "F06AD8C6-927C-4523-944F-F4F82C61CAC1": {
+    "id": "F06AD8C6-927C-4523-944F-F4F82C61CAC1",
+    "title": "B.02.05 Restoring Biosphere Resilience: Transforming Agriculture, Forestry and Other Land Use (AFOLU) from Carbon Source to Sink - PART 2",
+    "event_type": "session"
+  },
+  "0A53A3BC-E9D6-464A-BFC8-31003E225FF8": {
+    "id": "0A53A3BC-E9D6-464A-BFC8-31003E225FF8",
+    "title": "C.02.17 Celebrating 15 Years of CryoSat for climate science: shaping the future of polar altimetry - PART 1",
+    "event_type": "session"
+  },
+  "457FCC71-3C45-4B77-A82D-9D6F612B79A7": {
+    "id": "457FCC71-3C45-4B77-A82D-9D6F612B79A7",
+    "title": "C.02.17 Celebrating 15 Years of CryoSat for climate science: shaping the future of polar altimetry - PART 2",
+    "event_type": "session"
+  },
+  "912F57C8-E660-448A-BF20-7AB0DE12A039": {
+    "id": "912F57C8-E660-448A-BF20-7AB0DE12A039",
+    "title": "C.02.14 The EarthCARE Mission\u2019s First Year in Orbit: Opening new Horizons for Cloud, Aerosol and Radiation Science - PART 1.",
+    "event_type": "session"
+  },
+  "6F7CA14B-0C75-4AAD-B191-5C18AAA2C536": {
+    "id": "6F7CA14B-0C75-4AAD-B191-5C18AAA2C536",
+    "title": "C.02.14 The EarthCARE Mission\u2019s First Year in Orbit: Opening new Horizons for Cloud, Aerosol and Radiation Science - PART 2.",
+    "event_type": "session"
+  },
+  "23513EC1-EC41-405D-8C23-8DDDC3419834": {
+    "id": "23513EC1-EC41-405D-8C23-8DDDC3419834",
+    "title": "C.02.14 The EarthCARE Mission\u2019s First Year in Orbit: Opening new Horizons for Cloud, Aerosol and Radiation Science - PART 3.",
+    "event_type": "session"
+  },
+  "795A7604-9947-4EF5-86E1-E4E641EE19D4": {
+    "id": "795A7604-9947-4EF5-86E1-E4E641EE19D4",
+    "title": "C.02.14 The EarthCARE Mission\u2019s First Year in Orbit: Opening new Horizons for Cloud, Aerosol and Radiation Science - PART 4.",
+    "event_type": "session"
+  },
+  "727B4677-8E05-4E7A-937C-14F370836D86": {
+    "id": "727B4677-8E05-4E7A-937C-14F370836D86",
+    "title": "A.02.06 Advances in land surface phenology monitoring and applications - PART 1",
+    "event_type": "session"
+  },
+  "270A3C17-4451-4AE9-9F2D-472F1160E700": {
+    "id": "270A3C17-4451-4AE9-9F2D-472F1160E700",
+    "title": "A.02.06 Advances in land surface phenology monitoring and applications - PART 2",
+    "event_type": "session"
+  },
+  "D9767A11-C074-4069-99C9-5503D202977E": {
+    "id": "D9767A11-C074-4069-99C9-5503D202977E",
+    "title": "A.05.04 Advances at the observation -modelling interface - PART 1",
+    "event_type": "session"
+  },
+  "E50AA2BE-CFFC-40CF-B376-60B07DA9BF25": {
+    "id": "E50AA2BE-CFFC-40CF-B376-60B07DA9BF25",
+    "title": "A.05.04 Advances at the observation -modelling interface - PART 2",
+    "event_type": "session"
+  },
+  "C1D7609D-FA80-4C97-BB06-46BD54D44ACF": {
+    "id": "C1D7609D-FA80-4C97-BB06-46BD54D44ACF",
+    "title": "C.01.10 Microwave Instrument Concepts and Technologies to enable new EO Science Missions - PART 1",
+    "event_type": "session"
+  },
+  "4EED55DE-E624-4377-8EFD-AF59A80ECC76": {
+    "id": "4EED55DE-E624-4377-8EFD-AF59A80ECC76",
+    "title": "C.01.10 Microwave Instrument Concepts and Technologies to enable new EO Science Missions - PART 2",
+    "event_type": "session"
+  },
+  "59AD8C06-E633-4901-92FF-C09F91F3698F": {
+    "id": "59AD8C06-E633-4901-92FF-C09F91F3698F",
+    "title": "C.01.12 New science-driven Earth Observation Mission ideas \u2013 Are you ready to boost future satellite Earth Observation?",
+    "event_type": "session"
+  },
+  "D9B16B42-1421-4FAB-A48F-CB586645A069": {
+    "id": "D9B16B42-1421-4FAB-A48F-CB586645A069",
+    "title": "C.01.16 NASA\u2019s Earth Science Technology Validation on CubeSats/SmallSats and their path towards building future missions.",
+    "event_type": "session"
+  },
+  "FB47FEF0-4751-4F99-BDDA-36DED6F50F94": {
+    "id": "FB47FEF0-4751-4F99-BDDA-36DED6F50F94",
+    "title": "B.03.11 Beyond monitoring - unlocking climate action through Earth Observation",
+    "event_type": "session"
+  },
+  "3E6F861F-D294-4281-95CF-F69E883B5064": {
+    "id": "3E6F861F-D294-4281-95CF-F69E883B5064",
+    "title": "C.03.09 The Copernicus services - PART 1",
+    "event_type": "session"
+  },
+  "DF9D19A8-9648-4BDF-85DA-38248FB5ECCE": {
+    "id": "DF9D19A8-9648-4BDF-85DA-38248FB5ECCE",
+    "title": "C.03.09 The Copernicus services - PART 2",
+    "event_type": "session"
+  },
+  "D00CC8C4-AFCC-4135-AB8B-AC75FDD0855C": {
+    "id": "D00CC8C4-AFCC-4135-AB8B-AC75FDD0855C",
+    "title": "D.03.05 Harnessing Open and Community-Driven Innovation in Times of Emergencies",
+    "event_type": "session"
+  },
+  "D1B77617-B24C-4D19-9045-6F0F49AAB89C": {
+    "id": "D1B77617-B24C-4D19-9045-6F0F49AAB89C",
+    "title": "C.01.08 Optical instrument concepts and technologies to enable new EO science missions",
+    "event_type": "session"
+  },
+  "1151D03D-2C1A-40F7-89DF-397478203C26": {
+    "id": "1151D03D-2C1A-40F7-89DF-397478203C26",
+    "title": "C.03.03 Advancing global-scale high resolution imaging spectroscopy in preparation for CHIME - PART 1",
+    "event_type": "session"
+  },
+  "91F7449E-D1CB-4768-8F56-F5D188E178E3": {
+    "id": "91F7449E-D1CB-4768-8F56-F5D188E178E3",
+    "title": "C.03.03 Advancing global-scale high resolution imaging spectroscopy in preparation for CHIME - PART 2",
+    "event_type": "session"
+  },
+  "004055F6-FF1A-44A0-BDA5-D672E3E6CFF9": {
+    "id": "004055F6-FF1A-44A0-BDA5-D672E3E6CFF9",
+    "title": "C.05.05 The German EnMAP Mission: 3 Years of hyperspectral data - From Science to Environmental Applications",
+    "event_type": "session"
+  },
+  "D5EBA1F7-5D85-4B1E-BEF3-FF6EA02F6FD3": {
+    "id": "D5EBA1F7-5D85-4B1E-BEF3-FF6EA02F6FD3",
+    "title": "A.08.09 Marine and Coastal Carbon - PART 1",
+    "event_type": "session"
+  },
+  "D1598976-FD0B-452D-AC33-C612E19BCF61": {
+    "id": "D1598976-FD0B-452D-AC33-C612E19BCF61",
+    "title": "A.08.09 Marine and Coastal Carbon - PART 2",
+    "event_type": "session"
+  },
+  "67223F38-0408-433D-B24A-F6932F34AF06": {
+    "id": "67223F38-0408-433D-B24A-F6932F34AF06",
+    "title": "A.08.10 Coastal Ocean and Land-sea interaction - PART 1",
+    "event_type": "session"
+  },
+  "4D07D149-C708-4203-B833-1B35729E7E32": {
+    "id": "4D07D149-C708-4203-B833-1B35729E7E32",
+    "title": "A.08.10 Coastal Ocean and Land-sea interaction - PART 2",
+    "event_type": "session"
+  },
+  "CFFD53ED-D12E-471E-8B51-4B8112941CBC": {
+    "id": "CFFD53ED-D12E-471E-8B51-4B8112941CBC",
+    "title": "A.03.08 Terrestrial Carbon Cycle Assimilation System - PART 1",
+    "event_type": "session"
+  },
+  "17812B79-9D91-4029-8E86-2820C5143305": {
+    "id": "17812B79-9D91-4029-8E86-2820C5143305",
+    "title": "A.03.08 Terrestrial Carbon Cycle Assimilation System - PART 2",
+    "event_type": "session"
+  },
+  "D6792EC5-01BB-4239-878A-270D3B5C11E6": {
+    "id": "D6792EC5-01BB-4239-878A-270D3B5C11E6",
+    "title": "B.03.14 S4GF Networking Session: Driving Actions towards the Green Transition",
+    "event_type": "session"
+  },
+  "38646302-06D3-47C9-9D13-D57FE1A2AC23": {
+    "id": "38646302-06D3-47C9-9D13-D57FE1A2AC23",
+    "title": "E.05.03 Connecting Energy stakeholders and the Earth Observation Sector",
+    "event_type": "session"
+  },
+  "676C1EC3-DB08-46B8-9F7E-D264B15A2336": {
+    "id": "676C1EC3-DB08-46B8-9F7E-D264B15A2336",
+    "title": "B.02.07 Social-ecological land systems: practical approaches for improved mapping",
+    "event_type": "session"
+  },
+  "1B1D4BB0-5A81-4E02-9B6B-9DE89A4D6536": {
+    "id": "1B1D4BB0-5A81-4E02-9B6B-9DE89A4D6536",
+    "title": "F.04.08 Earth Observation for Nature Finance and Ecosystem Accounting",
+    "event_type": "session"
+  },
+  "B069FDFD-11CD-4D0C-A095-60C0612D581C": {
+    "id": "B069FDFD-11CD-4D0C-A095-60C0612D581C",
+    "title": "F.04.23 Expert insights on the Nature Restoration Regulation: enabling the policy implementation",
+    "event_type": "session"
+  },
+  "C8D79C4D-EB05-4559-A625-5CE4D1E86816": {
+    "id": "C8D79C4D-EB05-4559-A625-5CE4D1E86816",
+    "title": "F.05.01 Satellite EO data benefit the economy, the environment and our societies: the evidence and the stories",
+    "event_type": "session"
+  },
+  "2A6E19AE-24EA-4D79-815A-BB3718E52454": {
+    "id": "2A6E19AE-24EA-4D79-815A-BB3718E52454",
+    "title": "C.02.05 MAGIC \u2013 Preparing for the ESA-NASA satellite gravity constellation - PART 1",
+    "event_type": "session"
+  },
+  "24F5F7AE-C9B5-4076-839D-83986696D504": {
+    "id": "24F5F7AE-C9B5-4076-839D-83986696D504",
+    "title": "C.02.05 MAGIC \u2013 Preparing for the ESA-NASA satellite gravity constellation - PART 2",
+    "event_type": "session"
+  },
+  "6A012B8B-00F0-4ABD-AC38-DBEAD83F54A8": {
+    "id": "6A012B8B-00F0-4ABD-AC38-DBEAD83F54A8",
+    "title": "C.03.16 Sentinel-2 Mission Status and Outlook",
+    "event_type": "session"
+  },
+  "25154F76-D82D-4B22-80AE-A6D4891DB5CB": {
+    "id": "25154F76-D82D-4B22-80AE-A6D4891DB5CB",
+    "title": "D.03.03 Impact through Reproducibility in Earth Observation Science and Applications",
+    "event_type": "session"
+  },
+  "68B4B3D4-4DA3-4035-883C-B2EEA5AA7674": {
+    "id": "68B4B3D4-4DA3-4035-883C-B2EEA5AA7674",
+    "title": "B.03.02 Monitoring and measuring climate adaptation using earth observation - PART 1",
+    "event_type": "session"
+  },
+  "B8D42F96-C7F9-4D6B-8EB8-B87CC4D4EF0D": {
+    "id": "B8D42F96-C7F9-4D6B-8EB8-B87CC4D4EF0D",
+    "title": "B.03.02 Monitoring and measuring climate adaptation using earth observation - PART 2",
+    "event_type": "session"
+  },
+  "18C44D69-ADA6-43EF-82BB-30BE6F931911": {
+    "id": "18C44D69-ADA6-43EF-82BB-30BE6F931911",
+    "title": "F.04.13 Urban Resilience - PART 1",
+    "event_type": "session"
+  },
+  "FAA6A0A0-9CD6-456B-B21E-7E5DE0E42CD3": {
+    "id": "FAA6A0A0-9CD6-456B-B21E-7E5DE0E42CD3",
+    "title": "F.04.13 Urban Resilience - PART 2",
+    "event_type": "session"
+  },
+  "EF8A463F-0645-421C-B002-B7D65F77BC15": {
+    "id": "EF8A463F-0645-421C-B002-B7D65F77BC15",
+    "title": "B.02.02 Managing the Urban Green Transition with Earth Observation data and advanced analytics.",
+    "event_type": "session"
+  },
+  "D0D819D9-634F-4EC7-BAA1-FD6C2FA7DC2E": {
+    "id": "D0D819D9-634F-4EC7-BAA1-FD6C2FA7DC2E",
+    "title": "C.02.15 Status ESA Mission development: Future research missions final count down - PART 1",
+    "event_type": "session"
+  },
+  "804A194D-777F-4CC6-A3D7-A527C09E0B70": {
+    "id": "804A194D-777F-4CC6-A3D7-A527C09E0B70",
+    "title": "C.02.15 Status ESA Mission development: Future research missions final count down - PART 2",
+    "event_type": "session"
+  },
+  "6C41CD59-5D8C-41C5-8E70-6600539F8635": {
+    "id": "6C41CD59-5D8C-41C5-8E70-6600539F8635",
+    "title": "C.02.15 Status ESA Mission development: Future research missions final count down - PART 3",
+    "event_type": "session"
+  },
+  "8C02BAB8-F584-4DCA-92F1-03717B8B2798": {
+    "id": "8C02BAB8-F584-4DCA-92F1-03717B8B2798",
+    "title": "A.07.05 Monitoring and predicting surface water and flood dynamics - PART 1",
+    "event_type": "session"
+  },
+  "CEDC6557-97E0-424C-AD5E-2DB3BBBCCE30": {
+    "id": "CEDC6557-97E0-424C-AD5E-2DB3BBBCCE30",
+    "title": "A.07.05 Monitoring and predicting surface water and flood dynamics - PART 2",
+    "event_type": "session"
+  },
+  "26369CA9-1BDD-4109-ACDA-E84B1709EEB5": {
+    "id": "26369CA9-1BDD-4109-ACDA-E84B1709EEB5",
+    "title": "A.07.05 Monitoring and predicting surface water and flood dynamics - PART 3",
+    "event_type": "session"
+  },
+  "A68FFAB1-8E70-4351-BBA8-C9C0D0460FB5": {
+    "id": "A68FFAB1-8E70-4351-BBA8-C9C0D0460FB5",
+    "title": "A.07.06 Monitoring river discharge variability in a context of climate change: bridging satellite technology, ground data and modelling",
+    "event_type": "session"
+  },
+  "908768E5-1B7E-46D9-BD7F-283386077BC0": {
+    "id": "908768E5-1B7E-46D9-BD7F-283386077BC0",
+    "title": "B.04.02 Addressing multi-hazards: Compounding and Cascading Events through Earth Observation",
+    "event_type": "session"
+  },
+  "1D2BE63E-1359-4C00-A069-098C46B11DC9": {
+    "id": "1D2BE63E-1359-4C00-A069-098C46B11DC9",
+    "title": "D.02.05 EO-based solutions to address civil security-related scenarios",
+    "event_type": "session"
+  },
+  "729CF076-C204-44AF-B3CA-47EC938FC930": {
+    "id": "729CF076-C204-44AF-B3CA-47EC938FC930",
+    "title": "F.02.03 Using satellite EO in global capabilities for disaster response",
+    "event_type": "session"
+  },
+  "E8C685A0-2B27-417E-8A42-EC44E4868D5B": {
+    "id": "E8C685A0-2B27-417E-8A42-EC44E4868D5B",
+    "title": "F.02.17 International Collaborations concerning Satellite EO and Disaster Response",
+    "event_type": "session"
+  },
+  "DA2FAA8E-F044-47F9-A98B-134136D13F30": {
+    "id": "DA2FAA8E-F044-47F9-A98B-134136D13F30",
+    "title": "A.02.08 Impacts of fire in the Earth system - PART 1",
+    "event_type": "session"
+  },
+  "33C7152F-18C7-4438-919F-638C52C2B22E": {
+    "id": "33C7152F-18C7-4438-919F-638C52C2B22E",
+    "title": "A.02.08 Impacts of fire in the Earth system - PART 2",
+    "event_type": "session"
+  },
+  "6BCEA9AC-03A1-4EE8-A13B-AA8FB1FA5781": {
+    "id": "6BCEA9AC-03A1-4EE8-A13B-AA8FB1FA5781",
+    "title": "A.05.14 What makes a climate variable essential?",
+    "event_type": "session"
+  },
+  "AE5F5F41-2494-4B1B-8286-7109D56F014F": {
+    "id": "AE5F5F41-2494-4B1B-8286-7109D56F014F",
+    "title": "B.03.13 Insights from the 'Space for a Green Future' partners",
+    "event_type": "session"
+  },
+  "E7E7DCA7-12F9-458A-A9D2-416A043F46D6": {
+    "id": "E7E7DCA7-12F9-458A-A9D2-416A043F46D6",
+    "title": "E.05.01 Traceable, Transparent Supply Chain Data for Monitoring: Examples from the Forest Data Partnership and A Call to Accelerate Industry Alignment.",
+    "event_type": "session"
+  },
+  "ACBA2CEA-E3A7-487C-BDBC-C34D12550AF7": {
+    "id": "ACBA2CEA-E3A7-487C-BDBC-C34D12550AF7",
+    "title": "F.04.02 Supporting Global Food Security through Earth Observation - PART 1",
+    "event_type": "session"
+  },
+  "EEDD6E7D-57D3-4001-A31C-28EC1FE2C043": {
+    "id": "EEDD6E7D-57D3-4001-A31C-28EC1FE2C043",
+    "title": "F.04.02 Supporting Global Food Security through Earth Observation - PART 2",
+    "event_type": "session"
+  },
+  "EBE32160-D9FF-4403-B8C7-3E0F2DA7B646": {
+    "id": "EBE32160-D9FF-4403-B8C7-3E0F2DA7B646",
+    "title": "F.04.28 The role of cities in advancing policy objectives through Earth Observation data and technology",
+    "event_type": "session"
+  },
+  "D27AF9A0-EB8A-4A61-8851-B479E35E7631": {
+    "id": "D27AF9A0-EB8A-4A61-8851-B479E35E7631",
+    "title": "A.09.02 Dynamic Antarctica: From the coastal margins to the deep interior - PART 1",
+    "event_type": "session"
+  },
+  "C7C452E4-3F69-4ACD-AADC-F31C823181C6": {
+    "id": "C7C452E4-3F69-4ACD-AADC-F31C823181C6",
+    "title": "A.09.02 Dynamic Antarctica: From the coastal margins to the deep interior - PART 2",
+    "event_type": "session"
+  },
+  "D9120EE3-D36E-4852-8FD5-F0DFA3D112CD": {
+    "id": "D9120EE3-D36E-4852-8FD5-F0DFA3D112CD",
+    "title": "A.09.08 Understanding the state of the cryosphere with satellite altimetry - PART 1",
+    "event_type": "session"
+  },
+  "3931FDE8-28DF-4329-805F-B6DD25CDFF3F": {
+    "id": "3931FDE8-28DF-4329-805F-B6DD25CDFF3F",
+    "title": "A.09.08 Understanding the state of the cryosphere with satellite altimetry - PART 2",
+    "event_type": "session"
+  },
+  "15E09D1A-39A3-43A7-8720-B1C69E5E4329": {
+    "id": "15E09D1A-39A3-43A7-8720-B1C69E5E4329",
+    "title": "Changing the game for EO Industry",
+    "event_type": "session"
+  },
+  "4714BDDF-37EE-4C0A-8C53-A5931F0552B1": {
+    "id": "4714BDDF-37EE-4C0A-8C53-A5931F0552B1",
+    "title": "A.05.09 Presenting WGORC : the new Working Group on Observations for Researching Climate .",
+    "event_type": "session"
+  },
+  "8549A38B-C174-4B70-B98E-5CC759AFFC99": {
+    "id": "8549A38B-C174-4B70-B98E-5CC759AFFC99",
+    "title": "D.06.04 European strategy towards future interoperability",
+    "event_type": "session"
+  },
+  "F0B3A33C-A519-4D31-A2F8-9FEA6F36CEDC": {
+    "id": "F0B3A33C-A519-4D31-A2F8-9FEA6F36CEDC",
+    "title": "F.04.27 Carbon Markets: updates on latest policy developments related to carbon removals and carbon farming",
+    "event_type": "session"
+  },
+  "7941B285-A491-4AD0-82B3-F8FCEA6308C4": {
+    "id": "7941B285-A491-4AD0-82B3-F8FCEA6308C4",
+    "title": "F.04.30 Leveraging Earth Observation data to help rescuing the SDGs",
+    "event_type": "session"
+  },
+  "70FBF523-5209-4C61-BF02-C762B45D0B91": {
+    "id": "70FBF523-5209-4C61-BF02-C762B45D0B91",
+    "title": "C.01.15 NEOMI: are you ready to become a new Lead Investigator for future EO space missions?",
+    "event_type": "session"
+  },
+  "49BAEAA4-E891-4D19-8DFD-851C0015D962": {
+    "id": "49BAEAA4-E891-4D19-8DFD-851C0015D962",
+    "title": "C.01.19 Boosting industrial competitiveness with standardisation paving the way to EO Constellation",
+    "event_type": "session"
+  },
+  "CC268DA2-78BE-483E-BC2D-423F86B6F5FC": {
+    "id": "CC268DA2-78BE-483E-BC2D-423F86B6F5FC",
+    "title": "E.01.06 Copernicus World Heritage Hub",
+    "event_type": "session"
+  },
+  "B7D6A63B-F656-49D2-B2A5-CEC6DC3663BB": {
+    "id": "B7D6A63B-F656-49D2-B2A5-CEC6DC3663BB",
+    "title": "F.01.04 Joint ESA-GRSS initiatives for the exploitation of Earth Observation data",
+    "event_type": "session"
+  },
+  "D25E6B2A-36EE-48A9-A314-5070C5F0B151": {
+    "id": "D25E6B2A-36EE-48A9-A314-5070C5F0B151",
+    "title": "B.03.12 Space for a Green Future: Space Bends the curve",
+    "event_type": "session"
+  },
+  "5BBDC579-752A-4345-9EEC-10BC277644DC": {
+    "id": "5BBDC579-752A-4345-9EEC-10BC277644DC",
+    "title": "E.01.07 From Bespoke Vertical Developments to scalable production of EO Information Services: Bridging the Last Mile with End-Users",
+    "event_type": "session"
+  },
+  "3AAA42A1-C644-4733-B9B6-AE40432B9DD8": {
+    "id": "3AAA42A1-C644-4733-B9B6-AE40432B9DD8",
+    "title": "E.01.08 Anchor Tenancy Approaches and Examples to bring EO applications to the market",
+    "event_type": "session"
+  },
+  "1DF51BEA-E099-46AA-9370-C2EB1A89E616": {
+    "id": "1DF51BEA-E099-46AA-9370-C2EB1A89E616",
+    "title": "F.05.07 Women Trailblazers Round Tables - Session 3",
+    "event_type": "session"
+  },
+  "98EEDD0E-08C1-449C-99EC-C1BD845F19B1": {
+    "id": "98EEDD0E-08C1-449C-99EC-C1BD845F19B1",
+    "title": "A.01.04 - POSTER - Advancing Air Quality Monitoring from Space",
+    "event_type": "poster session"
+  },
+  "74C8EC0C-2C37-489A-8758-AECE537C83DA": {
+    "id": "74C8EC0C-2C37-489A-8758-AECE537C83DA",
+    "title": "A.01.07 - POSTER - Tracking and classifying aerosols through advances in observation and modelling",
+    "event_type": "poster session"
+  },
+  "AB7F5273-C4E2-411B-B9E1-55987218A80E": {
+    "id": "AB7F5273-C4E2-411B-B9E1-55987218A80E",
+    "title": "A.04.02 - POSTER - GHG monitoring for policy",
+    "event_type": "poster session"
+  },
+  "86A896F5-3E68-41F9-8E24-C6DF4C2431E9": {
+    "id": "86A896F5-3E68-41F9-8E24-C6DF4C2431E9",
+    "title": "A.05.02 - POSTER - Earth observation for Climate Services",
+    "event_type": "poster session"
+  },
+  "F8B651AD-A746-4458-8EB7-51D3B2BBA0F2": {
+    "id": "F8B651AD-A746-4458-8EB7-51D3B2BBA0F2",
+    "title": "A.07.02 - POSTER - Quantification of Water Resources and Their Evolution Under Anthropogenic Pressure",
+    "event_type": "poster session"
+  },
+  "AD70984E-7B22-4ED0-AC5C-5A8A5F013B34": {
+    "id": "AD70984E-7B22-4ED0-AC5C-5A8A5F013B34",
+    "title": "A.07.04 - POSTER - Irrigation monitoring through Earth Observation (EO) data",
+    "event_type": "poster session"
+  },
+  "FA5B5A1D-CC95-43B9-B251-EC367047BA04": {
+    "id": "FA5B5A1D-CC95-43B9-B251-EC367047BA04",
+    "title": "A.09.05 - POSTER - Using Earth Observation to assess change and dynamics of the Greenland Ice Sheet",
+    "event_type": "poster session"
+  },
+  "1D366039-5488-45C7-88E3-BF24D512A23A": {
+    "id": "1D366039-5488-45C7-88E3-BF24D512A23A",
+    "title": "A.09.06 - POSTER - Advances in Permafrost",
+    "event_type": "poster session"
+  },
+  "D4AD2224-94AE-4846-8BC3-06A21C0BC1E8": {
+    "id": "D4AD2224-94AE-4846-8BC3-06A21C0BC1E8",
+    "title": "A.09.09 - POSTER - Arctic and Antarctic Sea Ice in the Earth system: Advancing Research with Remote Sensing, In-Situ Observations, and Modeling",
+    "event_type": "poster session"
+  },
+  "DB142BB7-970F-4CED-AA62-29723D27A6F5": {
+    "id": "DB142BB7-970F-4CED-AA62-29723D27A6F5",
+    "title": "A.09.10 - POSTER - Interactions and feedback between Ice, Land and Ocean in Polar Regions",
+    "event_type": "poster session"
+  },
+  "8A2AF0CB-1E74-491C-A933-348A02A85BE6": {
+    "id": "8A2AF0CB-1E74-491C-A933-348A02A85BE6",
+    "title": "A.11.01 - POSTER - Earth Energy Imbalance and Radiative Forcing",
+    "event_type": "poster session"
+  },
+  "29AA0706-846E-4169-9823-445B690EDE10": {
+    "id": "29AA0706-846E-4169-9823-445B690EDE10",
+    "title": "B.01.03 - POSTER - Transforming Global Analysis Ready Earth Observation Data into Actionable Information to Drive Local Climate and Environmental Actions via Co-creation",
+    "event_type": "poster session"
+  },
+  "A0A52EB1-26B8-4CDA-BFFB-C63E0851B6EE": {
+    "id": "A0A52EB1-26B8-4CDA-BFFB-C63E0851B6EE",
+    "title": "B.02.01 - POSTER - Earth System Governance & Sustainability Frameworks",
+    "event_type": "poster session"
+  },
+  "BB291759-BDEF-430F-AEE8-8BFC1E861C25": {
+    "id": "BB291759-BDEF-430F-AEE8-8BFC1E861C25",
+    "title": "B.02.09 - POSTER - The Role of Spaceborne Imaging Spectroscopy and Drone-based Calibration Data for Integrated Freshwater and Coastal Monitoring",
+    "event_type": "poster session"
+  },
+  "2546F4D3-3A77-416A-9852-8021E35FE6FA": {
+    "id": "2546F4D3-3A77-416A-9852-8021E35FE6FA",
+    "title": "B.03.07 - POSTER - Land-atmosphere interactions: finding solutions for land-based mitigation and adaptation",
+    "event_type": "poster session"
+  },
+  "362913F7-F6D9-4EA2-B32B-4A2BD9707F98": {
+    "id": "362913F7-F6D9-4EA2-B32B-4A2BD9707F98",
+    "title": "B.04.06 - POSTER - Fire Detection and Monitoring from Earth Observation Data for Rapid Disaster Response",
+    "event_type": "poster session"
+  },
+  "E377E8B5-4773-4B63-A438-D959FFD96B7D": {
+    "id": "E377E8B5-4773-4B63-A438-D959FFD96B7D",
+    "title": "C.01.01 - POSTER - High Altitude Pseudo Satellites in Earth Observation",
+    "event_type": "poster session"
+  },
+  "CE590A67-32F4-4FBA-8020-96753CE582D3": {
+    "id": "CE590A67-32F4-4FBA-8020-96753CE582D3",
+    "title": "C.01.02 - POSTER - Innovative UAV Applications for Earth Observation",
+    "event_type": "poster session"
+  },
+  "6DB3C23F-DD1D-4F55-AEB0-65623CE328B3": {
+    "id": "6DB3C23F-DD1D-4F55-AEB0-65623CE328B3",
+    "title": "C.01.11 - POSTER - Airborne and Ground-based Instrument Demonstrators",
+    "event_type": "poster session"
+  },
+  "5533B5CB-FC9F-4609-A5B1-2CBE6C7B771D": {
+    "id": "5533B5CB-FC9F-4609-A5B1-2CBE6C7B771D",
+    "title": "C.01.13 - POSTER - Quantum Sensors: Next-Generation Tools for Earth Observation",
+    "event_type": "poster session"
+  },
+  "50EBA85C-5ED4-4EEE-8EAB-4D6E7D631ADC": {
+    "id": "50EBA85C-5ED4-4EEE-8EAB-4D6E7D631ADC",
+    "title": "C.02.09 - POSTER - Preparing for the FLuorescence EXplorer (FLEX) mission",
+    "event_type": "poster session"
+  },
+  "6D5DE427-A0B7-46F6-813D-7C9C25D13DEC": {
+    "id": "6D5DE427-A0B7-46F6-813D-7C9C25D13DEC",
+    "title": "C.02.13 - POSTER - ESA's Harmony mission",
+    "event_type": "poster session"
+  },
+  "B3DC5187-04FB-4347-81CA-BB1D81A18F53": {
+    "id": "B3DC5187-04FB-4347-81CA-BB1D81A18F53",
+    "title": "C.03.02 - POSTER - Advances in the theory and methodology SAR Interferometry and SAR polarimetry",
+    "event_type": "poster session"
+  },
+  "B34C2033-481D-4926-954E-BA8F1E2575AB": {
+    "id": "B34C2033-481D-4926-954E-BA8F1E2575AB",
+    "title": "C.05.02 - POSTER - TRUTHS \u2013 Setting the gold standard reference for climate applications and satellite inter-calibration",
+    "event_type": "poster session"
+  },
+  "2589CAA4-90F2-4AD4-838C-09498FB9F588": {
+    "id": "2589CAA4-90F2-4AD4-838C-09498FB9F588",
+    "title": "C.06.08 - POSTER - Innovations in Calibration and Validation for New and Upcoming Earth Observation Atmospheric Missions",
+    "event_type": "poster session"
+  },
+  "33C5D9BA-612D-41BD-8C5D-CC5C988CD90F": {
+    "id": "33C5D9BA-612D-41BD-8C5D-CC5C988CD90F",
+    "title": "D.02.03 - POSTER - Approaches, accuracies, applications: next generation large-area land change monitoring",
+    "event_type": "poster session"
+  },
+  "ED4266A9-53C0-4768-A18A-7AA5C2CF00D9": {
+    "id": "ED4266A9-53C0-4768-A18A-7AA5C2CF00D9",
+    "title": "D.02.06 - POSTER - Foundation Models for Earth Observation: Current solutions with less labelled data to improve environment monitoring and future perspectives to revolutionize geospatial data discovery and utilization",
+    "event_type": "poster session"
+  },
+  "1F14AEEC-5B3D-45B1-A7FE-8CA78E71A9FF": {
+    "id": "1F14AEEC-5B3D-45B1-A7FE-8CA78E71A9FF",
+    "title": "D.02.07 - POSTER - Large Language Model Agents and Applications for Earth Observation",
+    "event_type": "poster session"
+  },
+  "C92EF2A8-C337-4C1A-AB4B-B1ECC0A6FBF4": {
+    "id": "C92EF2A8-C337-4C1A-AB4B-B1ECC0A6FBF4",
+    "title": "D.04.02 - POSTER - Best practices for execution of algorithms and workflows across federated cloud environments",
+    "event_type": "poster session"
+  },
+  "5DA9872B-37CC-4CC7-8783-7AE00AE07DA6": {
+    "id": "5DA9872B-37CC-4CC7-8783-7AE00AE07DA6",
+    "title": "D.04.03 - POSTER - Enabling Machine Learning Operations on Cloud Platforms",
+    "event_type": "poster session"
+  },
+  "399387CD-7CF3-4D83-B5E8-2B86D6DC37A5": {
+    "id": "399387CD-7CF3-4D83-B5E8-2B86D6DC37A5",
+    "title": "D.04.05 - POSTER - From the Research Lab to a Global Map: Scalable and Sustainable EO Algorithm Development and Workflows",
+    "event_type": "poster session"
+  },
+  "90B14AEE-5466-4A04-8728-82BD35C7A882": {
+    "id": "90B14AEE-5466-4A04-8728-82BD35C7A882",
+    "title": "D.05.01 - POSTER - Showcasing EO Data and Information Services",
+    "event_type": "poster session"
+  },
+  "BAB82A5B-4D2C-43A9-85D3-281C24DDDDE5": {
+    "id": "BAB82A5B-4D2C-43A9-85D3-281C24DDDDE5",
+    "title": "D.05.02 - POSTER - Advancing Optinization, Resilience and Innovation Capabilities to Evolve ESA's Observation",
+    "event_type": "poster session"
+  },
+  "16898B13-A4B7-48C4-B2EA-FB807FCC3C5E": {
+    "id": "16898B13-A4B7-48C4-B2EA-FB807FCC3C5E",
+    "title": "E.02.01 - POSTER - Advanced SAR processing techniques for security and safety applications",
+    "event_type": "poster session"
+  },
+  "722130FA-36A4-4F9F-9D8F-69D3A91B8583": {
+    "id": "722130FA-36A4-4F9F-9D8F-69D3A91B8583",
+    "title": "F.01.02 - POSTER - Raising awareness on climate change and environmental degradation using effective communication and education",
+    "event_type": "poster session"
+  },
+  "E7FBE854-1DA7-4885-B77D-81574FD4FCBF": {
+    "id": "E7FBE854-1DA7-4885-B77D-81574FD4FCBF",
+    "title": "F.03.01 - POSTER - Commercial EO missions\u2019 data for marine applications",
+    "event_type": "poster session"
+  },
+  "6AFED12B-6390-4464-936F-4FACF9709E8D": {
+    "id": "6AFED12B-6390-4464-936F-4FACF9709E8D",
+    "title": "F.04.07 - POSTER - Earth Observation for Tracking Global Sustainability and Biodiversity Targets",
+    "event_type": "poster session"
+  },
+  "73FD691B-E373-4525-95AD-1D873E6D8B42": {
+    "id": "73FD691B-E373-4525-95AD-1D873E6D8B42",
+    "title": "F.04.11 - POSTER - Earth Observation for Environmental Compliance: Enhancing Monitoring, Guidance, and Enforcement",
+    "event_type": "poster session"
+  },
+  "6CEA7BE5-B588-41A1-9CC4-78920EBB2CA8": {
+    "id": "6CEA7BE5-B588-41A1-9CC4-78920EBB2CA8",
+    "title": "F.04.15 - POSTER - Resilient Coasts: Adaptive Strategies for Sustainable Ocean Management in a Changing Climate",
+    "event_type": "poster session"
+  },
+  "797CC638-C8AE-46FA-A2AB-4BF0B2148B62": {
+    "id": "797CC638-C8AE-46FA-A2AB-4BF0B2148B62",
+    "title": "F.04.16 - POSTER - Sustainable Blue Economy",
+    "event_type": "poster session"
+  },
+  "BDAB8230-8810-44DB-BF4F-3064B44B8C78": {
+    "id": "BDAB8230-8810-44DB-BF4F-3064B44B8C78",
+    "title": "A.07.11 DEMO - Quality Assurance for Soil Moisture (QA4SM) - A centralized soil moisture validation and inter-comparison platform",
+    "event_type": "session"
+  },
+  "43FE0E68-8E8E-4F4A-BF55-68CDFF060A0A": {
+    "id": "43FE0E68-8E8E-4F4A-BF55-68CDFF060A0A",
+    "title": "B.01.08 DEMO - EO Analytics for SDG Indicators monitoring: End hunger and sustainably use marine resources",
+    "event_type": "session"
+  },
+  "DA5E1099-0A5E-46C9-BD1A-6D7EBB7556F9": {
+    "id": "DA5E1099-0A5E-46C9-BD1A-6D7EBB7556F9",
+    "title": "C.02.22 DEMO - ESA MAAP for EO Science Missions: A Cloud-Based Collaborative Environment for Data Access, Processing, and Algorithm Development",
+    "event_type": "session"
+  },
+  "2F819A73-783B-4032-BE1B-972FDA20FE94": {
+    "id": "2F819A73-783B-4032-BE1B-972FDA20FE94",
+    "title": "C.03.22 DEMO - Technical websites for the Copernicus Sentinel missions",
+    "event_type": "session"
+  },
+  "361EF114-18A4-449B-9D74-70C46C61C518": {
+    "id": "361EF114-18A4-449B-9D74-70C46C61C518",
+    "title": "C.06.15 DEMO - InSAR Time Series Benchmark Dataset Creation by a new Open-Source Package (AlignSAR)",
+    "event_type": "session"
+  },
+  "823AF6A8-76A3-465B-8696-45091275A5C8": {
+    "id": "823AF6A8-76A3-465B-8696-45091275A5C8",
+    "title": "C.06.18 DEMO - KARIOS Training",
+    "event_type": "session"
+  },
+  "6106A7C5-82B4-4EE1-9677-F4D451552E30": {
+    "id": "6106A7C5-82B4-4EE1-9677-F4D451552E30",
+    "title": "D.01.12 DEMO - Accessing Earth Observation Data through the HIGHWAY Service",
+    "event_type": "session"
+  },
+  "1961294E-2758-40A4-A795-88D7F62A85D1": {
+    "id": "1961294E-2758-40A4-A795-88D7F62A85D1",
+    "title": "D.01.14 DEMO - DestinEStreamer: Revolutionizing Big Data in Earth Observation and Climate Science",
+    "event_type": "session"
+  },
+  "1D1642E9-EC09-464A-ACD8-6AF2D5A80BFB": {
+    "id": "1D1642E9-EC09-464A-ACD8-6AF2D5A80BFB",
+    "title": "D.01.17 DEMO - Digital Twin Analytics for What-If Scenario Comparison: Flood Use Case",
+    "event_type": "session"
+  },
+  "12A53C57-6019-4DB2-A70B-AE6578DBC992": {
+    "id": "12A53C57-6019-4DB2-A70B-AE6578DBC992",
+    "title": "D.01.18 DEMO - DestinE Platform Demo",
+    "event_type": "session"
+  },
+  "780D24F3-C557-4394-994E-B70F6227E229": {
+    "id": "780D24F3-C557-4394-994E-B70F6227E229",
+    "title": "D.02.27 DEMO - SCANEO, an AI-powered web tool for smart labeling of satellite data training datasets",
+    "event_type": "session"
+  },
+  "C3FC1DF5-6C33-4D96-876B-520DF04214D8": {
+    "id": "C3FC1DF5-6C33-4D96-876B-520DF04214D8",
+    "title": "D.03.19 DEMO - QField in Practice",
+    "event_type": "session"
+  },
+  "E495E552-D6B1-4986-8CE7-1AA8527A779A": {
+    "id": "E495E552-D6B1-4986-8CE7-1AA8527A779A",
+    "title": "D.03.20 DEMO - Cubes & Clouds 2.0 \u2013 A Massive Open Online Course for Cloud Native Open Data Sciences in Earth Observation",
+    "event_type": "session"
+  },
+  "DDBCC88E-A895-454D-B1CD-BC446F9647A4": {
+    "id": "DDBCC88E-A895-454D-B1CD-BC446F9647A4",
+    "title": "D.03.27 DEMO - openEO by TiTiler: Demonstrating Fast Open Science Processing for Dynamic Earth Observation Visualization",
+    "event_type": "session"
+  },
+  "3362D43F-5765-4683-ADDB-440B32E7AA7B": {
+    "id": "3362D43F-5765-4683-ADDB-440B32E7AA7B",
+    "title": "D.04.18 DEMO - InSAR processing with OpenEO in CDSE",
+    "event_type": "session"
+  },
+  "EC4B38B8-280D-4E3E-937D-334064E8AF03": {
+    "id": "EC4B38B8-280D-4E3E-937D-334064E8AF03",
+    "title": "D.04.22 DEMO - Transforming EO Research into On-Demand Cloud Services with APEx Algorithm Services",
+    "event_type": "session"
+  },
+  "2C897FC2-B8BC-42A2-9D87-9AA2A84D4A49": {
+    "id": "2C897FC2-B8BC-42A2-9D87-9AA2A84D4A49",
+    "title": "D.04.25 DEMO - Codeless EO data analysis with openEO, leveraging the cloud resources of openEO platform straight from your web browser",
+    "event_type": "session"
+  },
+  "602F9422-EA5C-494E-8129-721DD2C7E635": {
+    "id": "602F9422-EA5C-494E-8129-721DD2C7E635",
+    "title": "D.04.30 DEMO - UP42 platform - simplified and accelerated access to geospatial data",
+    "event_type": "session"
+  },
+  "0D6323CC-DD81-44D6-B5EA-BFC62319135E": {
+    "id": "0D6323CC-DD81-44D6-B5EA-BFC62319135E",
+    "title": "D.04.31 DEMO - NoR Updates and Road Map - session 4",
+    "event_type": "session"
+  },
+  "B79B29C4-E175-41AC-90B5-EB88C9459B98": {
+    "id": "B79B29C4-E175-41AC-90B5-EB88C9459B98",
+    "title": "D.04.32 DEMO - KForge: enable close-to-real-time EO for all - from a demonstrator to a scalable European capability",
+    "event_type": "session"
+  },
+  "EB4998F3-0EC1-4F0D-A9DC-D28AA32107BA": {
+    "id": "EB4998F3-0EC1-4F0D-A9DC-D28AA32107BA",
+    "title": "E.03.04 DEMO - GMV Prodigi: Cloud-Native EO Data Processing as a Service \u2013 Global Launch on AWS Marketplace",
+    "event_type": "session"
+  },
+  "17F1CFB7-469F-496D-A80F-0232EB2B999A": {
+    "id": "17F1CFB7-469F-496D-A80F-0232EB2B999A",
+    "title": "F.01.15 DEMO - Introducing DEA: The Art of Datatelling",
+    "event_type": "session"
+  },
+  "CA9A3352-B36F-4BAF-AB26-9B49B5FB5C75": {
+    "id": "CA9A3352-B36F-4BAF-AB26-9B49B5FB5C75",
+    "title": "F.01.16 DEMO - Education & Professional Development Platform - Session 2",
+    "event_type": "session"
+  },
+  "0BE3F931-8AC3-4FA9-A415-DD52DF788794": {
+    "id": "0BE3F931-8AC3-4FA9-A415-DD52DF788794",
+    "title": "F.05.12 DEMO - What are the top reasons for investing into Copernicus? - Explore them through the new interactive presentation",
+    "event_type": "session"
+  },
+  "6F4E2FBF-6CA5-430A-A9FD-E4C248165B2A": {
+    "id": "6F4E2FBF-6CA5-430A-A9FD-E4C248165B2A",
+    "title": "F.05.13 DEMO - Interactive storytelling of Copernicus4Regions user stories with DEA",
+    "event_type": "session"
+  },
+  "F62DAD70-21F3-45D4-9F29-657EFE81BFC7": {
+    "id": "F62DAD70-21F3-45D4-9F29-657EFE81BFC7",
+    "title": "A.09.05 Using Earth Observation to assess change and dynamics of the Greenland Ice Sheet",
+    "event_type": "session"
+  },
+  "68288F8E-D332-469C-AD8F-E97D17DD1E2E": {
+    "id": "68288F8E-D332-469C-AD8F-E97D17DD1E2E",
+    "title": "A.09.09 Arctic and Antarctic Sea Ice in the Earth system: Advancing Research with Remote Sensing, In-Situ Observations, and Modeling - PART 1",
+    "event_type": "session"
+  },
+  "D6E51EB4-7130-46E4-A0FF-06897465E0D0": {
+    "id": "D6E51EB4-7130-46E4-A0FF-06897465E0D0",
+    "title": "A.09.09 Arctic and Antarctic Sea Ice in the Earth system: Advancing Research with Remote Sensing, In-Situ Observations, and Modeling - PART 2",
+    "event_type": "session"
+  },
+  "6A7F170D-8BCE-47B7-B885-432525C8BBA1": {
+    "id": "6A7F170D-8BCE-47B7-B885-432525C8BBA1",
+    "title": "A.09.09 Arctic and Antarctic Sea Ice in the Earth system: Advancing Research with Remote Sensing, In-Situ Observations, and Modeling - PART 3",
+    "event_type": "session"
+  },
+  "644DF59D-8C0D-42D9-99D2-4D62D65582E4": {
+    "id": "644DF59D-8C0D-42D9-99D2-4D62D65582E4",
+    "title": "D.01.05 ESA DTE Digital Twin Components, Lead Development Actions: Progress, achievements and next steps",
+    "event_type": "session"
+  },
+  "56F6BF77-3F4E-499D-9457-CAD73374F728": {
+    "id": "56F6BF77-3F4E-499D-9457-CAD73374F728",
+    "title": "D.01.06 Destination Earth Checkpoint 2025",
+    "event_type": "session"
+  },
+  "C972EA4C-AC68-4723-BA6C-3B106176AA71": {
+    "id": "C972EA4C-AC68-4723-BA6C-3B106176AA71",
+    "title": "D.01.08 4th DestinE User eXchange - Addressing Data and Service Needs",
+    "event_type": "session"
+  },
+  "8EF8FF9C-65E8-4F51-B860-E12FBA6DE3E4": {
+    "id": "8EF8FF9C-65E8-4F51-B860-E12FBA6DE3E4",
+    "title": "D.01.08 4th DestinE User eXchange - Listening to the Users: Turning Feedback into Functionality",
+    "event_type": "session"
+  },
+  "4542F0B1-942A-41C7-BE15-D4C02AC9FFC6": {
+    "id": "4542F0B1-942A-41C7-BE15-D4C02AC9FFC6",
+    "title": "D.02.03 Approaches, accuracies, applications: next generation large-area land change monitoring - PART 1",
+    "event_type": "session"
+  },
+  "A4F341A5-125D-45B4-96F8-5B01AE38A4F0": {
+    "id": "A4F341A5-125D-45B4-96F8-5B01AE38A4F0",
+    "title": "D.02.03 Approaches, accuracies, applications: next generation large-area land change monitoring - PART 2",
+    "event_type": "session"
+  },
+  "5B48AB17-286A-4232-B233-4568FD461290": {
+    "id": "5B48AB17-286A-4232-B233-4568FD461290",
+    "title": "F.04.07 Earth Observation for Tracking Global Sustainability and Biodiversity Targets - PART 1",
+    "event_type": "session"
+  },
+  "B9007D69-7414-4030-8D26-A0A97B1A006E": {
+    "id": "B9007D69-7414-4030-8D26-A0A97B1A006E",
+    "title": "F.04.07 Earth Observation for Tracking Global Sustainability and Biodiversity Targets - PART 2",
+    "event_type": "session"
+  },
+  "359273F6-9914-4281-9D32-EA58D3F73E7D": {
+    "id": "359273F6-9914-4281-9D32-EA58D3F73E7D",
+    "title": "A.02.04 Advances in Monitoring and Management of Forest Ecosystems - PART 1",
+    "event_type": "session"
+  },
+  "DCFBC7F6-AA27-4CA9-8011-740D9DAED364": {
+    "id": "DCFBC7F6-AA27-4CA9-8011-740D9DAED364",
+    "title": "A.02.04 Advances in Monitoring and Management of Forest Ecosystems - PART 2",
+    "event_type": "session"
+  },
+  "78E55A3D-90F1-4D99-8887-CF65AFC653F0": {
+    "id": "78E55A3D-90F1-4D99-8887-CF65AFC653F0",
+    "title": "A.02.04 Advances in Monitoring and Management of Forest Ecosystems - PART 3",
+    "event_type": "session"
+  },
+  "58534931-78C8-43F3-BE7D-3CA0DDC2F6E7": {
+    "id": "58534931-78C8-43F3-BE7D-3CA0DDC2F6E7",
+    "title": "A.02.04 Advances in Monitoring and Management of Forest Ecosystems - PART 4",
+    "event_type": "session"
+  },
+  "FB48270F-7BC1-4EF7-AFC0-3D346C608776": {
+    "id": "FB48270F-7BC1-4EF7-AFC0-3D346C608776",
+    "title": "D.02.06 Foundation Models for Earth Observation: Current solutions with less labelled data to improve environment monitoring and future perspectives to revolutionize geospatial data discovery and utilization - PART 1",
+    "event_type": "session"
+  },
+  "3B6EF15D-E53F-4BAA-8C8C-F6F7C253C8F0": {
+    "id": "3B6EF15D-E53F-4BAA-8C8C-F6F7C253C8F0",
+    "title": "D.02.06 Foundation Models for Earth Observation: Current solutions with less labelled data to improve environment monitoring and future perspectives to revolutionize geospatial data discovery and utilization - PART 2",
+    "event_type": "session"
+  },
+  "954D4F1E-F4FF-49E7-9C0A-2BBA9300BC44": {
+    "id": "954D4F1E-F4FF-49E7-9C0A-2BBA9300BC44",
+    "title": "D.02.06 Foundation Models for Earth Observation: Current solutions with less labelled data to improve environment monitoring and future perspectives to revolutionize geospatial data discovery and utilization - PART 3",
+    "event_type": "session"
+  },
+  "C8E94871-C4D7-460A-BC3C-9CC015706BD2": {
+    "id": "C8E94871-C4D7-460A-BC3C-9CC015706BD2",
+    "title": "D.02.07 Large Language Model Agents and Applications for Earth Observation",
+    "event_type": "session"
+  },
+  "F374B84B-0B90-413F-B6FB-BCFD2D4752D4": {
+    "id": "F374B84B-0B90-413F-B6FB-BCFD2D4752D4",
+    "title": "B.02.09 The Role of Spaceborne Imaging Spectroscopy and Drone-based Calibration Data for Integrated Freshwater and Coastal Monitoring",
+    "event_type": "session"
+  },
+  "211FB558-7F1A-4DB6-8938-33B461F94C2A": {
+    "id": "211FB558-7F1A-4DB6-8938-33B461F94C2A",
+    "title": "E.03.01 Commercial Earth Observation Missions: Embracing New Paradigms and Innovative Models",
+    "event_type": "session"
+  },
+  "0A2A4062-9607-4BAF-BD83-FD3EC1FAD727": {
+    "id": "0A2A4062-9607-4BAF-BD83-FD3EC1FAD727",
+    "title": "F.04.15 Resilient Coasts: Adaptive Strategies for Sustainable Ocean Management in a Changing Climate",
+    "event_type": "session"
+  },
+  "FB8904A0-5483-4ADB-BE52-90972130E189": {
+    "id": "FB8904A0-5483-4ADB-BE52-90972130E189",
+    "title": "F.04.16 Sustainable Blue Economy",
+    "event_type": "session"
+  },
+  "A0D41FE8-F088-4D18-A80E-801226A39CCB": {
+    "id": "A0D41FE8-F088-4D18-A80E-801226A39CCB",
+    "title": "B.04.06 Fire Detection and Monitoring from Earth Observation Data for Rapid Disaster Response - PART 1",
+    "event_type": "session"
+  },
+  "F166F95B-7444-46D9-BF40-E998455F7BB2": {
+    "id": "F166F95B-7444-46D9-BF40-E998455F7BB2",
+    "title": "B.04.06 Fire Detection and Monitoring from Earth Observation Data for Rapid Disaster Response - PART 2",
+    "event_type": "session"
+  },
+  "DCAA75CD-6151-4CDC-B20D-6134B39C9FF8": {
+    "id": "DCAA75CD-6151-4CDC-B20D-6134B39C9FF8",
+    "title": "C.01.07 Discrete Global Grid Systems (DGGS)",
+    "event_type": "session"
+  },
+  "8B09C9A9-6208-45EF-8D79-A9E920EA8E28": {
+    "id": "8B09C9A9-6208-45EF-8D79-A9E920EA8E28",
+    "title": "C.06.05 CEOS Analysis Ready Data (CEOS-ARD)",
+    "event_type": "session"
+  },
+  "D45A2CDC-BD00-4DA6-A699-B987DAF462F1": {
+    "id": "D45A2CDC-BD00-4DA6-A699-B987DAF462F1",
+    "title": "A.01.04 Advancing Air Quality Monitoring from Space - PART 1",
+    "event_type": "session"
+  },
+  "A927089D-71F3-480F-A66D-DAA974FA34BE": {
+    "id": "A927089D-71F3-480F-A66D-DAA974FA34BE",
+    "title": "A.01.04 Advancing Air Quality Monitoring from Space - PART 2",
+    "event_type": "session"
+  },
+  "457FD703-9D9F-4928-B467-6BB5EA95E811": {
+    "id": "457FD703-9D9F-4928-B467-6BB5EA95E811",
+    "title": "A.01.04 Advancing Air Quality Monitoring from Space - PART 3",
+    "event_type": "session"
+  },
+  "3169740D-3412-4867-96EA-76760D3378B9": {
+    "id": "3169740D-3412-4867-96EA-76760D3378B9",
+    "title": "A.01.07 Tracking and classifying aerosols through advances in observation and modelling",
+    "event_type": "session"
+  },
+  "6CE21E02-90AB-4C0B-92E7-3B317D981BA7": {
+    "id": "6CE21E02-90AB-4C0B-92E7-3B317D981BA7",
+    "title": "B.01.03 Transforming Global Analysis Ready Earth Observation Data into Actionable Information to Drive Local Climate and Environmental Actions via Co-creation - PART 1",
+    "event_type": "session"
+  },
+  "4DBD775F-12FE-459A-99E4-E243344A729F": {
+    "id": "4DBD775F-12FE-459A-99E4-E243344A729F",
+    "title": "B.01.03 Transforming Global Analysis Ready Earth Observation Data into Actionable Information to Drive Local Climate and Environmental Actions via Co-creation - PART 2",
+    "event_type": "session"
+  },
+  "84E6C3DF-CD29-4286-A12E-7D05FF34528D": {
+    "id": "84E6C3DF-CD29-4286-A12E-7D05FF34528D",
+    "title": "C.05.02 TRUTHS \u2013 Setting the gold standard reference for climate applications and satellite inter-calibration",
+    "event_type": "session"
+  },
+  "3DDFB9AA-9A4A-419E-A522-6128334B42A5": {
+    "id": "3DDFB9AA-9A4A-419E-A522-6128334B42A5",
+    "title": "F.01.02 Raising awareness on climate change and environmental degradation using effective communication and education",
+    "event_type": "session"
+  },
+  "30C6FE28-2EC9-4040-8B75-486A0776C84A": {
+    "id": "30C6FE28-2EC9-4040-8B75-486A0776C84A",
+    "title": "D.04.02 Best practices for execution of algorithms and workflows across federated cloud environments",
+    "event_type": "session"
+  },
+  "8DBD0031-3AFD-438D-9E7E-3B20D33E39C3": {
+    "id": "8DBD0031-3AFD-438D-9E7E-3B20D33E39C3",
+    "title": "D.04.03 Enabling Machine Learning Operations on Cloud Platforms",
+    "event_type": "session"
+  },
+  "E08D7F30-6DEF-4574-8B1D-354EC4D3933C": {
+    "id": "E08D7F30-6DEF-4574-8B1D-354EC4D3933C",
+    "title": "D.04.05 From the Research Lab to a Global Map: Scalable and Sustainable EO Algorithm Development and Workflows",
+    "event_type": "session"
+  },
+  "F3CE6508-6309-481E-8796-E8378629D702": {
+    "id": "F3CE6508-6309-481E-8796-E8378629D702",
+    "title": "D.06.05 Addressing Data Processing Challanges in EO Digital Framework: Scaling Computational Resources",
+    "event_type": "session"
+  },
+  "417D80D2-4526-4ECF-8C6B-0CC939BAED20": {
+    "id": "417D80D2-4526-4ECF-8C6B-0CC939BAED20",
+    "title": "B.02.01 Earth System Governance & Sustainability Frameworks",
+    "event_type": "session"
+  },
+  "38E2450B-A5A7-474F-85B7-60097FAA1281": {
+    "id": "38E2450B-A5A7-474F-85B7-60097FAA1281",
+    "title": "C.03.18 The critical role of CCM for a resilient society and environment",
+    "event_type": "session"
+  },
+  "84ED1A5E-0652-4476-A5B1-2C8BC0F44CE0": {
+    "id": "84ED1A5E-0652-4476-A5B1-2C8BC0F44CE0",
+    "title": "E.01.05 FutureEO - Open Call for EO Innovation and PECS/AM/NMS RPA Call overview",
+    "event_type": "session"
+  },
+  "7D650957-F40C-41F5-B702-40DA8DC2D1B7": {
+    "id": "7D650957-F40C-41F5-B702-40DA8DC2D1B7",
+    "title": "F.03.03 Insights into commercial EO data programmes of ESA and other national and international entities",
+    "event_type": "session"
+  },
+  "C2B907DE-4292-4750-AD2E-F59ED65DEE7A": {
+    "id": "C2B907DE-4292-4750-AD2E-F59ED65DEE7A",
+    "title": "C.03.02 Advances in the theory and methodology SAR Interferometry and SAR polarimetry - PART 1",
+    "event_type": "session"
+  },
+  "53A21370-4317-495C-8BA1-F349B75E1759": {
+    "id": "53A21370-4317-495C-8BA1-F349B75E1759",
+    "title": "C.03.02 Advances in the theory and methodology SAR Interferometry and SAR polarimetry - PART 2",
+    "event_type": "session"
+  },
+  "8AE132C1-8EE9-4870-B338-B34A0398E8AB": {
+    "id": "8AE132C1-8EE9-4870-B338-B34A0398E8AB",
+    "title": "C.03.02 Advances in the theory and methodology SAR Interferometry and SAR polarimetry - PART 3",
+    "event_type": "session"
+  },
+  "E3EC053F-D77A-4441-9F15-DE4F32E0468F": {
+    "id": "E3EC053F-D77A-4441-9F15-DE4F32E0468F",
+    "title": "E.02.01 Advanced SAR processing techniques for security and safety applications",
+    "event_type": "session"
+  },
+  "2C13F624-D8EA-416B-8ED2-07C7C5D903A6": {
+    "id": "2C13F624-D8EA-416B-8ED2-07C7C5D903A6",
+    "title": "A.04.02 GHG monitoring for policy",
+    "event_type": "session"
+  },
+  "3FCC545F-F15A-4D41-A07C-CF39B5297681": {
+    "id": "3FCC545F-F15A-4D41-A07C-CF39B5297681",
+    "title": "C.01.13 Quantum Sensors: Next-Generation Tools for Earth Observation",
+    "event_type": "session"
+  },
+  "74D36529-5698-4442-98F9-0786EC8E93BD": {
+    "id": "74D36529-5698-4442-98F9-0786EC8E93BD",
+    "title": "C.06.08 Innovations in Calibration and Validation for New and Upcoming Earth Observation Atmospheric Missions",
+    "event_type": "session"
+  },
+  "3E96B391-2A77-4A8B-AFC7-B4DF166BCF9D": {
+    "id": "3E96B391-2A77-4A8B-AFC7-B4DF166BCF9D",
+    "title": "E.05.02 Opportunities in the Earth Observation Market: A Focus on GHG Monitoring",
+    "event_type": "session"
+  },
+  "671A833D-2D9D-4A85-A326-4097FC3F6F52": {
+    "id": "671A833D-2D9D-4A85-A326-4097FC3F6F52",
+    "title": "A.01.13 Networking Session for Early Career Scientists Focused on EarthCARE",
+    "event_type": "session"
+  },
+  "9F8F1E15-2A66-46F1-913C-2D39D7D87854": {
+    "id": "9F8F1E15-2A66-46F1-913C-2D39D7D87854",
+    "title": "A.02.11 Forest Carbon Monitoring",
+    "event_type": "session"
+  },
+  "D447B891-BBAC-4272-8E75-1AF810FE2B7B": {
+    "id": "D447B891-BBAC-4272-8E75-1AF810FE2B7B",
+    "title": "B.03.10 Early Career Scientist Careers and Networking Event",
+    "event_type": "session"
+  },
+  "3CED5B3C-FA23-4E18-8004-33BF75D9F4E1": {
+    "id": "3CED5B3C-FA23-4E18-8004-33BF75D9F4E1",
+    "title": "D.05.03 Towards Modernized Copernicus Data: Enabling Interoperability through EOPF Principles and Advanced Data Access Strategies",
+    "event_type": "session"
+  },
+  "208BA4FF-6EB0-4758-A4D6-10312B391A76": {
+    "id": "208BA4FF-6EB0-4758-A4D6-10312B391A76",
+    "title": "A.06.03 4D Ionosphere \u2013 where we stand and where we are going",
+    "event_type": "session"
+  },
+  "378F2E09-B650-4CC5-94E8-BBF245ACE93A": {
+    "id": "378F2E09-B650-4CC5-94E8-BBF245ACE93A",
+    "title": "A.10.04 4D Earth: The future of modelling Earth's interior with EO data and its applications.",
+    "event_type": "session"
+  },
+  "0FFD9ADA-9CA8-4419-BA5C-D02FCCA72334": {
+    "id": "0FFD9ADA-9CA8-4419-BA5C-D02FCCA72334",
+    "title": "A.11.01 Earth Energy Imbalance and Radiative Forcing",
+    "event_type": "session"
+  },
+  "6F385623-4B0A-4CD8-85F9-41DBCC57C040": {
+    "id": "6F385623-4B0A-4CD8-85F9-41DBCC57C040",
+    "title": "B.03.07 Land-atmosphere interactions: finding solutions for land-based mitigation and adaptation",
+    "event_type": "session"
+  },
+  "EA4D9A98-0779-4FFF-B94D-F2E99EAFA68F": {
+    "id": "EA4D9A98-0779-4FFF-B94D-F2E99EAFA68F",
+    "title": "C.01.01 High Altitude Pseudo Satellites in Earth Observation",
+    "event_type": "session"
+  },
+  "654B65ED-7E4F-40CC-9212-DEED765177B0": {
+    "id": "654B65ED-7E4F-40CC-9212-DEED765177B0",
+    "title": "C.01.02 Innovative UAV Applications for Earth Observation - PART 1",
+    "event_type": "session"
+  },
+  "A468F40C-DB20-44B3-B046-C11EE93EA4FB": {
+    "id": "A468F40C-DB20-44B3-B046-C11EE93EA4FB",
+    "title": "C.01.02 Innovative UAV Applications for Earth Observation - PART 2",
+    "event_type": "session"
+  },
+  "866210A1-412C-488D-BE86-BAAAF6BAA882": {
+    "id": "866210A1-412C-488D-BE86-BAAAF6BAA882",
+    "title": "C.01.11 Airborne and Ground-based Instrument Demonstrators",
+    "event_type": "session"
+  },
+  "36F9C618-26D2-427D-9697-E049955566DA": {
+    "id": "36F9C618-26D2-427D-9697-E049955566DA",
+    "title": "C.03.10 Copernicus CO2M Mission: Operational Concept, Product and Service Development",
+    "event_type": "session"
+  },
+  "09E589C8-80D8-4F94-8AFF-286E47B054D9": {
+    "id": "09E589C8-80D8-4F94-8AFF-286E47B054D9",
+    "title": "C.06.10 Intercomparison Exercises in Earth Observation \u2013 ACIX, CMIX and RAMI",
+    "event_type": "session"
+  },
+  "909552EF-4BD4-4C5B-B3D7-68EEAB6437A9": {
+    "id": "909552EF-4BD4-4C5B-B3D7-68EEAB6437A9",
+    "title": "F.04.11 Earth Observation for Environmental Compliance: Enhancing Monitoring, Guidance, and Enforcement - PART 1",
+    "event_type": "session"
+  },
+  "4C6B755C-282F-4E6D-B70F-10CEA47FE724": {
+    "id": "4C6B755C-282F-4E6D-B70F-10CEA47FE724",
+    "title": "F.04.11 Earth Observation for Environmental Compliance: Enhancing Monitoring, Guidance, and Enforcement - PART 2",
+    "event_type": "session"
+  },
+  "98BCE2BC-2A52-41FE-A8F9-5BA796340A80": {
+    "id": "98BCE2BC-2A52-41FE-A8F9-5BA796340A80",
+    "title": "C.04.01 Status ESA Mission development - M1 session: MTG",
+    "event_type": "session"
+  },
+  "3C2563A7-7C16-45F1-B647-F8114B697EC3": {
+    "id": "3C2563A7-7C16-45F1-B647-F8114B697EC3",
+    "title": "C.04.01 Status ESA Mission development - M2 session: MetOp-SG",
+    "event_type": "session"
+  },
+  "611491E9-8C2B-4E2A-9B60-4D2FBCB8A92F": {
+    "id": "611491E9-8C2B-4E2A-9B60-4D2FBCB8A92F",
+    "title": "C.04.01 Status ESA Mission development - M3 session: AWS and AEOLUS-2",
+    "event_type": "session"
+  },
+  "4DD9B7FC-9DC2-4FAD-9B54-FD053FC43C8A": {
+    "id": "4DD9B7FC-9DC2-4FAD-9B54-FD053FC43C8A",
+    "title": "C.04.01 Status ESA Mission development - M4 session: US missions and utilisation",
+    "event_type": "session"
+  },
+  "C3800C70-F2DF-480B-8406-632EA3EE464D": {
+    "id": "C3800C70-F2DF-480B-8406-632EA3EE464D",
+    "title": "A.07.02 Quantification of Water Resources and Their Evolution Under Anthropogenic Pressure - PART 1",
+    "event_type": "session"
+  },
+  "921ED73E-B658-4BE7-A74C-94DC10D8F739": {
+    "id": "921ED73E-B658-4BE7-A74C-94DC10D8F739",
+    "title": "A.07.02 Quantification of Water Resources and Their Evolution Under Anthropogenic Pressure - PART 2",
+    "event_type": "session"
+  },
+  "FCC48851-8449-4905-AB7F-7125CAC5B3A2": {
+    "id": "FCC48851-8449-4905-AB7F-7125CAC5B3A2",
+    "title": "A.07.04 Irrigation monitoring through Earth Observation (EO) data - PART 1",
+    "event_type": "session"
+  },
+  "182ECCB1-DA18-4C87-B477-A6EE0BA1D271": {
+    "id": "182ECCB1-DA18-4C87-B477-A6EE0BA1D271",
+    "title": "A.07.04 Irrigation monitoring through Earth Observation (EO) data - PART 2",
+    "event_type": "session"
+  },
+  "F6AE2E33-5AB3-44C0-AEB7-8221FD199551": {
+    "id": "F6AE2E33-5AB3-44C0-AEB7-8221FD199551",
+    "title": "A.05.02 Earth observation for Climate Services - PART 1",
+    "event_type": "session"
+  },
+  "645217CF-5781-42E5-9EE2-EDAE465F7ADD": {
+    "id": "645217CF-5781-42E5-9EE2-EDAE465F7ADD",
+    "title": "A.05.02 Earth observation for Climate Services - PART 2",
+    "event_type": "session"
+  },
+  "6F457411-B144-4171-86D1-6DAD9239BD2B": {
+    "id": "6F457411-B144-4171-86D1-6DAD9239BD2B",
+    "title": "C.02.09 Preparing for the FLuorescence EXplorer (FLEX) mission - PART 1",
+    "event_type": "session"
+  },
+  "39E8FDA8-74E2-4A81-8179-EBD1A875E445": {
+    "id": "39E8FDA8-74E2-4A81-8179-EBD1A875E445",
+    "title": "C.02.09 Preparing for the FLuorescence EXplorer (FLEX) mission - PART 2",
+    "event_type": "session"
+  },
+  "3E41B85A-4161-4A9E-8FA1-8297EDC75CD4": {
+    "id": "3E41B85A-4161-4A9E-8FA1-8297EDC75CD4",
+    "title": "D.05.01 Showcasing EO Data and Information Services",
+    "event_type": "session"
+  },
+  "5CB758AA-783A-4C07-B681-BECD31EFD9E2": {
+    "id": "5CB758AA-783A-4C07-B681-BECD31EFD9E2",
+    "title": "D.05.02 Advancing Optinization, Resilience and Innovation Capabilities to Evolve ESA's Observation",
+    "event_type": "session"
+  },
+  "56B45B60-E4FC-4175-B87C-E30ECF12C96D": {
+    "id": "56B45B60-E4FC-4175-B87C-E30ECF12C96D",
+    "title": "F.03.01 Commercial EO missions data for marine and land applications - Part 1",
+    "event_type": "session"
+  },
+  "D5D18785-8C89-4E33-BE92-D7DE089FD7F0": {
+    "id": "D5D18785-8C89-4E33-BE92-D7DE089FD7F0",
+    "title": "F.03.01 Commercial EO missions data for marine and land applications - Part 2",
+    "event_type": "session"
+  },
+  "3A2A4596-A786-4F81-851B-170DC9C81498": {
+    "id": "3A2A4596-A786-4F81-851B-170DC9C81498",
+    "title": "A.05.10 The ESA-NASA Arctic Methane Permafrost Challenge (AMPAC) community past and future review",
+    "event_type": "session"
+  },
+  "138F1AA6-9C21-4EC1-AED9-2E6E23279941": {
+    "id": "138F1AA6-9C21-4EC1-AED9-2E6E23279941",
+    "title": "A.05.11 How to Ensure Accuracy and Stability of Sea Level Measurements? Calibration, Validation and Verification for Current and Future Reference Altimeter Missions. - PART 2",
+    "event_type": "session"
+  },
+  "AB7085CC-FE32-4C7C-960C-654ADEB84520": {
+    "id": "AB7085CC-FE32-4C7C-960C-654ADEB84520",
+    "title": "A.05.11 I How to Ensure Accuracy and Stability of Sea Level Measurements? Calibration, Validation and Verification for Current and Future Reference Altimeter Missions. - PART 1",
+    "event_type": "session"
+  },
+  "F608E32F-3F97-4C85-90E2-B0FC43001C04": {
+    "id": "F608E32F-3F97-4C85-90E2-B0FC43001C04",
+    "title": "A.08.15 The ESA Ocean Science Cluster",
+    "event_type": "session"
+  },
+  "EE63F86F-CF2A-4D3F-9AF1-C3D93F8F08B6": {
+    "id": "EE63F86F-CF2A-4D3F-9AF1-C3D93F8F08B6",
+    "title": "A.09.06 Advances in Permafrost - PART 1",
+    "event_type": "session"
+  },
+  "6878AD47-7BC6-4EBD-8C40-5129539E5BFB": {
+    "id": "6878AD47-7BC6-4EBD-8C40-5129539E5BFB",
+    "title": "A.09.06 Advances in Permafrost - PART 2",
+    "event_type": "session"
+  },
+  "EE64D027-5AC8-403F-B3AD-C63011DDA59A": {
+    "id": "EE64D027-5AC8-403F-B3AD-C63011DDA59A",
+    "title": "A.09.10 Interactions and feedback between Ice, Land and Ocean in Polar Regions",
+    "event_type": "session"
+  },
+  "A48E03B0-6A83-4D2D-BF81-528A53BD767E": {
+    "id": "A48E03B0-6A83-4D2D-BF81-528A53BD767E",
+    "title": "C.02.13 ESA's Harmony mission",
+    "event_type": "session"
+  },
+  "68990503-EEA3-4071-AE29-1CF13FED55C9": {
+    "id": "68990503-EEA3-4071-AE29-1CF13FED55C9",
+    "title": "Breakthroughs and Paradigm Shifts in EO",
+    "event_type": "session"
+  },
+  "CA0B0F6F-3F25-4A47-B6AD-F65DEE9DA240": {
+    "id": "CA0B0F6F-3F25-4A47-B6AD-F65DEE9DA240",
+    "title": "A.05.15 Rock up and pitch: Observations to support the next generation of climate modelling evaluation",
+    "event_type": "session"
+  },
+  "B1710E1B-324D-47F6-B57C-24BB1F8EAFDD": {
+    "id": "B1710E1B-324D-47F6-B57C-24BB1F8EAFDD",
+    "title": "C.01.18 Crafting the Perfect Bouquet of Innovation: Presenting the Next EO Technology Demonstration Mission",
+    "event_type": "session"
+  },
+  "9BBAFDE8-DBA0-4990-B8C1-45E189A42BA2": {
+    "id": "9BBAFDE8-DBA0-4990-B8C1-45E189A42BA2",
+    "title": "F.04.24 How to make Earth Observation Science more actionable for policymakers?",
+    "event_type": "session"
+  },
+  "9D3EFAAA-F4B7-4B1D-942E-4C3452096B1B": {
+    "id": "9D3EFAAA-F4B7-4B1D-942E-4C3452096B1B",
+    "title": "C.06.12 Trends, challenges and communicaition on RF interference and frequency management",
+    "event_type": "session"
+  },
+  "7AA99E6D-40FA-4CE1-AE3C-CA01CD8EAD54": {
+    "id": "7AA99E6D-40FA-4CE1-AE3C-CA01CD8EAD54",
+    "title": "F.05.07 Women Trailblazers Round Tables - Session 4",
+    "event_type": "session"
+  },
+  "CFBFCB86-794E-410D-8B67-4EDA976AF466": {
+    "id": "CFBFCB86-794E-410D-8B67-4EDA976AF466",
+    "title": "C.01.22 What Does the Future Look Like? Future EO Architectures for Science Observations",
+    "event_type": "session"
+  },
+  "160ECE40-8A97-46DB-8E4D-4B65FAD100A4": {
+    "id": "160ECE40-8A97-46DB-8E4D-4B65FAD100A4",
+    "title": "F.04.29 Air Quality Policies Development and the role of Earth Observation",
+    "event_type": "session"
+  },
+  "6A5BC8AF-EAB0-4CD7-92AC-48B90336149D": {
+    "id": "6A5BC8AF-EAB0-4CD7-92AC-48B90336149D",
+    "title": "A.01.06 - POSTER - Aerosol, clouds, their interactions and the radiation budget",
+    "event_type": "poster session"
+  },
+  "EE70F40C-2EF2-49D6-9E0D-68762A40ED4D": {
+    "id": "EE70F40C-2EF2-49D6-9E0D-68762A40ED4D",
+    "title": "A.01.09 - POSTER - Atmospheric 3D Winds for Weather and Climate",
+    "event_type": "poster session"
+  },
+  "D435BD3A-BF99-43FC-940B-FC86E865635D": {
+    "id": "D435BD3A-BF99-43FC-940B-FC86E865635D",
+    "title": "A.02.01 - POSTER - Land Surface Temperature and Emissivity Data for Research and Applications",
+    "event_type": "poster session"
+  },
+  "1046FED8-74CC-4104-AAF9-A0A40C1A596F": {
+    "id": "1046FED8-74CC-4104-AAF9-A0A40C1A596F",
+    "title": "A.02.04 - POSTER - Advances in Monitoring and Management of Forest Ecosystems",
+    "event_type": "poster session"
+  },
+  "5345408F-6932-4CBD-8587-1F8BB229ADD6": {
+    "id": "5345408F-6932-4CBD-8587-1F8BB229ADD6",
+    "title": "A.02.07 - POSTER - Monitoring grasslands and rangelands from space",
+    "event_type": "poster session"
+  },
+  "FAB572A7-9E3B-4BBD-BE37-FEDF517B8D54": {
+    "id": "FAB572A7-9E3B-4BBD-BE37-FEDF517B8D54",
+    "title": "A.07.01 - POSTER - Soil moisture",
+    "event_type": "poster session"
+  },
+  "C9CCF7AA-524F-41E0-A3B4-0C4B26D5EFEE": {
+    "id": "C9CCF7AA-524F-41E0-A3B4-0C4B26D5EFEE",
+    "title": "A.08.05 - POSTER - Measuring and Monitoring Winds",
+    "event_type": "poster session"
+  },
+  "6BA04DBB-EFB2-4F5D-A4DE-108C66579B27": {
+    "id": "6BA04DBB-EFB2-4F5D-A4DE-108C66579B27",
+    "title": "A.08.06 - POSTER - Ocean Extremes and multiple stressors events",
+    "event_type": "poster session"
+  },
+  "045F47EF-ACD9-409B-9425-ECEC17DF9B01": {
+    "id": "045F47EF-ACD9-409B-9425-ECEC17DF9B01",
+    "title": "A.08.11 - POSTER - Ocean Waves: Measurements, Interactions and Applications",
+    "event_type": "poster session"
+  },
+  "8C0B5AD1-FCCA-4C93-B1E2-8D2EF991CF5C": {
+    "id": "8C0B5AD1-FCCA-4C93-B1E2-8D2EF991CF5C",
+    "title": "A.09.03 - POSTER - Understanding the Arctic as a system",
+    "event_type": "poster session"
+  },
+  "7AA713FB-CAFD-463D-BEBC-A1B12A33EB80": {
+    "id": "7AA713FB-CAFD-463D-BEBC-A1B12A33EB80",
+    "title": "B.03.05 - POSTER - Heritage at Risk: Innovative Tools for Assessing and Mitigating Climate Change and Natural Hazards",
+    "event_type": "poster session"
+  },
+  "DCC41E08-A318-420D-9BD5-030BD2DACA64": {
+    "id": "DCC41E08-A318-420D-9BD5-030BD2DACA64",
+    "title": "B.04.04 - POSTER - Spaceborne data for the analysis of Natural Hazards and AI: new insights from Artificial Intelligence technologies and recent missions",
+    "event_type": "poster session"
+  },
+  "D827AB11-B3B9-45AA-95CE-7060F4B2E633": {
+    "id": "D827AB11-B3B9-45AA-95CE-7060F4B2E633",
+    "title": "C.01.03 - POSTER - Innovative space technologies enabling growth for new EO science",
+    "event_type": "poster session"
+  },
+  "D216A9CA-6F7C-4DE0-AF38-CB701CB093F9": {
+    "id": "D216A9CA-6F7C-4DE0-AF38-CB701CB093F9",
+    "title": "C.01.14 - POSTER - Exploring new observations and mission concepts\u202ffor atmospheric measurements (observations, modelling and theories)",
+    "event_type": "poster session"
+  },
+  "9BD40543-54AD-472F-A7FF-8648213F6AFF": {
+    "id": "9BD40543-54AD-472F-A7FF-8648213F6AFF",
+    "title": "C.02.01 - POSTER - Aeolus Mission: 5 years of advancing atmospheric understanding through spaceborne lidar technology.",
+    "event_type": "poster session"
+  },
+  "E669438C-3D44-43EE-9236-993ABF80ED95": {
+    "id": "E669438C-3D44-43EE-9236-993ABF80ED95",
+    "title": "C.02.02 - POSTER - Heritage Missions and Long Time Data Series",
+    "event_type": "poster session"
+  },
+  "60EE66A7-D0DE-45EA-9465-EFEFB1F956FA": {
+    "id": "60EE66A7-D0DE-45EA-9465-EFEFB1F956FA",
+    "title": "C.02.03 - POSTER - SMOS \u2013 15 years in space",
+    "event_type": "poster session"
+  },
+  "31A68C2E-331A-48C6-BC60-5ACCA366FE8C": {
+    "id": "31A68C2E-331A-48C6-BC60-5ACCA366FE8C",
+    "title": "C.02.04 - POSTER - Small Earth Science Missions",
+    "event_type": "poster session"
+  },
+  "ED1997CF-5E39-44D9-BB18-FD6685726923": {
+    "id": "ED1997CF-5E39-44D9-BB18-FD6685726923",
+    "title": "C.02.20 - POSTER - Past and Future EO Scientific Mission Concept",
+    "event_type": "poster session"
+  },
+  "3700CAD5-5D2F-4708-9F00-A3DB8FED6AFE": {
+    "id": "3700CAD5-5D2F-4708-9F00-A3DB8FED6AFE",
+    "title": "C.06.02 - POSTER - Advances in Calibration and Product Validation for Optical Sensors",
+    "event_type": "poster session"
+  },
+  "F04F89EC-EE75-4241-9BDA-DA553378D5B9": {
+    "id": "F04F89EC-EE75-4241-9BDA-DA553378D5B9",
+    "title": "C.06.04 - POSTER - New Space Missions Data Quality & Cal/Val",
+    "event_type": "poster session"
+  },
+  "519C0B2E-3A02-4747-9A14-339EE8944DBD": {
+    "id": "519C0B2E-3A02-4747-9A14-339EE8944DBD",
+    "title": "C.06.07 - POSTER - Recent progress on uncertainty analysis for Earth Observation measurements",
+    "event_type": "poster session"
+  },
+  "8A7F9479-98CC-40CE-AB1A-E30AC58B89BC": {
+    "id": "8A7F9479-98CC-40CE-AB1A-E30AC58B89BC",
+    "title": "D.02.02 - POSTER - Advances of Machine Learning (ML) methods for Cryosphere applications",
+    "event_type": "poster session"
+  },
+  "CF4C5F52-BB1F-4A94-AADA-1949A1DC1689": {
+    "id": "CF4C5F52-BB1F-4A94-AADA-1949A1DC1689",
+    "title": "D.02.08 - POSTER - Explainable AI for Earth Observation and Earth Science",
+    "event_type": "poster session"
+  },
+  "C49D0393-3447-4478-B36C-6853550FBC37": {
+    "id": "C49D0393-3447-4478-B36C-6853550FBC37",
+    "title": "D.04.01 - POSTER - Data Access and Interoperability to enable Infrastructure-agnostic Science Reproducibility",
+    "event_type": "poster session"
+  },
+  "242BB4C6-4036-48CE-AEF0-CE7BB8F16336": {
+    "id": "242BB4C6-4036-48CE-AEF0-CE7BB8F16336",
+    "title": "D.04.06 - POSTER - Advancements in cloud-native formats and APIs for efficient management and processing of Earth Observation data",
+    "event_type": "poster session"
+  },
+  "2F7C7294-329A-46C5-A39F-E9EDEA6355A6": {
+    "id": "2F7C7294-329A-46C5-A39F-E9EDEA6355A6",
+    "title": "D.05.03 - POSTER - Leveraging the Copernicus data Space Ecosystem to develop and upscale novel Earth Observation applications",
+    "event_type": "poster session"
+  },
+  "21B4274E-B7C3-4659-956C-A40D2DCBDF52": {
+    "id": "21B4274E-B7C3-4659-956C-A40D2DCBDF52",
+    "title": "D.06.03 - POSTER - Digital Revolution and Emerging Technologies",
+    "event_type": "poster session"
+  },
+  "26069AB3-9C0D-4DC4-A970-67B5449E2FB3": {
+    "id": "26069AB3-9C0D-4DC4-A970-67B5449E2FB3",
+    "title": "E.01.01 - POSTER - EO for Cultural and Natural Heritage: from innovation to user uptake",
+    "event_type": "poster session"
+  },
+  "FFC8D596-D721-4BE3-8301-D2F8193188E4": {
+    "id": "FFC8D596-D721-4BE3-8301-D2F8193188E4",
+    "title": "F.05.03 - POSTER - Tracking conflict impacts: Earth Observation for socio-economic resilience and global policy support",
+    "event_type": "poster session"
+  },
+  "732ABFCC-80CB-49F2-BC66-AB41EEFCD40F": {
+    "id": "732ABFCC-80CB-49F2-BC66-AB41EEFCD40F",
+    "title": "A.09.13 DEMO - CS2EO: Query Platform for Altimetry Data",
+    "event_type": "session"
+  },
+  "FC05F92D-8654-4AF6-AF8A-81769D5D5FAE": {
+    "id": "FC05F92D-8654-4AF6-AF8A-81769D5D5FAE",
+    "title": "B.01.09 DEMO - Unlocking the Power of Earth Observation: Global Development Assistance (GDA) Analytical Processing Platform (APP)",
+    "event_type": "session"
+  },
+  "A7452340-E953-46F5-BEE8-73FA41CEA00C": {
+    "id": "A7452340-E953-46F5-BEE8-73FA41CEA00C",
+    "title": "C.01.26 DEMO - Enhancing Earth Observation with AI: Validating Onboard Processing with Smart Mission Lab",
+    "event_type": "session"
+  },
+  "699DEAE6-DE3D-4F10-BD16-61BA33AE6C87": {
+    "id": "699DEAE6-DE3D-4F10-BD16-61BA33AE6C87",
+    "title": "C.03.23 DEMO - The new CCM Rapid Response Desk (RRD) Service - Insights into the Rolling Archive and Data Re-use",
+    "event_type": "session"
+  },
+  "591FE670-09B0-4343-BCAF-6B8710DACE8D": {
+    "id": "591FE670-09B0-4343-BCAF-6B8710DACE8D",
+    "title": "D.01.13 DEMO - Vizlab - Data visualization on Destination Earth Platform",
+    "event_type": "session"
+  },
+  "7368EB75-9DDC-4D51-AA1B-B4558C31AF1B": {
+    "id": "7368EB75-9DDC-4D51-AA1B-B4558C31AF1B",
+    "title": "D.01.19 DEMO - EDEN service in the platformInteracting with DestinE Data Portfolio",
+    "event_type": "session"
+  },
+  "B0BDC2D8-FFDE-43FC-B61E-3219C4623197": {
+    "id": "B0BDC2D8-FFDE-43FC-B61E-3219C4623197",
+    "title": "D.02.29 DEMO - GeoBreeze: Simple, Fast, and Flexible Evaluation of Remote Sensing Foundation Models",
+    "event_type": "session"
+  },
+  "6C25FAC6-DDA5-4FE3-997D-227A40A5717E": {
+    "id": "6C25FAC6-DDA5-4FE3-997D-227A40A5717E",
+    "title": "D.02.30 DEMO - Create your custom Earth Observation use case with GeoAI",
+    "event_type": "session"
+  },
+  "75248F7F-3544-4898-B67D-A4F14A330C84": {
+    "id": "75248F7F-3544-4898-B67D-A4F14A330C84",
+    "title": "D.03.29 DEMO - Julia for large scale geospatial data analysis",
+    "event_type": "session"
+  },
+  "D10B7367-026C-4144-8873-F448C1D8FDD6": {
+    "id": "D10B7367-026C-4144-8873-F448C1D8FDD6",
+    "title": "D.04.21 DEMO - Empowering EO Projects with Cloud-Based Working Environments in APEx",
+    "event_type": "session"
+  },
+  "AB4AC96C-8D7C-42F8-95B0-1DB602AA8C44": {
+    "id": "AB4AC96C-8D7C-42F8-95B0-1DB602AA8C44",
+    "title": "E.01.12 DEMO - Searching EO and in-situ data using natural language queries in the IEOTO data service",
+    "event_type": "session"
+  },
+  "4F93A82B-C71F-48DB-80EE-EEBA44D60B8C": {
+    "id": "4F93A82B-C71F-48DB-80EE-EEBA44D60B8C",
+    "title": "F.03.04 DEMO - ATOM - Rapid Virtual Tasking of Satellite Imagery via Web Browser or API",
+    "event_type": "session"
+  },
+  "18834D19-1B6B-4F94-BE0A-2A1DDFF921F4": {
+    "id": "18834D19-1B6B-4F94-BE0A-2A1DDFF921F4",
+    "title": "A.09.03 Understanding the Arctic as a system",
+    "event_type": "session"
+  },
+  "79352F62-AA54-4056-AC8C-FDDD8EFA2F76": {
+    "id": "79352F62-AA54-4056-AC8C-FDDD8EFA2F76",
+    "title": "A.09.12 Identifying the next research priorities for the ESA Polar Science Cluster 2026+",
+    "event_type": "session"
+  },
+  "76FFF17E-48BC-44DE-AF77-899144CB573D": {
+    "id": "76FFF17E-48BC-44DE-AF77-899144CB573D",
+    "title": "D.02.02 Advances of Machine Learning (ML) methods for Cryosphere applications",
+    "event_type": "session"
+  },
+  "2C7C6284-DCA4-43B8-B027-E0718938B8F6": {
+    "id": "2C7C6284-DCA4-43B8-B027-E0718938B8F6",
+    "title": "B.04.04 Spaceborne data for the analysis of Natural Hazards and AI: new insights from Artificial Intelligence technologies and recent missions - PART 1",
+    "event_type": "session"
+  },
+  "F842827E-CC80-4CED-A9EF-718AD0115BC3": {
+    "id": "F842827E-CC80-4CED-A9EF-718AD0115BC3",
+    "title": "B.04.04 Spaceborne data for the analysis of Natural Hazards and AI: new insights from Artificial Intelligence technologies and recent missions - PART 2",
+    "event_type": "session"
+  },
+  "EB9E8194-D6B4-4983-BCD0-D0FB70588A70": {
+    "id": "EB9E8194-D6B4-4983-BCD0-D0FB70588A70",
+    "title": "C.02.01 Aeolus Mission: 5 years of advancing atmospheric understanding through spaceborne lidar technology",
+    "event_type": "session"
+  },
+  "71F69FFB-F026-4817-AC25-53893AB381F9": {
+    "id": "71F69FFB-F026-4817-AC25-53893AB381F9",
+    "title": "A.01.06 Aerosol, clouds, their interactions and the radiation budget - PART 1",
+    "event_type": "session"
+  },
+  "E7B719C3-3A07-4974-98A1-FB3305FBF017": {
+    "id": "E7B719C3-3A07-4974-98A1-FB3305FBF017",
+    "title": "A.01.06 Aerosol, clouds, their interactions and the radiation budget - PART 2",
+    "event_type": "session"
+  },
+  "F26FC6A9-140A-4382-82FE-441C95FF42ED": {
+    "id": "F26FC6A9-140A-4382-82FE-441C95FF42ED",
+    "title": "A.01.09 Atmospheric 3D Winds for Weather and Climate",
+    "event_type": "session"
+  },
+  "96446EF3-9E3C-4E3E-A5D9-8065FFABEAA4": {
+    "id": "96446EF3-9E3C-4E3E-A5D9-8065FFABEAA4",
+    "title": "A.02.04 Advances in Monitoring and Management of Forest Ecosystems - PART 5",
+    "event_type": "session"
+  },
+  "4864D63F-7F6A-40B0-901D-6E1CA12258FE": {
+    "id": "4864D63F-7F6A-40B0-901D-6E1CA12258FE",
+    "title": "A.02.04 Advances in Monitoring and Management of Forest Ecosystems - PART 6",
+    "event_type": "session"
+  },
+  "C4771577-43D4-40B9-9F27-993A01ADD76A": {
+    "id": "C4771577-43D4-40B9-9F27-993A01ADD76A",
+    "title": "A.02.04 Advances in Monitoring and Management of Forest Ecosystems - PART 7",
+    "event_type": "session"
+  },
+  "3A75B08D-EE6F-48B9-9034-1BC9BED6EBD0": {
+    "id": "3A75B08D-EE6F-48B9-9034-1BC9BED6EBD0",
+    "title": "D.02.08 Explainable AI for Earth Observation and Earth Science - PART 1",
+    "event_type": "session"
+  },
+  "37303239-56EC-41F8-9423-CF38E05C5983": {
+    "id": "37303239-56EC-41F8-9423-CF38E05C5983",
+    "title": "D.02.08 Explainable AI for Earth Observation and Earth Science - PART 2",
+    "event_type": "session"
+  },
+  "4A80617E-CC60-439C-B25D-9AEBE081CBFD": {
+    "id": "4A80617E-CC60-439C-B25D-9AEBE081CBFD",
+    "title": "D.02.08 Explainable AI for Earth Observation and Earth Science - PART 3",
+    "event_type": "session"
+  },
+  "5C07519D-1160-4AD8-8C5C-C1D5BE765355": {
+    "id": "5C07519D-1160-4AD8-8C5C-C1D5BE765355",
+    "title": "A.02.01 Land Surface Temperature and Emissivity Data for Research and Applications - PART 1",
+    "event_type": "session"
+  },
+  "806258AA-30A6-4916-81C1-C22350EA2E36": {
+    "id": "806258AA-30A6-4916-81C1-C22350EA2E36",
+    "title": "A.02.01 Land Surface Temperature and Emissivity Data for Research and Applications - PART 2",
+    "event_type": "session"
+  },
+  "8E0DAE11-35DB-43E2-850A-3171E63EA7CD": {
+    "id": "8E0DAE11-35DB-43E2-850A-3171E63EA7CD",
+    "title": "A.02.01 Land Surface Temperature and Emissivity Data for Research and Applications - PART 3",
+    "event_type": "session"
+  },
+  "2F325549-4FF4-4C29-A9C6-84907AA5DD89": {
+    "id": "2F325549-4FF4-4C29-A9C6-84907AA5DD89",
+    "title": "C.02.04 Small Earth Science Missions",
+    "event_type": "session"
+  },
+  "5662ED03-6DA2-48D4-8177-2BF300A4227A": {
+    "id": "5662ED03-6DA2-48D4-8177-2BF300A4227A",
+    "title": "D.01.07 ESA Digital Twin Earth Mid-term Milestone - PART 1",
+    "event_type": "session"
+  },
+  "6C64515E-E592-4BDE-86B3-43046B217FE8": {
+    "id": "6C64515E-E592-4BDE-86B3-43046B217FE8",
+    "title": "D.01.07 ESA Digital Twin Earth Mid-term Milestone - PART 2",
+    "event_type": "session"
+  },
+  "98C8A8A1-7F82-4AFB-9BFC-F84FAAFE7136": {
+    "id": "98C8A8A1-7F82-4AFB-9BFC-F84FAAFE7136",
+    "title": "D.04.06 Advancements in cloud-native formats and APIs for efficient management and processing of Earth Observation data",
+    "event_type": "session"
+  },
+  "518B5B41-122F-451A-8A75-6171FD7219CB": {
+    "id": "518B5B41-122F-451A-8A75-6171FD7219CB",
+    "title": "E.03.03 The Future of Earth Observation Services: The Evolution of Public Goods and Private EO Solutions",
+    "event_type": "session"
+  },
+  "6BC3AE50-7F1D-425A-91C1-E0F018C77BA9": {
+    "id": "6BC3AE50-7F1D-425A-91C1-E0F018C77BA9",
+    "title": "F.04.25 Making your science more actionable for policymakers",
+    "event_type": "session"
+  },
+  "F8643F49-42FE-46F5-82BA-BD52F521BDCE": {
+    "id": "F8643F49-42FE-46F5-82BA-BD52F521BDCE",
+    "title": "C.01.21 Technology by National Agencies for future EO missions",
+    "event_type": "session"
+  },
+  "EE43FB08-4AD1-490C-9F68-8EF52F5EFE75": {
+    "id": "EE43FB08-4AD1-490C-9F68-8EF52F5EFE75",
+    "title": "C.02.16 ESA Earth Explorers 11 and 12: The Future Earth Science Research Mission Candidates",
+    "event_type": "session"
+  },
+  "730C90A6-6EFA-4F68-A6F0-C3AD8A58DBAB": {
+    "id": "730C90A6-6EFA-4F68-A6F0-C3AD8A58DBAB",
+    "title": "C.02.20 Past and Future EO Scientific Mission Concept",
+    "event_type": "session"
+  },
+  "7BB4FF03-9188-4339-ABBC-A7A3518B027D": {
+    "id": "7BB4FF03-9188-4339-ABBC-A7A3518B027D",
+    "title": "C.06.02 Advances in Calibration and Product Validation for Optical Sensors - PART 1",
+    "event_type": "session"
+  },
+  "1301A205-3877-40FC-9D13-2FC0B6CD77FD": {
+    "id": "1301A205-3877-40FC-9D13-2FC0B6CD77FD",
+    "title": "C.06.02 Advances in Calibration and Product Validation for Optical Sensors - PART 2",
+    "event_type": "session"
+  },
+  "9F32E69E-9C34-4687-AB5D-3A80F5D22E18": {
+    "id": "9F32E69E-9C34-4687-AB5D-3A80F5D22E18",
+    "title": "C.06.02 Advances in Calibration and Product Validation for Optical Sensors - PART 3",
+    "event_type": "session"
+  },
+  "FC5206C8-039F-4E7E-9A7F-FC326B1D8A66": {
+    "id": "FC5206C8-039F-4E7E-9A7F-FC326B1D8A66",
+    "title": "A.02.09 Students and Young Professional session on Earth Observation for Biodiversity and Ecosystem Conservation",
+    "event_type": "session"
+  },
+  "BFC9824E-E470-454E-97A6-2B5CAAE0D8A5": {
+    "id": "BFC9824E-E470-454E-97A6-2B5CAAE0D8A5",
+    "title": "C.01.14 Exploring new observations and mission concepts\u202ffor atmospheric measurements (observations, modelling and theories)",
+    "event_type": "session"
+  },
+  "2CED0B00-B9E1-41B7-8288-3FE11524FADB": {
+    "id": "2CED0B00-B9E1-41B7-8288-3FE11524FADB",
+    "title": "D.05.04 Digital Copernicus \u2013 shaping Europe\u2019s Digital Future in the Age of AI",
+    "event_type": "session"
+  },
+  "B6EE6E09-A94F-43BC-B603-1A32CAF10024": {
+    "id": "B6EE6E09-A94F-43BC-B603-1A32CAF10024",
+    "title": "C.06.07 Recent progress on uncertainty analysis for Earth Observation measurements - PART 1",
+    "event_type": "session"
+  },
+  "EB9A4BA0-E0F4-4FAC-AAAB-5950C51C4946": {
+    "id": "EB9A4BA0-E0F4-4FAC-AAAB-5950C51C4946",
+    "title": "C.06.07 Recent progress on uncertainty analysis for Earth Observation measurements - PART 2",
+    "event_type": "session"
+  },
+  "9356A494-7B9D-4AE1-8271-BE0E33DF40CC": {
+    "id": "9356A494-7B9D-4AE1-8271-BE0E33DF40CC",
+    "title": "F.04.22 The fundamental role of National Statistical Offices for climate and environmental policies: how Earth Observation can support the simplification of the transversal reporting",
+    "event_type": "session"
+  },
+  "38E6FD73-4A12-4EC5-BF6F-C4827952CFB2": {
+    "id": "38E6FD73-4A12-4EC5-BF6F-C4827952CFB2",
+    "title": "C.06.11 RF Interference and Frequency Managemnet challanges in EO missions",
+    "event_type": "session"
+  },
+  "171CA82D-8BC6-4C11-8D02-0BBC3410BFF1": {
+    "id": "171CA82D-8BC6-4C11-8D02-0BBC3410BFF1",
+    "title": "E.02.02 Addressing the Grey Zone",
+    "event_type": "session"
+  },
+  "3FFE9BFD-FDFC-4F78-B133-0752AF51DCE3": {
+    "id": "3FFE9BFD-FDFC-4F78-B133-0752AF51DCE3",
+    "title": "A.01.11 Living Planet Fellowship Programme Coordination - PART 1",
+    "event_type": "session"
+  },
+  "CBDBF4D3-CA15-4D41-8A50-22DE72AED8A1": {
+    "id": "CBDBF4D3-CA15-4D41-8A50-22DE72AED8A1",
+    "title": "A.01.11 Living Planet Fellowship Programme Coordination - PART 2",
+    "event_type": "session"
+  },
+  "10C03C6E-F4A2-42C4-A482-61F0DB6E7D17": {
+    "id": "10C03C6E-F4A2-42C4-A482-61F0DB6E7D17",
+    "title": "F.03.01 Commercial EO missions data for marine and land applications - Part 3",
+    "event_type": "session"
+  },
+  "DD1BFA39-B9D0-421F-BDE6-1EDFE0F3C099": {
+    "id": "DD1BFA39-B9D0-421F-BDE6-1EDFE0F3C099",
+    "title": "B.03.05 Heritage at Risk: Innovative Tools for Assessing and Mitigating Climate Change and Natural Hazards",
+    "event_type": "session"
+  },
+  "01B21DA7-180F-49D4-8858-3744CCF16FA5": {
+    "id": "01B21DA7-180F-49D4-8858-3744CCF16FA5",
+    "title": "E.01.01 EO for Cultural and Natural Heritage: from innovation to user uptake - PART 1",
+    "event_type": "session"
+  },
+  "1729F79B-C5C5-41AF-9508-3AA139E637E1": {
+    "id": "1729F79B-C5C5-41AF-9508-3AA139E637E1",
+    "title": "E.01.01 EO for Cultural and Natural Heritage: from innovation to user uptake - PART 2",
+    "event_type": "session"
+  },
+  "47AFAABC-3B42-4B44-8962-2FE00490060D": {
+    "id": "47AFAABC-3B42-4B44-8962-2FE00490060D",
+    "title": "C.03.14 Sentinel-3 Mission Status, Achievements, and Future Plans - PART 1",
+    "event_type": "session"
+  },
+  "38A12C2E-1D9C-475C-8AA3-155EB3A3D5BC": {
+    "id": "38A12C2E-1D9C-475C-8AA3-155EB3A3D5BC",
+    "title": "C.03.14 Sentinel-3 Mission Status, Achievements, and Future Plans - PART 2",
+    "event_type": "session"
+  },
+  "761F7763-079C-4A62-B664-62A3FBACC09A": {
+    "id": "761F7763-079C-4A62-B664-62A3FBACC09A",
+    "title": "F.02.10 Joint use of Sentinel-1 and RCM to support citizen services in Europe and Canada",
+    "event_type": "session"
+  },
+  "45503D89-9870-4F95-92F7-6EA3CC349EE9": {
+    "id": "45503D89-9870-4F95-92F7-6EA3CC349EE9",
+    "title": "C.02.02 Heritage Missions and Long Time Data Series - PART 1",
+    "event_type": "session"
+  },
+  "DF5D789A-CAD8-422E-B1B2-40873AEFE862": {
+    "id": "DF5D789A-CAD8-422E-B1B2-40873AEFE862",
+    "title": "C.02.02 Heritage Missions and Long Time Data Series - PART 2",
+    "event_type": "session"
+  },
+  "AD02EA6B-646C-4BB1-AC02-38FB11D9C8A6": {
+    "id": "AD02EA6B-646C-4BB1-AC02-38FB11D9C8A6",
+    "title": "D.02.15 The ESA \u03a6sat-2 mission: an AI empowered 6U Cubesat for Earth Observation",
+    "event_type": "session"
+  },
+  "C5D6D6C9-6FD5-4FFA-813A-F3EEC3DE4AAE": {
+    "id": "C5D6D6C9-6FD5-4FFA-813A-F3EEC3DE4AAE",
+    "title": "A.08.05 Measuring and Monitoring Winds",
+    "event_type": "session"
+  },
+  "A19FA0D5-55B5-4B39-B901-F3C4EDDFEA47": {
+    "id": "A19FA0D5-55B5-4B39-B901-F3C4EDDFEA47",
+    "title": "A.08.06 Ocean Extremes and multiple stressors events",
+    "event_type": "session"
+  },
+  "0AC60083-35D9-4B50-9507-AAC6B3B5B6DB": {
+    "id": "0AC60083-35D9-4B50-9507-AAC6B3B5B6DB",
+    "title": "A.08.11 Ocean Waves: Measurements, Interactions and Applications",
+    "event_type": "session"
+  },
+  "B36CE432-26CA-4CC8-A355-77FEA69177E8": {
+    "id": "B36CE432-26CA-4CC8-A355-77FEA69177E8",
+    "title": "A.07.01 Soil moisture - PART 1",
+    "event_type": "session"
+  },
+  "1A9CAB62-75D8-4315-B49B-7E6B3293190D": {
+    "id": "1A9CAB62-75D8-4315-B49B-7E6B3293190D",
+    "title": "A.07.01 Soil moisture - PART 2",
+    "event_type": "session"
+  },
+  "DF22AE44-E1D5-43D8-AFE1-FACEFD6A02E4": {
+    "id": "DF22AE44-E1D5-43D8-AFE1-FACEFD6A02E4",
+    "title": "C.02.03 SMOS \u2013 15 years in space",
+    "event_type": "session"
+  },
+  "B611174A-013A-4019-AB4E-F90A6DD487F7": {
+    "id": "B611174A-013A-4019-AB4E-F90A6DD487F7",
+    "title": "B.03.09 Community-Led Climate Initiatives: Share and discuss successful grassroots climate action projects from around the world",
+    "event_type": "session"
+  },
+  "3F0CB6D2-A334-452D-B6E7-80EF3F53ADD7": {
+    "id": "3F0CB6D2-A334-452D-B6E7-80EF3F53ADD7",
+    "title": "D.04.01 Data Access and Interoperability to enable Infrastructure-agnostic Science Reproducibility",
+    "event_type": "session"
+  },
+  "07CFD67A-B985-4AE6-B474-A624C6832E97": {
+    "id": "07CFD67A-B985-4AE6-B474-A624C6832E97",
+    "title": "A.02.07 Monitoring grasslands and rangelands from space - PART 1",
+    "event_type": "session"
+  },
+  "B97E4F69-1334-407F-8506-F2C07AB18D7F": {
+    "id": "B97E4F69-1334-407F-8506-F2C07AB18D7F",
+    "title": "A.02.07 Monitoring grasslands and rangelands from space - PART 2",
+    "event_type": "session"
+  },
+  "5B971CE7-9926-4153-A440-08EA507A7366": {
+    "id": "5B971CE7-9926-4153-A440-08EA507A7366",
+    "title": "A.02.07 Monitoring grasslands and rangelands from space - PART 3",
+    "event_type": "session"
+  },
+  "444A1EF8-3701-441A-9D85-9A215FD47779": {
+    "id": "444A1EF8-3701-441A-9D85-9A215FD47779",
+    "title": "C.06.04 New Space Missions Data Quality & Cal/Val",
+    "event_type": "session"
+  },
+  "647A828B-2DBA-431E-BD2C-23E2361F1E6A": {
+    "id": "647A828B-2DBA-431E-BD2C-23E2361F1E6A",
+    "title": "D.06.03 Digital Revolution and Emerging Technologies",
+    "event_type": "session"
+  },
+  "23447350-6132-40FF-9020-FAC1500C728A": {
+    "id": "23447350-6132-40FF-9020-FAC1500C728A",
+    "title": "F.05.03 Tracking conflict impacts: Earth Observation for socio-economic resilience and global policy support",
+    "event_type": "session"
+  },
+  "C6490210-E3D9-49EC-86A3-ABDB733C914B": {
+    "id": "C6490210-E3D9-49EC-86A3-ABDB733C914B",
+    "title": "C.01.03 Innovative space technologies enabling growth for new EO science",
+    "event_type": "session"
+  },
+  "10DB030B-2CEC-4FEE-B10C-BB0B0D329191": {
+    "id": "10DB030B-2CEC-4FEE-B10C-BB0B0D329191",
+    "title": "C.01.20 Recurring Spacecraft Platform technology for future EO missions",
+    "event_type": "session"
+  },
+  "F4605C6F-9366-4771-B24F-CE767130C017": {
+    "id": "F4605C6F-9366-4771-B24F-CE767130C017",
+    "title": "C.02.19 Future trends in smallsat based research missions",
+    "event_type": "session"
+  }
+}
