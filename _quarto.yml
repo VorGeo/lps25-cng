@@ -2,6 +2,10 @@ project:
   type: website
 
 website:
+  open-graph: true
+  title: "Cloud-Native Geospatial at LPS 2025"
+  site-url: https://vorgeo.github.io/lps25-cng/
+  image: "images/cng_perfect_loop.gif"
   navbar:
     title: "Cloud-Native Geospatial at LPS 2025"
     logo: "images/cng_perfect_loop.gif"
