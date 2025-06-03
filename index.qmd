@@ -11,7 +11,7 @@ import json
 import math
 import numpy as np
 import pandas as pd
-from IPython.display import display, HTML
+from IPython.display import display, HTML, Markdown
 from dateutil.parser import parse
 ```
 
@@ -61,6 +61,7 @@ display(HTML(f"""
 ```
 
 ```{python}
+#| output: asis
 # See https://bootswatch.com/ for Theme classes
 
 for date in [
@@ -73,8 +74,8 @@ for date in [
 ]:
 
   df_day = df[date == df["start_dt"].dt.date]
-  display(HTML(f"""<h1>{date.strftime("%A %d %B")}</h1><h3>{len(df_day)} events</h3>"""))
-  # print(f'{len(df_day)=}')
+  display(Markdown(f"\n# {date.strftime("%A %d %B")}"""))
+  display(Markdown(f"\n### {len(df_day)} events"""))
   for idx, row in df_day.iterrows():
     desc = f'{row.title}' if isinstance(row.title, str) else ''
     if isinstance(row.session_id, str):

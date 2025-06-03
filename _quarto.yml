@@ -10,5 +10,5 @@ format:
     theme:
       light: sketchy
       dark: darkly
-    css: styles.css
-    toc: false
+    # css: styles.css
+    toc: true
