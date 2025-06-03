@@ -2,11 +2,19 @@ project:
   type: website
 
 website:
-  title: "CNG @ LPS 2025"
+  navbar:
+    title: "Cloud-Native Geospatial at LPS 2025"
+    logo: "images/cng_perfect_loop.gif"
+    tools:
+      - icon: github
+        menu:
+          - text: Source Code
+            href:  https://github.com/VorGeo/lps25-cng
+          - text: Report a Bug
+            href:  https://github.com/VorGeo/lps25-cng/issues
 
 format:
   html:
-    # theme: sandstone
     theme:
       light: sketchy
       dark: darkly

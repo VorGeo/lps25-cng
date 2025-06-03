@@ -1,5 +1,4 @@
 ---
-title: "Cloud-Native Geospatial Sessions @ LPS 2025"
 execute:
   echo: false
   engine: python
@@ -46,6 +45,8 @@ for item in items:
 df = pd.DataFrame(items)
 df.sort_values(by='start_dt', inplace=True)
 ```
+
+<!-- ![](images/cng_perfect_loop.gif){width=200px} -->
 
 ```{python}
 display(HTML(f"""
