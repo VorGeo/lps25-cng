@@ -108,10 +108,10 @@
     "location": "X5 - Poster Area",
     "presentation_id": "A5A0F58C-99A8-4053-A497-8ECE0B144E44",
     "tags": [
-      "stac",
-      "cloud-native",
       "zarr",
-      "cog"
+      "stac",
+      "cog",
+      "cloud-native"
     ]
   },
   {
@@ -161,8 +161,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "9F1F196A-BD56-402E-A8A5-C60688D09789",
     "tags": [
-      "cloud-native",
-      "zarr"
+      "zarr",
+      "cloud-native"
     ]
   },
   {
@@ -372,8 +372,8 @@
     "presentation_id": "035665B1-9101-4C9E-94CB-8807ED849663",
     "tags": [
       "stac",
-      "cloud-native",
       "cog",
+      "cloud-native",
       "parquet"
     ]
   },
@@ -908,8 +908,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "89C46DEA-159A-4990-8766-AD390C8A760D",
     "tags": [
-      "parquet",
-      "fiboa"
+      "fiboa",
+      "parquet"
     ]
   },
   {
@@ -1059,9 +1059,9 @@
     "type": "demo",
     "session_id": "41BBA9F1-C53D-4276-8EBC-1350ECD1D840",
     "tags": [
+      "zarr",
       "stac",
-      "cloud-native",
-      "zarr"
+      "cloud-native"
     ]
   },
   {
@@ -1759,9 +1759,9 @@
     "location": "X5 - Poster Area",
     "presentation_id": "F7EACB41-28E1-45FC-A009-BD2BDDF21197",
     "tags": [
+      "zarr",
       "stac",
-      "cloud-native",
-      "zarr"
+      "cloud-native"
     ]
   },
   {
@@ -1786,10 +1786,10 @@
     "location": "X5 - Poster Area",
     "presentation_id": "2173BA43-9CF0-4F19-95C4-CAC75E7CDBB2",
     "tags": [
-      "stac",
-      "cloud-native",
       "zarr",
-      "cog"
+      "stac",
+      "cog",
+      "cloud-native"
     ]
   },
   {
@@ -2159,8 +2159,8 @@
     "presentation_id": "A2FDBD2A-9C5B-4EC2-980B-4D5A739D4415",
     "tags": [
       "stac",
-      "zarr",
-      "cog"
+      "cog",
+      "zarr"
     ]
   },
   {
@@ -2287,8 +2287,8 @@
     "type": "session",
     "session_id": "3CED5B3C-FA23-4E18-8004-33BF75D9F4E1",
     "tags": [
-      "cloud-native",
-      "zarr"
+      "zarr",
+      "cloud-native"
     ]
   },
   {
@@ -2516,8 +2516,8 @@
     "presentation_id": "6B2F8BA1-D1F0-48A0-969C-B6012591C2FC",
     "tags": [
       "stac",
-      "cloud-native",
-      "cog"
+      "cog",
+      "cloud-native"
     ]
   },
   {
@@ -2539,9 +2539,9 @@
     "location": "X5 - Poster Area",
     "presentation_id": "DE8BFD7C-A033-4B5A-8FE2-EBD6A260F810",
     "tags": [
+      "zarr",
       "stac",
       "cloud-native",
-      "zarr",
       "pangeo"
     ]
   },
@@ -2583,9 +2583,9 @@
     "location": "X5 - Poster Area",
     "presentation_id": "56E337F7-EADD-4641-BC8B-A056CE0B869A",
     "tags": [
+      "zarr",
       "stac",
-      "cloud-native",
-      "zarr"
+      "cloud-native"
     ]
   },
   {
@@ -2606,8 +2606,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "941BC934-0458-41B5-A8A7-ADD9E9D562A6",
     "tags": [
-      "cloud-native",
-      "zarr"
+      "zarr",
+      "cloud-native"
     ]
   },
   {
@@ -2733,8 +2733,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "EE20C19F-ED37-48AA-845F-81C815312532",
     "tags": [
-      "cloud-native",
-      "zarr"
+      "zarr",
+      "cloud-native"
     ]
   },
   {
@@ -2858,11 +2858,11 @@
     "type": "session",
     "session_id": "98C8A8A1-7F82-4AFB-9BFC-F84FAAFE7136",
     "tags": [
-      "parquet",
-      "stac",
       "cloud-native",
-      "cog",
-      "zarr"
+      "zarr",
+      "stac",
+      "parquet",
+      "cog"
     ]
   },
   {
@@ -2971,10 +2971,10 @@
     "location": "Hall K2",
     "presentation_id": "DDAD3041-72BF-4FAF-9429-FCBA7081E600",
     "tags": [
-      "virtualizarr",
+      "kerchunk",
       "stac",
       "zarr",
-      "kerchunk"
+      "virtualizarr"
     ]
   },
   {
@@ -3093,10 +3093,10 @@
     "location": "Room 1.31/1.32",
     "presentation_id": "323699B8-688A-46C1-8870-7DDF009D487F",
     "tags": [
-      "stac",
-      "cloud-native",
       "zarr",
-      "cog"
+      "stac",
+      "cog",
+      "cloud-native"
     ]
   },
   {
@@ -3127,10 +3127,10 @@
     "location": "Room 1.31/1.32",
     "presentation_id": "2CF5896C-BEBD-43FB-961B-F0773B86318D",
     "tags": [
-      "stac",
-      "cloud-native",
       "zarr",
-      "cog"
+      "stac",
+      "cog",
+      "cloud-native"
     ]
   },
   {
@@ -3166,8 +3166,8 @@
     "tags": [
       "kerchunk",
       "stac",
-      "zarr",
-      "cog"
+      "cog",
+      "zarr"
     ]
   },
   {
@@ -3524,10 +3524,10 @@
     "location": "X5 - Poster Area",
     "presentation_id": "CB47235C-86B8-489B-8481-B350D929660E",
     "tags": [
-      "stac",
-      "cloud-native",
       "zarr",
-      "cog"
+      "stac",
+      "cog",
+      "cloud-native"
     ]
   },
   {

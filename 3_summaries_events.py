@@ -33,6 +33,7 @@ search_terms = [
   {'term': 'pmtiles', 'tag': 'pmtiles'},
   {'term': 'fiboa', 'tag': 'fiboa'},
   {'term': 'pangeo', 'tag': 'pangeo'},
+  {'term': 'copc', 'tag': 'copc'},
 ]
 
 for search_term in search_terms:
