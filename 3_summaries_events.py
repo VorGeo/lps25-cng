@@ -24,12 +24,15 @@ def search_events(search_term):
 search_terms = [
   {'term': 'cloud-native|cloud native', 'tag': 'cloud-native'},
   {'term': 'stac', 'tag': 'stac'},
-  {'term': 'pangeo', 'tag': 'pangeo'},
   {'term': 'cog|cogs', 'tag': 'cog'},
-  {'term': 'jupytergis', 'tag': 'jupytergis'},
   {'term': 'zarr|geozarr', 'tag': 'zarr'},
+  {'term': 'virtualizarr', 'tag': 'virtualizarr'},
   {'term': 'parquet|geoparquet', 'tag': 'parquet'},
-  # {'term': 'earth engine', 'tag': 'earth engine'},
+  {'term': 'kerchunk', 'tag': 'kerchunk'},
+  {'term': 'flatgeobuf', 'tag': 'flatgeobuf'},
+  {'term': 'pmtiles', 'tag': 'pmtiles'},
+  {'term': 'fiboa', 'tag': 'fiboa'},
+  {'term': 'pangeo', 'tag': 'pangeo'},
 ]
 
 for search_term in search_terms:
@@ -48,7 +51,7 @@ for event in tagged_events:
     """)
     print("-" * 80)
 
-print(f'{len(tagged_events)}')
+print(f'{len(tagged_events)} out of {len(event_info)} events have matched tags')
 
 # Change tag set into list
 for event in tagged_events:
