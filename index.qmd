@@ -73,7 +73,7 @@ for date in [
 ]:
 
   df_day = df[date == df["start_dt"].dt.date]
-  display(HTML(f"""<h1>{date.strftime("%A %d %B")} - {len(df_day)} events</h1>"""))
+  display(HTML(f"""<h1>{date.strftime("%A %d %B")}</h1><h3>{len(df_day)} events</h3>"""))
   # print(f'{len(df_day)=}')
   for idx, row in df_day.iterrows():
     desc = f'{row.title}' if isinstance(row.title, str) else ''
