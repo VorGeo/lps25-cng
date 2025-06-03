@@ -35,11 +35,22 @@ def scrape_session_info(id, page):
     raise Exception('No session container found when scraping session info.')
   title_str = session_container_el.locator('h4').first.inner_text()
 
-  type_str = title_str.split(' ', 2)[1]
-  if type_str in ['TUTORIAL', 'HANDS-ON', 'DEMO']:
-    type = type_str.lower()
-  else:
+  try:
+    type_str = title_str.split(' ', 2)[1]
+    if type_str in ['TUTORIAL', 'HANDS-ON', 'DEMO']:
+      type = type_str.lower()
+    else:
+      if 'POSTER' in title_str:
+        type = 'poster'
+      else:
+        type = 'session'
+  except IndexError:
     type = 'session'
+  except Exception as e:
+    print(f'DEBUG error={e}')
+    logging.error(f'{e=}')
+    logging.error(f"Failed to determine session type for {id}")
+    raise Exception('Failed to determine session type when scraping session info.')
 
   info_box_el = page.locator("div.info-box")
   if info_box_el.count() == 0:
@@ -97,26 +108,25 @@ def process_session(session_event):
     presentation_info_dicts = []
     for presentation_el in page.locator('div.presentation-item').all():
       presentation_title_str = presentation_el.locator('h2').inner_text()
-      # print(f'{presentation_title_str=}')
 
       author_els = presentation_el.locator('span.author-name')
       authors = [author_el.inner_text().rsplit(maxsplit=1)[0].strip()
                  for author_el in author_els.all()]
       authors = [author.rstrip(' ,0123456789') for author in authors]
-      # print(f'{authors=}')
 
       affiliation_els = presentation_el.locator('span.affiliation-name')
       affiliations = [affiliation_el.inner_text().split('.', 1)[1].strip() for affiliation_el in affiliation_els.all()]
-      # print(f'{affiliations=}')
 
       abstract_el = presentation_el.locator('div.accordion-body')
       assert abstract_el.count() == 1, 'DEBUG: Expected 1 abstract element'
       abstract = abstract_el.inner_text().strip()
-      # print(f'{abstract=}')
 
-      # <div id="collapse-BC774E36-BCC4-433B-8907-844B405C9582" class="collapse mt-2" data-bs-parent="#presentationsAccordion-BC774E36-BCC4-433B-8907-844B405C9582">
       presentation_id = presentation_el.locator('div.collapse').first.get_attribute('id').split('-', 1)[1]
-      # print(f'{presentation_id=}')
+
+      if session_info_dict['type'] == 'poster':
+        type = 'poster'
+      else:
+        type = 'presentation'
 
       # Save the presentation info
       presentation_info_dicts.append({
@@ -124,7 +134,7 @@ def process_session(session_event):
         'authors': authors,
         'affiliations': affiliations,
         'abstract': abstract,
-        'type': 'presentation',
+        'type': type,
         'session_id': id,
         'start': session_info_dict['start'],
         'end': session_info_dict['end'],
@@ -132,8 +142,6 @@ def process_session(session_event):
         'presentation_id': presentation_id
       })
 
-    # print(f'{session_info_dict=}')
-    # print(f'{presentation_info_dicts=}')
     return [session_info_dict] + presentation_info_dicts
 
     
