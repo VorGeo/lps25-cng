@@ -108,7 +108,7 @@ for date in [
           <p class="card-text">
             <span class="text-success">{' '.join(['#' + tag for tag in row.tags])}</span>
             <br/>
-            <a href="{calendar_url}" class="text-info">Add to Google Calendar</a>
+            <a href="{calendar_url}" class="text-info" target="_blank">Add to Google Calendar</a>
             </p>
           </p>
         </div>
