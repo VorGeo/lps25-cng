@@ -9,8 +9,10 @@ def search_events(search_term):
   matched_events = []
   for event in event_info:
       if (
-          (re.search(rf'\b{search_term['term']}\b', event['title'].lower()) is not None)
-          or ('abstract' in event and re.search(rf'\b{search_term['term']}\b', event['abstract'].lower()) is not None)
+          (re.search(f'{search_term['term']}', event['title'], re.IGNORECASE) is not None)
+          or ('abstract' in event and re.search(f'{search_term['term']}', event['abstract'], re.IGNORECASE) is not None)
+          or ('authors' in event and re.search(f'{search_term['term']}', ', '.join(event['authors']), re.IGNORECASE) is not None)
+          or ('affiliations' in event and re.search(f'{search_term['term']}', ', '.join(event['affiliations']), re.IGNORECASE) is not None)
       ):
           matched_events.append(event)
       
@@ -22,18 +24,18 @@ def search_events(search_term):
   return matched_events
 
 search_terms = [
-  {'term': 'cloud-native|cloud native', 'tag': 'cloud-native'},
-  {'term': 'stac', 'tag': 'stac'},
-  {'term': 'cog|cogs', 'tag': 'cog'},
-  {'term': 'zarr|geozarr', 'tag': 'zarr'},
-  {'term': 'virtualizarr', 'tag': 'virtualizarr'},
-  {'term': 'parquet|geoparquet', 'tag': 'parquet'},
-  {'term': 'kerchunk', 'tag': 'kerchunk'},
-  {'term': 'flatgeobuf', 'tag': 'flatgeobuf'},
-  {'term': 'pmtiles', 'tag': 'pmtiles'},
-  {'term': 'fiboa', 'tag': 'fiboa'},
-  {'term': 'pangeo', 'tag': 'pangeo'},
-  {'term': 'copc', 'tag': 'copc'},
+  {'term': r'\bcloud-native|cloud native\b', 'tag': 'cloud-native'},
+  {'term': r'\bstac\b', 'tag': 'stac'},
+  {'term': r'\bCOG(s)?\b', 'tag': 'cog'},
+  {'term': r'\b(geo)?zarr\b', 'tag': 'zarr'},
+  {'term': r'\bvirtualizarr\b', 'tag': 'virtualizarr'},
+  {'term': r'\b(geo)?parquet\b', 'tag': 'parquet'},
+  {'term': r'\bkerchunk\b', 'tag': 'kerchunk'},
+  {'term': r'\b(geo)?flatgeobuf\b', 'tag': 'flatgeobuf'},
+  {'term': r'\bpmtiles\b', 'tag': 'pmtiles'},
+  {'term': r'\bfiboa\b', 'tag': 'fiboa'},
+  {'term': r'\bpangeo\b', 'tag': 'pangeo'},
+  {'term': r'\bcopc\b', 'tag': 'copc'},
 ]
 
 for search_term in search_terms:

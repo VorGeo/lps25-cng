@@ -108,10 +108,10 @@
     "location": "X5 - Poster Area",
     "presentation_id": "A5A0F58C-99A8-4053-A497-8ECE0B144E44",
     "tags": [
-      "zarr",
       "stac",
+      "cloud-native",
       "cog",
-      "cloud-native"
+      "zarr"
     ]
   },
   {
@@ -161,8 +161,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "9F1F196A-BD56-402E-A8A5-C60688D09789",
     "tags": [
-      "zarr",
-      "cloud-native"
+      "cloud-native",
+      "zarr"
     ]
   },
   {
@@ -372,9 +372,9 @@
     "presentation_id": "035665B1-9101-4C9E-94CB-8807ED849663",
     "tags": [
       "stac",
-      "cog",
       "cloud-native",
-      "parquet"
+      "parquet",
+      "cog"
     ]
   },
   {
@@ -418,36 +418,6 @@
     "tags": [
       "stac",
       "zarr"
-    ]
-  },
-  {
-    "title": "Acquisition of EnMAP and PRISMA scenes in close similarity conditions",
-    "authors": [
-      "Michael Bock",
-      "Emiliano Carmona",
-      "Vera Krieger",
-      "Laura LaPorta",
-      "Nicole Pinnel",
-      "Maximilian Brell",
-      "Sabine Chabrillat",
-      "Karl Segl",
-      "Ettore Lopinto",
-      "Patrizia Sacco"
-    ],
-    "affiliations": [
-      "DLR - Deutsches Zentrum f\u00fcr Luft- und Raumfahrt",
-      "GFZ - GeoForschungsZentrum",
-      "ASI - Italian Space Agency"
-    ],
-    "abstract": "EnMAP (Environmental Mapping and Analysis Program) is a German hyperspectral satellite mission that monitors and characterizes Earth\u2019s environment on a global scale. EnMAP measures geochemical, biochemical and biophysical variables providing information on the status and evolution of terrestrial and aquatic ecosystems. PRISMA (PRecursore IperSpettrale della Missione Applicativa) is an Italian EO hyperspectral Mission funded by ASI as a pre-operational and technology demonstrator, with a focus on the space qualification of a PAN/HYP payload and the development and validation of PAN/HYP products. Launched on 1 April 2022 and 22 March 2019 respectively, these two satellites are currently feeding the hyperspectral community with a large volume of VNIR-SWR images acquired worldwide, stimulating the scientific researches as well as their exploitation for innovative applicative usages.\r\nDespite the acquisition of multi-satellite image couples, in geometric (image centers and viewing angles) and acquisition time close similarity conditions (usually called matchups [1]) is known to be useful for cross validation / harmonization [1] and \u2013behind the evaluation of the multi-mission data normalization functions\u2013 possible extension of the available pool of hyperspectral products, no or little effort was done for the purposely building of a large set of multi-mission matchups. Until now the acquisition of hyperspectral multi-sensor scenes in similarity conditions has been only coincidental and limited to special campaigns or events, like the AVIRIS campaigns in Europe during summer of 2021 in support of the future Copernicus CHIME mission [2].\r\nMoreover, since EnMAP and PRISMA orbital characteristics are different, the building of a large matchups set cannot be systematically realized by a pure search of similar images in both mission catalogues (as described in [1]) but requires some degree of coordination between the involved missions acquisition, hence dedicating some resources of both mission to this specific scope, well in line with the DLR-ASI collaboration agreement on hyperspectral data exploitation [3].\r\nThe approach to the generation of EnMAP-PRISMA matchups is based on the forecast of both sensors image centers time, position and off nadir angle by using of a Python astronomy package [4], along a time span close to the two mission\u2019s orbit cycles, followed by a many-to-many search of similar acquisition conditions respecting the two mission\u2019s acquisitions constraints.\r\nStarted in July 2024, up to now (mid November 2024) we have generated 24 EnMAP-PRISMA matchups having image centers geometric distance below 5km, average time distance of 32min and off-nadir angles maximum deviation of 3 degrees respect nadir condition, with half of these showing a cloudiness below 10%.\r\nFollowing these promising results, we plan to further continue the coordinated multi-mission acquisitions, deeper analyze (and justify) any possible discrepancies between the characteristics of image couples (radiometry, geometric position) and release the matchups info (geometric position, time and cloudiness level) to the community. We are also currently searching for the inclusion of the DLR DESIS and the NASA EMIT missions in the matchup generation.\r\n\r\n[1] Block, T., Embacher, S., Merchant, C. J., and Donlon, C.: High-performance software framework for the calculation of satellite-to-satellite data matchups (MMS version 1.2), Geosci. Model Dev., 11, 2419\u20132427, https://doi.org/10.5194/gmd-11-2419-2018, 2018\r\n[2] Genesio L., Boschetti M., Braga F., Bresciani M., Carotenuto F., Cogliati S., Giardino C., Gioli B., Lopinto E., Panigada C., Pompilio L., Sacco P., Miglietta F.: Simultaneous hyperspectral PRISMA and AVIRIS-NG images, https://earth.esa.int/living-planet-symposium-2022-presentations/25.05.Wednesday/Addis_Abeba/1540-1720/02_Genesio.pdf\r\n[3] Implementing Agreement between Deutsches Zentrum F\u00fcr Luft- Und Raumfahrt (DLR) and the Agenzia Spaziale Italiana (ASI) concerning the collaboration on activities in support of the exploitation of space hyperspectral earth observation missions\u2019 data and associated technologies, signed on 22/09/2022\r\n[4] Brandon Rhodes: Skyfield Elegant Astronomy for Python, https://rhodesmill.org/skyfield/",
-    "type": "presentation",
-    "session_id": "16EBF2E2-6DF0-4E12-932B-038515ACC508",
-    "start": "2025-06-23T14:00:00",
-    "end": "2025-06-23T15:30:00",
-    "location": "Hall G1",
-    "presentation_id": "30C64807-E306-4FC0-8760-E68E23104529",
-    "tags": [
-      "cog"
     ]
   },
   {
@@ -548,8 +518,8 @@
     "location": "Hall K1",
     "presentation_id": "9C843F94-1CED-4420-8768-D47BFCC1264A",
     "tags": [
-      "zarr",
-      "pangeo"
+      "pangeo",
+      "zarr"
     ]
   },
   {
@@ -581,32 +551,6 @@
     "presentation_id": "A9106FE1-577B-44E7-A7B1-00F40A1984AB",
     "tags": [
       "stac"
-    ]
-  },
-  {
-    "title": "SAR meets AI: the role of AI in next-generation SAR missions",
-    "authors": [
-      "Sanna Sandberg",
-      "Roberto Del Prete",
-      "Dr Nicolas Longepe",
-      "Gabriele Meoni",
-      "Ernesto Imbembo",
-      "Gianluca Furano",
-      "Max Ghiglione"
-    ],
-    "affiliations": [
-      "ESA - ESTEC",
-      "ESA - ESRIN"
-    ],
-    "abstract": "Currently, most Synthetic Aperture Radar (SAR) imagery from spaceborne platforms is processed terrestrially due to its computational resource requirements. However, future earth observation missions demand increased functionality, low-latency responses and reduced costs, thus more value must be extracted already in orbit. For addressing future requirements and enabling more on-board processing for SAR, Artificial Intelligence (AI) techniques are being integrated into the signal processing chain which paves the way for developing cognitive systems capable of supporting edge operations for SAR payloads in orbit. \r\nThis paper presents recent advancements in next-generation digital onboard processing for future SAR satellite missions, emphasizing greater autonomy and adaptability, based on activities from the European Space Agency (ESA).\r\n\r\nSome novel technological breakthroughs include advancements in data-driven Radio Frequency Interference (RFI) detection, or AI-based adaptive compression methods. For example, to efficiently decrease onboard data volumes for SAR technology, an ESA activity applied Machine Learning (ML) for compressing Level 0 (L0) SAR data, successfully reducing the data volume from a bitrate perspective. Target detection is a crucial issue for SAR technology, another ESA activity investigated the timeliness onboard detection of vessels from L0 raw Sentinel-1 Stripmap (SM) imagery, detailing an ML segmentation method exploiting the spatial features of isolated targets.\r\n\r\nFurthermore, this research investigates the potential of a Selective Focusing approach, a method designed to identify and prioritize specific areas within raw data for further analysis and processing. This approach leverages ML algorithms, particularly convolutional neural networks, to automatically detect regions of interest based on predefined criteria. By selectively focusing on these regions, the method reduces overall data processing latency, optimizes resource utilization, and broadens the scope for downstream applications such as near-real-time monitoring, anomaly detection, and targeted analysis.\r\n\r\nOnce it is possible to perform digital signal processing efficiently in orbit, the introduction of cognitive SAR concepts is feasible. Cognitive radar autonomously adapts its operational modes as a direct response to the sensed environment, thus creating an automatic closed-loop architecture. This dynamic capability opens many use cases and benefits, such as enhancing resolution by using the full capability of the radar platform only after target detection\u2014without ground intervention. \r\nWithin its operational mode, cognitive radar could also adjust digital radar backend functions, like beam steering, interaction and number of beams. Therefore, it can tailor the use of the platform and payload to meet the low latency, functionality, and cost requirements of future missions. \r\n\r\nIn conclusion, this research presents ESA\u2019s collaborative initiatives and internal investigations, thereby providing a steppingstone for the progression of AI-centric SAR data handling in subsequent research endeavors.",
-    "type": "presentation",
-    "session_id": "FB88AF0D-63FF-4EDF-99B5-3DA11787830A",
-    "start": "2025-06-23T14:00:00",
-    "end": "2025-06-23T15:30:00",
-    "location": "Hall K2",
-    "presentation_id": "4F6D67E9-9AAF-4A55-979E-F900C836C74B",
-    "tags": [
-      "cog"
     ]
   },
   {
@@ -644,8 +588,8 @@
     "location": "Hall N1/N2",
     "presentation_id": "AF0EBBC8-D5C3-48F3-9C73-9218851AAB1A",
     "tags": [
-      "zarr",
-      "pangeo"
+      "pangeo",
+      "zarr"
     ]
   },
   {
@@ -913,53 +857,6 @@
     ]
   },
   {
-    "title": "Evaluation of super-resolution results using a knowledge-based spectral categorisation system",
-    "authors": [
-      "Felix Kr\u00f6ber",
-      "Dirk Tiede",
-      "Martin Sudmanns",
-      "Hannah Augustin",
-      "Andrea Baraldi"
-    ],
-    "affiliations": [
-      "University of Salzburg, Department of Geoinformatics",
-      "Forschungszentrum J\u00fclich, Institute of Bio- and Geosciences, IBG-2: Plant Sciences",
-      "Spatial Services GmbH"
-    ],
-    "abstract": "Motivation\r\nSuperresolution (SR) models are critical for enhancing the spatial resolution of satellite imagery, enabling to generate very-high resolution data in a cost-efficient manner. However, the value of SR data strongly depends on its reliability or trustworthiness. SR evaluation methods should assess the spectral fidelity of SR outputs and provide means to interpret possible systematic biases of SR outputs. Currently, evaluation of SR models [1,2] often relies on accuracy metrics such as the Root Mean Square Error or Structural Similarity Index, which are primarily focusing on intensity differences by measuring Euclidean distances between the spectral signatures of reference data and SR outputs. However, relevant spectral inconsistencies are not necessarily discoverable by employing aggregative distance metrics. Additionally, accuracy figures obtained this way offer no possibility of describing the encountered biases semantically. This limits the formulation of model applicability as well as an in-depth analysis and targeted mitigation of errors. The problems described also apply to the use of more recent perceptual metrics, such as the Learned Perceptual Image Patch Similarity [3]. To tackle this issue, we assess the incorporation of a physical, knowledge-based, spectral categorization system to facilitate the detection but also the meaningful semantic characterisation of spectral SR errors. By validating SR outputs this way alongside traditional metrics, our study aims to provide a framework for a more nuanced understanding of SR outputs, reinforcing the trustworthiness of SR products for subsequent usage in downstream applications such as land use classifications. \r\n\r\nData &amp; Methods\r\nThe SR data has been produced within a research project focusing on the agricultural domain [4]. Specifically, a two-part model adapting the established ESRGAN+ [5] and EDSR [6] architectures was trained on pairs of  Sentinel2 (S-2) and PlanetScope imagery acquired over Austria. The training and validation sets were sampled in spatially disjoint manner from the test set. The latter comprises 1235 test set tiles, each covering an area of 1.28 x 1.28 km\u00b2, for which both S-2 and PlanetScope imagery are available to be compared to the SR outputs. For the purposes of evaluation, all data is resampled to the SR resolution (2.5 m)\r\nAs a basis for the knowledge-based evaluation of the SR results the Satellite Image Automatic Mapper (SIAM) system [7] is used. SIAM is a fully automated, hyperparameter free decision tree for categorizing multi-spectral data. The model-based expert system is capable of employing any multispectral image data that is radiometrically calibrated to at least Top of Atmosphere (TOA) reflectance. Operating as a pointwise operator, it maps reflectances into a discrete and finite vocabulary of semi-symbolic spectral categories. The extensive multidimensional continuous data space is reduced to essential information components that can be represented as an 8-bit discrete output raster. The categories of this raster are not immediate land use or land cover classes, as these high-level semantic concepts cannot be derived in an unambiguous way on a per-pixel basis. SIAM categories instead represent an intermediate level of semantic enrichment that can be derived more directly from the spectral information. \r\nEmploying SIAM in the context of SR output evaluation is based on two considerations:\r\n1.\tGiven its physical and semantic nature, SIAM offers enhanced interpretability of spectral signatures. Beyond the detection of intensities of changes in the spectral signature between the original product and the SR result, SIAM allows to assess the changes in terms of their type and quality (e.g. changes from vegetation-like signatures to soil-like signatures). This makes it easier to identify systematic model biases.\r\n2.\tThe SIAM-inherent discretization of continuous reflectances accounts for the fact that not every distance in the multivariate reflectance vector space is equally important. Starting from a given spectral signature, a multivariate displacement vector by a given metric distance x can have different implications depending on its direction. For the same x, the resulting spectral signature can either a) still characterise the same land use/cover type (e.g. variability of the vegetation signature in the mid-range infrared depending on water scarcity), b) reflect a different land use/cover type or c) transform the given signature towards a physically implausible signature. These three possible changes should be given different significance in the evaluation of SR results despite the same distance-metric change, as subsequent downstream models, e.g. for land use classification, also give different weight to these type of changes- either explicitly (knowledge-based models) or implicitly (data-based models).\r\nSIAM has several sensor modes, allowing it to be applied to a range a multispectral input images despite different available bands. For the current case, SIAM is run with 6 band inputs (R-G-B-NIR-SWIR1-SWIR2) for S-2 and SR products, and additionally with 4 band inputs (R-G-B-NIR) for PlanetScope. The output granularities depend on the chosen sensor mode except for the outputs with 33 categories, which can be calculated across all sensors. Those harmonizing 33 categories are thus used as the primary basis for all following evaluations. \r\n\r\nResults &amp; Discussion\r\nThe spectral categorization demonstrates that most SR tiles retained spectral consistency with below 40% of pixels exhibiting any spectral changes. For a more detailed consideration of the comparisons of the SR categorization with the reference data, a breakdown of the frequencies by individual spectral categories is presented. According to the selection of the tile locations over Austria with a focus on agricultural areas, approximately 80% of all pixels are categorized as vegetation-like, both in the original data and in the SR outputs. It is evident that a large proportion of the category transitions representing changes occur within supersets of categories (e.g. within vegetation-like or within bare soil-like categories). Among the changes across supersets are primarily transitions from bare soil categories in the original data to weak vegetation in the SR outputs. The complementary change, i.e., pixels categorized as weak vegetation in the original data are categorized as bare soil in the SR outputs, also occurs, albeit with lower frequency. Other severe changes involve re-categorizations of original dark soil pixels as water or shadow-like pixels in the SR outputs. The complementary process is much less pronounced here. The proportion of spectral signatures categorized as unknown according to the knowledge-based SIAM framework averages 0.17% for Planet, 0.37% for S-2, and 1.43% for the SR outputs. The SR outputs thus have an increased proportion of signatures that cannot be interpreted physically.\r\nComparing the spectral categorization of SR outputs to S2 and PlanetScope categorizations individually, a closer alignment with PlanetScope\u2019s categorization is evident. Quantitatively, an average of almost 40% of pixels is categorized differently when comparing SR outputs to S2 data. For the pair of SR outputs and PlanetScope data, the figure amounts to 34%. This observation aligns with the qualitative impression resulting from a visual inspection of the SR results plotting them as RGB true color composites and CIR false-color composites. Here, the SR data also seem to reconstruct the spectral patterns of Planet more closely than those of S-2.\r\nConclusion\r\nThis study underscored the potential of spectral categorisation assessment as a robust complement to traditional metrics, facilitating deeper insights into SR model performance. Quantitative insights into spectral fidelity were provided and the semantic description of encountered changes allowed to uncover systematic biases of the SR model.\r\n\r\nReferences\r\n[1] D. C. Lepcha, B. Goyal, A. Dogra, and V. Goyal, \u2018Image super-resolution: A comprehensive review, recent trends, challenges and applications\u2019, Information Fusion, vol. 91, pp. 230\u2013260, Mar. 2023, doi: 10.1016/j.inffus.2022.10.007.\r\n[2] Z. Wang, J. Chen, and S. C. H. Hoi, \u2018Deep Learning for Image Super-Resolution: A Survey\u2019, IEEE Trans. Pattern Anal. Mach. Intell., vol. 43, no. 10, pp. 3365\u20133387, Oct. 2021, doi: 10.1109/TPAMI.2020.2982166.\r\n[3] R. Zhang, P. Isola, A. A. Efros, E. Shechtman, and O. Wang, \u2018The Unreasonable Effectiveness of Deep Features as a Perceptual Metric\u2019, Apr. 10, 2018, arXiv: arXiv:1801.03924. doi: 10.48550/arXiv.1801.03924.\r\n[4] FFG, \u2018SMAIL \u2013 Super-resolution-based Monitoring through AI for small Land parcels\u2019. Accessed: Nov. 24, 2024. [Online]. Available: https://projekte.ffg.at/projekt/4351017\r\n[5] N. C. Rakotonirina and A. Rasoanaivo, \u2018ESRGAN+: Further Improving Enhanced Super-Resolution Generative Adversarial Network\u2019, in ICASSP 2020 - 2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), May 2020, pp. 3637\u20133641. doi: 10.1109/ICASSP40776.2020.9054071.\r\n[6] C. Lanaras, J. Bioucas-Dias, S. Galliani, E. Baltsavias, and K. Schindler, \u2018Super-resolution of Sentinel-2 images: Learning a globally applicable deep neural network\u2019, ISPRS Journal of Photogrammetry and Remote Sensing, vol. 146, pp. 305\u2013319, Dec. 2018, doi: 10.1016/j.isprsjprs.2018.09.018.\r\n[7] A. Baraldi, M. L. Humber, D. Tiede, and S. Lang, \u2018GEO-CEOS stage 4 validation of the Satellite Image Automatic Mapper lightweight computer program for ESA Earth observation level 2 product generation \u2013 Part 2: Validation\u2019, Cogent Geoscience, vol. 4, no. 1, p. 1467254, Jan. 2018, doi: 10.1080/23312041.2018.1467254.",
-    "type": "poster",
-    "session_id": "929C8B43-C533-4949-B175-61AF38DA0A97",
-    "start": "2025-06-24T17:45:00",
-    "end": "2025-06-24T19:00:00",
-    "location": "X5 - Poster Area",
-    "presentation_id": "377858F6-7B84-4939-B36A-1FA0766520A7",
-    "tags": [
-      "cog"
-    ]
-  },
-  {
-    "title": "Digital Geomedia in Vocational Education and Training: Blended learning concepts to promote sustainable development through modern geotechnologies",
-    "authors": [
-      "M.A. Tobias Gehrig",
-      "Dr. Maike Petersen",
-      "Prof. Dr. Alexander Siegmund"
-    ],
-    "affiliations": [
-      "Institute for Geography and Geocommunication \u2013 Research Group for Earth Observation (rgeo), Heidelberg University of Education, Germany",
-      "Heidelberg Center for the Environment (HCE) & Institute of Geography, Heidelberg University, Germany"
-    ],
-    "abstract": "Current global challenges such as climate change, land transformation, and loss of biodiversity force educational systems to reinvent their approaches (Habibullah, Din, Tan, and Zahid, 2020). Emphasis on digitalization and Education for Sustainable Development (ESD) are two of the main trends currently gaining momentum (Ahel and Lingenau, 2020). While the need for digitalization has been acknowledged by most fields of education (from primary through tertiary education), ESD is rarely incorporated into the curricula of vocational training (Schmidt and Tang, 2020). However, as almost 500,000 people complete vocational training in Germany every year, they account for a substantial portion of the workforce (Federal Ministry of Education and Research, 2023). Digital geomedia, such as earth observation (EO), geographic information systems (GIS), and mobile geotools, offer an ideal opportunity to integrate Education for Sustainable Development and digitalization. Despite their considerable professional relevance, digital geomedia are not widely employed in vocational education and training. Indeed, they have thus far been of relatively little importance. Such tools offer trainees a robust connection to their immediate surroundings and have significant potential for professional and academic preparation (Ministry of Education, Youth and Sport Baden-Wuerttemberg, 2024). For example, digital geomedia, predominantly EO tools like Google Earth, can be employed not only in everyday contexts but also in professional settings, such as state spatial planning or market analysis for companies. Integrating EO skills into vocational training is crucial for managing and preserving cultural landscapes, such as traditional meadow orchards, which are vital for biodiversity and local ecosystems. By equipping trainees with EO skills, they can effectively use technologies like EO, including unmanned aerial systems (UAS) to monitor environmental changes, manage land use sustainably, and contribute to the conservation of these valuable landscapes. Innovative cooperation between science, the educational system, and training companies is essential to provide these skills and promote sustainable development within various sectors.\r\n\r\nThus, the project DiGeo:BBNE focuses on embedding the use of digital geomedia  to support sustainable practices in vocational training through blended learning. To achieve this, it developed and implemented hybrid teaching-learning settings that combine location- and time-independent e-learning programmes with practice-oriented learning on site. Modules were specifically designed to introduce trainees from various fields, such as landscape management, regional product marketing, and care professions, to digital geomedia. These include interactive e-learning modules on EO, GIS, and mobile geotools, conveying the basics of these technologies through differentiated examples. Additionally, various in-person courses on location analysis, business start-ups, and educational geocaches have been developed and conducted to combine learning with hands-on experience in the field. These courses have been tailored to meet the needs of vocational trainees and provide them with practical skills directly applicable to their future careers. A notable example is a course with trainees from a local automobile manufacturer in Neckarsulm. This course introduced UAS flight and planning for analyzing traditional meadow orchards in Neckarsulm. Trainees learned the basics of EO and UAS technology in a workshop, then collected and analyzed UAV imagery from a traditional meadow orchard. This hands-on approach not only provided practical skills but also highlighted the importance of EO technologies in preserving valuable cultural landscapes. The courses are evaluated with a particular focus on deep structures of teaching, such as cognitive activation, which involves engaging trainees in higher-order thinking processes. Additionally, the evaluations examine student motivation, assessing how the courses inspire and sustain their interest and enthusiasm for learning.\r\n\r\nThe presentation aims to introduce the developed modules targeting vocational training in different sectors as a best-practice example. It will discuss challenges faced when approaching partners from vocational education and strategies to address these, such as time constraints, geography not being part of curricula, and scepticism toward geographical topics. By incorporating these skills into vocational training, we can better prepare trainees for the demands of the modern work environment. The presentation will also present initial results from the course evaluations. These results will help embed the use of digital geomedia within the vocational education system to promote sustainable economic action. Ultimately, this will become another pillar to equip Germany\u2019s workforce with the skills needed to face current and future challenges.\r\n\r\nReferences:\r\n- Ahel, O., &amp; Lingenau, K. (2020). Opportunities and Challenges of Digitalization to Improve Access to Education for Sustainable Development in Higher Education. In W. L. Filho, A. Lange Salvia, R. W. Pretorius, B. L. Londero, E. Manolas, F. Alves, . . . A. Do Paco, Universities as Living Labs for Sustainable Development. Supporting the Implementation of the Sustainable Development Goals (pp. 341-356). Berlin: Springer.\r\n\r\n- Federal Ministry of Education and Research. (2023). Report on Vocational Education and Training 2023. Bonn: BMBF.\r\nHabibullah, M. S., Din, B. H., Tan, S.-H., &amp; Zahid, H. (2020). Impact of climate change on biodiversity loss: global evidence. Environmental Science and Pollution Research, pp. 1073-1086.\r\n\r\n- Ministerium f\u00fcr Kultus, Jugend und Sport Baden-W\u00fcrttemberg. (2024). Allgemeine Informationen zur Beruflichen Bildung. Retrieved from https://km.baden-wuerttemberg.de/de/schule/berufliche-bildung/allgemeine-informationen-zur-beruflichen-bildung\r\n\r\n- Schmidt, J. T., &amp; Tang, M. (2020). Digitalization in Education: Challenges, Trends and Transformative Potential. In M. Harwardt, P. F.-J. Niermann, A. M. Schmutte, &amp; A. Steuernagel, F\u00fchren und Managen in der digitalen Transformation. Trends, Best Practices und Herausforderungen (pp. 287-312). Berlin: SpringerGabler.",
-    "type": "poster",
-    "session_id": "01B99E2F-4EBA-4423-8828-F7D758BF77AC",
-    "start": "2025-06-24T17:45:00",
-    "end": "2025-06-24T19:00:00",
-    "location": "X5 - Poster Area",
-    "presentation_id": "9E1DC3CE-CC93-40BA-9DA8-C8E47E7E8CA7",
-    "tags": [
-      "cog"
-    ]
-  },
-  {
     "title": "A Federated Learning Environment for Earth Observation Students: A Success Story from Austria",
     "authors": [
       "Martin Schobben",
@@ -1059,9 +956,9 @@
     "type": "demo",
     "session_id": "41BBA9F1-C53D-4276-8EBC-1350ECD1D840",
     "tags": [
-      "zarr",
       "stac",
-      "cloud-native"
+      "cloud-native",
+      "zarr"
     ]
   },
   {
@@ -1087,55 +984,6 @@
     ]
   },
   {
-    "title": "Large Language Models in Digital Education: Assessing Reliability, Efficiency, and Content Quality",
-    "authors": [
-      "Robert Eckardt",
-      "Dr. Carsten Pathe",
-      "Dr. Henryk Hodam",
-      "Dr. Nesrin Salepci",
-      "Dr. Martyna Anna Stelmaszczuk-G\u00f3rska",
-      "Jun.-Prof. Dr. Andreas Rienow",
-      "Prof. Dr. Christiane Schmullius"
-    ],
-    "affiliations": [
-      "Friedrich Schiller University Jena",
-      "Ruhr-Universit\u00e4t Bochum",
-      "EOS Jena GmbH",
-      "ignite education GmbH"
-    ],
-    "abstract": "The integration of Large Language Models (LLMs) into digital education is fundamentally transforming the production, personalization, and dissemination of educational content. As education increasingly adopts digital tools, the role of LLMs has become pivotal in reshaping how content is created and tailored to diverse audiences. This study critically examines the potential of LLMs within the Earth Observation (EO) educational content production lifecycle, focusing on their influence on reliability, operational efficiency, content quality, and learner engagement. By embedding LLMs throughout various stages - ranging from conceptualization and scripting to post-production and the development of interactive modules - this research evaluates both, the opportunities and inherent challenges associated with deploying LLMs in EO education.\r\n\r\nThe use of LLMs presents transformative possibilities in the way EO educational content is conceptualized and developed. During the initial phases of content creation, LLMs can support the rapid generation of ideas and provide initial drafts for educational materials, thereby accelerating the overall production cycle. By leveraging vast databases of information, LLMs can suggest relevant topics, highlight critical areas of interest, and assist in drafting outlines that align with pedagogical objectives. This preliminary support helps educators and content creators streamline their workflows, saving time and ensuring that the content produced is grounded in the latest scientific findings and educational best practices. Furthermore, LLMs are capable of generating diverse content variations, allowing educators to choose from multiple approaches and select the one that best fits the learning objectives and target audience.\r\n\r\nFindings from controlled experiments demonstrate that LLMs substantially enhance efficiency by automating routine processes, such as script generation, voiceover production, and visual content creation. These automated processes not only save time but also introduce a level of consistency that can be challenging to achieve manually, particularly when content is produced at scale. Such automation enables educators to concentrate on high-value tasks, including creative storytelling, contextual adaptation, and ensuring scientific accuracy. The creative aspects of educational content production, such as developing narratives that resonate with learners or contextualizing information to make it more relatable, benefit greatly from human involvement. Educators are thus able to focus their expertise on enriching the content, ensuring that it meets the cognitive and emotional needs of the learners, rather than being bogged down by repetitive tasks.\r\n\r\nHowever, sustained human oversight remains imperative to safeguard the quality and precision of specialized content, particularly in areas where domain-specific expertise is indispensable. While LLMs provide significant efficiencies, they are not without limitations. The nuances involved in interpreting EO data, particularly when conveying complex geospatial and environmental concepts, require a depth of understanding that current AI models may not fully possess. Human experts are crucial in verifying the accuracy of AI-generated content, ensuring that it adheres to educational standards and effectively communicates intricate concepts. This is particularly important in specialized domains like EO, where inaccuracies can lead to misconceptions and undermine the educational value of the content. Therefore, a hybrid approach that combines the scalability of LLMs with the precision of human expertise is essential for producing high-quality educational materials.\r\n\r\nMoreover, the incorporation of LLMs significantly augments translation capabilities, facilitating the creation of multilingual EO content and thereby expanding the global accessibility of these resources. The ability of LLMs to translate content into multiple languages with contextual accuracy is a major advantage for EO education, which often targets a diverse, international audience. By reducing language barriers, LLMs contribute to the democratization of knowledge, allowing learners from different linguistic backgrounds to access high-quality educational materials. This capability is particularly beneficial for regions where access to EO education is limited due to language constraints, thereby promoting inclusivity and broadening the impact of EO training programs. Additionally, LLMs can be used to localize content, adapting not only the language but also cultural references and examples to better resonate with specific audiences, thus enhancing learner engagement and comprehension.\r\n\r\nDespite these benefits, challenges such as the risk of inaccuracies in AI-generated content and the ethical considerations regarding data privacy underscore the necessity for a balanced approach to AI integration. LLMs, by virtue of being trained on large datasets, may inadvertently produce content that includes outdated or incorrect information, especially in a rapidly evolving field like EO. This necessitates rigorous validation by subject matter experts to ensure the accuracy and reliability of the educational content. Furthermore, ethical issues related to data privacy, bias in training data, and the potential for misuse of AI-generated materials must be carefully managed. Transparency in the use of AI tools, along with clear guidelines on data handling and content validation, is crucial to maintaining trust in AI-assisted educational processes. These challenges highlight the importance of developing robust frameworks for AI integration that prioritize both technological innovation and ethical responsibility.\r\n\r\nThe integration of LLMs into EO education also holds potential for enhancing personalized learning experiences. By analyzing learner data, LLMs can adapt content to individual learning styles, providing tailored feedback and customized learning pathways. This adaptability makes learning more responsive to the unique needs of each student, fostering a more engaging and effective educational experience. For instance, LLMs can generate adaptive quizzes that adjust in difficulty based on learner performance, or provide supplementary materials that cater to areas where a learner may be struggling. Such personalized interventions help ensure that all learners, regardless of their starting point, can progress at their own pace and receive the support they need to master complex EO topics.\r\n\r\nAdditionally, LLMs can facilitate the development of interactive learning modules, incorporating elements such as simulations and scenario-based activities that are particularly well-suited to EO education. Interactive modules allow learners to explore EO data in a hands-on manner, fostering deeper understanding through practical application. For example, LLMs can help generate interactive exercises where learners manipulate satellite imagery to observe environmental changes over time or analyze geospatial data to draw conclusions about climate patterns. These kinds of active learning opportunities not only enhance engagement but also help learners develop critical skills in data analysis and interpretation, which are crucial for understanding EO concepts.\r\n\r\nFurthermore, LLMs can be instrumental in supporting collaborative learning environments. By integrating with digital platforms, LLMs can facilitate discussion forums, group projects, and peer-to-peer interactions. They can summarize group discussions, suggest relevant resources, or even moderate debates by providing factual clarifications. This capability enhances the collaborative dimension of learning, allowing students to benefit from diverse perspectives while ensuring that discussions remain focused and informative. In EO education, where interdisciplinary understanding is often required, the ability of LLMs to provide contextually relevant information in real-time can significantly enhance the learning experience.\r\n\r\nAnother significant advantage of LLMs is their ability to streamline the iterative refinement of educational content. Given the dynamic nature of EO, where new research and data are continually emerging, educational materials must be updated regularly to remain relevant. LLMs can assist in this process by quickly analyzing new research findings and integrating them into existing content. This ensures that learners always have access to the most current information, without placing an excessive burden on educators to manually revise materials. The iterative updating facilitated by LLMs not only keeps the content fresh but also allows educators to respond swiftly to changes in the field, maintaining the quality and relevance of EO education.\r\n\r\nUltimately, this study presents elements of a comprehensive framework for leveraging LLMs to optimize the EO educational content lifecycle, emphasizing that AI, when judiciously integrated with human expertise, can enhance the efficiency, scalability, and inclusivity of digital education. By automating routine aspects of content creation, LLMs free educators to focus on the more nuanced and creative components of teaching, which are critical for fostering deep learning and engagement. This synergy between AI and human educators not only improves the quality and reach of EO education but also ensures that learning experiences are adaptable, culturally sensitive, and aligned with the needs of diverse learner populations. The potential for LLMs to personalize learning pathways, provide real-time feedback, and adaptively respond to learner inputs further underscores their role as a transformative tool in the evolving landscape of digital education. As educational institutions continue to explore the integration of AI, this study provides valuable insights into how LLMs can be effectively utilized to advance educational practices while maintaining the core values of human-centered learning.\r\n\r\nThe findings of this study also have broader implications for the future of digital education beyond EO. As LLMs continue to evolve, their application are extending to various other domains that require specialized knowledge and adaptability. The principles outlined in this research - such as the importance of human oversight, the need for ethical AI practices, and the benefits of personalization -are applicable across a wide range of educational contexts. By understanding how to effectively integrate LLMs into EO education, educators and policymakers can develop best practices that can be adapted to other fields, thus contributing to the broader transformation of education in the digital age. The scalability and flexibility offered by LLMs provide an opportunity to rethink traditional educational models, making them more inclusive, engaging, and responsive to the needs of learners.",
-    "type": "presentation",
-    "session_id": "235860C5-936E-4987-82CD-EDBC939634C7",
-    "start": "2025-06-24T11:30:00",
-    "end": "2025-06-24T13:00:00",
-    "location": "Hall M1/M2",
-    "presentation_id": "50F8403A-5C9C-4EBE-97E0-CF1D78ED29A3",
-    "tags": [
-      "cog"
-    ]
-  },
-  {
-    "title": "Space fuels learning jewels: Gaining spatial literacy through gamified learning with Earth Observation",
-    "authors": [
-      "Eva-Maria Steinbacher",
-      "Thomas Strasser",
-      "Isabella"
-    ],
-    "affiliations": [
-      "Paris Lodron University of Salzburg"
-    ],
-    "abstract": "Space fuels learning jewels: Gaining spatial literacy through gamified learning with Earth Observation\r\n\r\nSatellite based earth observation (EO) offers a wide variety of application areas, such as effects of climate change, pollution, or loss of biodiversity, for monitoring spatio-temporal environmental phenomena. Many of these applications inherently address the pressing real-world challenges for the society, both current and in future. EO serves as a data source for historical and up-to-date information on environmental status and changes. Thus, is ideal as a learning framework for educators to teach young people on environmental changes, human impact and the consequences. This is of utmost importance, since children and adolescents from the age of about 8 to 18 years are the next cohort, who will shape the future by transforming their personal knowledge into action. \r\n\r\nIn this context, the iDEAS:lab, lab for Science Communication at PLUS university, provides informal education to professionals. Emphasis is put on work within open, experience-based learning environments for integrating EO-based, gamified and experiential learning offers. These professionals operate in learning spaces that are more exploratory and less constrained, thus providing opportunities for interactive, hands-on learning experiences.\r\n\r\nIn education emotional triggers are essential to deeply engage with a topic and foster behavioral change by critical reflection. Such triggers can arise from factors like spatial proximity, personal relevance, or topics that align with our interests. Important are subjects we can connect with and integrate meaningfully into our cognitive understanding by scaling from personal surroundings to the perspective on the world.\r\n\r\nThe usage of EO in a learning environment needs basic skills for educators to interpret and contextualise the provided information. However, motivation for lesson integration is a critical asset. For the education and training of educators, this means providing inspiration and ideas that are easy to implement - both in terms of material preparation and the resources used. At the same time, the examples we introduce in the following, aim to introduce current societal and environmental topics in a fresh context: through the use of geospatial media, both analogue and digital, presented in an engaging manner that fosters personal relevance, identification, and interest.\r\n\r\nSpatio-temporal literacy is developed by shifting perspectives on familiar surroundings, enabling learners to explore and analyze their environment from new perspectives. Educators focus on fostering spatial literacy through three distinct contexts: children and adolescents examine familiar locations using satellite imagery, learning to identify distinguishing features and contrasting them with their well-known ground-level perspectives.\r\n\r\nThe complexity of these topics is simplified to ensure that educators can easily apply or adapt the content using conventional media. Another key aspect of the training approach is the playful method of teaching, where learning happens implicitly and is often initiated by the children and adolescents themselves. This transforms learning into an experience - an enjoyable, exploratory, and playful journey.\r\n\r\nIn the following, four sustainable games for education with EO are introduced. The places to be explored can either be guided, accompanied by intriguing stories or facts, or freely chosen by the children and adolescents. Popular options often include revisiting previous places of residence, exploring past or future vacation destinations, or other locations of personal significance.\r\nFocusing on specific locations, such as infrastructure or topographical features, can be effectively achieved through a brief &quot;Space Travel&quot; between points of interest. This approach becomes particularly engaging when implemented with a playful element like &quot;Space Bingo&quot;: During a space travel, guided by the educators, participants can play a bingo game, identifying infrastructure elements such as railways, bus networks, industrial sites, or recreational facilities like stadiums, tennis courts, or swimming pools from a bird\u2019s-eye perspective. By using a Bingo-card filled with infrastructure elements or symbols, the task is to identify these according elements on satellite images. Initial feedback on &quot;Space Bingo,&quot; which can be easily and quickly conducted using applications with freely available tools for EO data investigation (e.g. virtual globes like Google Earth), has been overwhelmingly positive in the practical use of the work of educators. Both educators and participating children and adolescents have reported high levels of interest and enthusiasm for this interactive learning activity.\r\n\r\nThe Satellite Image Matching Game \u2013 also adaptable as a memory game \u2013 pairs the views from a first-person perspective (in-situ images) and the earth view from space (satellite image maps). The game is easy designed around familiar, prominent locations or collaboratively created with children and adolescents. In the initial step, the in-situ images can be matched openly with satellite image maps, focusing on the identification and recognition of landmarks. A subsequent round of Satellite Image Memory then provides an opportunity to reinforce this knowledge at a higher level of difficulty. \r\n\r\nFor teenagers, &quot;Earth Observation - The Case Stories\u201d offer a chance to delve deeper into specific topics. For instance, wildfires or floods can be analysed as small case studies using accessible, open-source tools like the EO Browser. In this exercise, personal connections play a key role in fostering engagement with these topics. Examples include relatives or acquaintances affected by wildfires during vacations or flooding events in the participants&#039; own communities. Such personal relevance enhances identification with the subject matter and deepens understanding of its implications.\r\n\r\nIn conclusion, satellite-based Earth observation provides a powerful and engaging tool for educators to teach young people about environmental and societal challenges, while offering immersive, hands-on learning experiences that foster spatio-temporal literacy. Using EO data in gamified approaches, educators can create appealing learning opportunities such as &quot;Space Bingo&quot; and &quot;Satellite Image Memory,&quot;, where learning is both enjoyable and meaningful, and adaptable to interests and age-groups.",
-    "type": "presentation",
-    "session_id": "9A09988D-DD40-4811-B847-1400B84AA4CB",
-    "start": "2025-06-24T14:00:00",
-    "end": "2025-06-24T15:30:00",
-    "location": "Hall M1/M2",
-    "presentation_id": "7318E017-F3CE-4E9A-9AD1-3F8B95E5DDB7",
-    "tags": [
-      "cog"
-    ]
-  },
-  {
     "title": "Supporting Urban Heat Adaptation with Earth Observation",
     "authors": [
       "Daro Krummrich",
@@ -1155,30 +1003,6 @@
     "tags": [
       "stac",
       "zarr"
-    ]
-  },
-  {
-    "title": "Capabilities of the Airborne Visible InfraRed Imaging Spectrometer 4 (AVIRIS-4) for the quantification of anthropogenic CH4 emissions",
-    "authors": [
-      "Sandro Meier",
-      "Marius Voegtli",
-      "Andreas Hueni",
-      "Prof. Dr. Dominik Brunner",
-      "PD Dr. Gerrit Kuhlmann"
-    ],
-    "affiliations": [
-      "Empa, Laboratory for Air Pollution/Environmental Technology",
-      "Remote Sensing Laboratories, Department of Geography, University of Zurich"
-    ],
-    "abstract": "Airborne imaging spectroscopy is a powerful tool to survey large areas of methane emission hot spots such as fossil fuel production regions, to detect unknown leaks and to reduce the uncertainties in known sources (e.g., Alexe et al. 2015; Fraser et al. 2013). However, most of the currently available point source imagers of CH4 are limited by spatial and/or spectral resolution, which hinders the precision and accuracy of the emission estimates (Bousquet et al. 2018).\r\n\r\nThe Airborne Visible InfraRed Imaging Spectrometer 4 (AVIRIS-4) is a state-of-the-art imaging spectrometer which can also be used for CH4 detection (Green et al. 2022; Shaw et al. 2022). It is part of the Swiss Airborne Research Facility for the Earth System (ARES), which provides a unique platform for high-resolution airborne observations. AVIRIS-4 offers enhanced stability and signal-to-noise ratio (SNR) with its new Compact Wide-Swath Imaging Spectrometer II (CWIS-II). This improvement enables high-quality CH4 retrievals for ground pixel sizes ranging from 0.3 to 5.0 m, depending on the flight altitude. Such a high spatial resolution is needed to detect and thus quantify the plumes of small CH4 sources\r\n\r\nIn July 2024, we conducted test campaigns focusing on landfills, compressor stations, and coal mines across Italy, France and Germany. In September 2024, we participated in a controlled release experiment in Pau, France, followed by measurement flights over coal mine areas in Upper Silesia, Poland. In total, we were able to acquire over 160 flight lines at various altitudes.\r\nWe employed a matched filter algorithm to retrieve CH4 column concentrations from imaging spectroscopy (Foote et al., 2020). Emission estimates were subsequently derived using the Integrated Mass Enhancement (IME) method (Kuhlmann et al., 2024). To ensure the robustness of these approaches, we tested our findings through high-resolution simulations conducted with the MicroHH model (van Heerwaarden et al., 2017).\r\n\r\nThe results of the release experiment are used to characterize the capability to detect and quantify methane emissions with the AVIRIS-4 instrument. Our preliminary analysis shows that AVIRIS-4 can detect methane at a spatial resolution of 30 - 50 cm, which allows for the differentiation of spatially proximate plumes. The initial findings suggest that AVIRIS-4 can be employed to estimate emissions exceeding 10 kg/h.\r\nAdditionally, we present CH4 maps and first emission estimates from a landfill in Italy and coal mine shafts in Poland.\r\n\r\nREFERENCES\r\nAlexe, M., Bergamaschi, P., Segers, A., Detmers, R., Butz, A., Hasekamp, O., Guerlet, S., Parker, R., Boesch, H., Frankenberg, C., Scheepmaker, R.A., Dlugokencky, E., Sweeney, C., Wofsy, S.C., &amp; Kort, E.A. (2015). Inverse modelling of CH4 emissions for 2010\u20132011 using different satellite retrieval products from GOSAT and SCIAMACHY. Atmos. Chem. Phys., 15, 113-133\r\nBousquet, P., Pierangelo, C., Bacour, C., Marshall, J., Peylin, P., Ayar, P.V., Ehret, G., Br\u00e9on, F.-M., Chevallier, F., Crevoisier, C., Gibert, F., Rairoux, P., Kiemle, C., Armante, R., B\u00e8s, C., Cass\u00e9, V., Chinaud, J., Chomette, O., Delahaye, T., Edouart, D., Est\u00e8ve, F., Fix, A., Friker, A., Klonecki, A., Wirth, M., Alpers, M., &amp; Millet, B. (2018). Error Budget of the MEthane Remote LIdar missioN and Its Impact on the Uncertainties of the Global Methane Budget. Journal of Geophysical Research: Atmospheres, 123, 11,766-711,785\r\nFoote, M.D., Dennison, P.E., Thorpe, A.K., Thompson, D.R., Jongaramrungruang, S., Frankenberg, C., &amp; Joshi, S.C. (2020). Fast and Accurate Retrieval of Methane Concentration From Imaging Spectrometer Data Using Sparsity Prior. IEEE Transactions on Geoscience and Remote Sensing, 58, 6480-6492\r\nFraser, A., Palmer, P.I., Feng, L., Boesch, H., Cogan, A., Parker, R., Dlugokencky, E.J., Fraser, P.J., Krummel, P.B., Langenfelds, R.L., O&#039;Doherty, S., Prinn, R.G., Steele, L.P., Van Der Schoot, M., &amp; Weiss, R.F. (2013). Estimating regional methane surface fluxes: the relative importance of surface and GOSAT mole fraction measurements. Atmospheric Chemistry and Physics, 13, 5697-5713\r\nGreen, R.O., Schaepman, M.E., Mouroulis, P., Geier, S., Shaw, L., Hueini, A., Bernas, M., McKinley, I., Smith, C., Wehbe, R., Eastwood, M., Vinckier, Q., Liggett, E., Zandbergen, S., Thompson, D., Sullivan, P., Sarture, C., Gorp, B.V., &amp; Helmlinger, M. (2022). Airborne Visible/Infrared Imaging Spectrometer 3 (AVIRIS-3). In, 2022 IEEE Aerospace Conference (AERO) (pp. 1-10)\r\nIPCC, A. (2013). Climate change 2013: the physical science basis. Contribution of working group I to the fifth assessment report of the intergovernmental panel on climate change, 1535\r\nKuhlmann, G., Koene, E.F.M., Meier, S., Santaren, D., Broquet, G., Chevallier, F., Hakkarainen, J., Nurmela, J., Amor\u00f3s, L., Tamminen, J., &amp; Brunner, D. (2024). The ddeq Python library for point source quantification from remote sensing images (Version 1.0)\r\nShaw, L.A., Geier, S., Mckinley, I.M., Bernas, M.A., Gharakhanian, M., Dergevorkian, A., Eastwood, M.L., Mouroulis, P., Green, R.O., 2022. Design, alignment, and laboratory calibration of the Compact Wide Swath Imaging Spectrometer II (CWIS-II). Imaging Spectrom. XXV: Appl., Sens., Process. 12235, 1223502-1223502\u201310. https://doi.org/10.1117/12.2634282\r\nThorpe, A.K., Roberts, D.A., Bradley, E.S., Funk, C.C., Dennison, P.E., &amp; Leifer, I. (2013). High resolution mapping of methane emissions from marine and terrestrial sources using a Cluster-Tuned Matched Filter technique and imaging spectrometry. Remote Sensing of Environment, 134, 305-318\r\nvan Heerwaarden, C.C., van Stratum, B.J.H., Heus, T., Gibbs, J.A., Fedorovich, E., &amp; Mellado, J.P. (2017). MicroHH 1.0: a computational fluid dynamics code for direct numerical simulation and large-eddy simulation of atmospheric boundary layer flows. Geosci. Model Dev., 10, 3145-3165",
-    "type": "poster",
-    "session_id": "12C771CD-19BC-4560-BF7F-2784A4BCB90E",
-    "start": "2025-06-25T17:45:00",
-    "end": "2025-06-25T19:00:00",
-    "location": "X5 - Poster Area",
-    "presentation_id": "19D96093-2E5A-4B9C-9431-454D67DDA664",
-    "tags": [
-      "cog"
     ]
   },
   {
@@ -1204,8 +1028,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "CD1717BC-959F-42E3-9579-C4735BD91AB8",
     "tags": [
-      "zarr",
-      "pangeo"
+      "pangeo",
+      "zarr"
     ]
   },
   {
@@ -1394,20 +1218,6 @@
     ]
   },
   {
-    "title": "C.01.16 NASA\u2019s Earth Science Technology Validation on CubeSats/SmallSats and their path towards building future missions.",
-    "start": "2025-06-25T14:00:00",
-    "end": "2025-06-25T15:30:00",
-    "duration": "90 Minutes",
-    "chairs": "N/A",
-    "location": "Hall L3",
-    "abstract": "With the advent of increased CubeSat and SmallSat constellation deployments by both Government and Commercial entities, there is a need to assess the technology maturity and their impact on scientific research. Since 2012 the NASA Earth Science Technology Office has been running research programs focused on technology validation in space. These programs encourage flying new technologies and new methods on CubeSat and SmallSat platforms. The basic premise of the programs is to validate new technologies before they are implimented on future NASA missions. The technology validated under this program were instrumental in architecture of CubeSat/SmallSat constellations like TROPICS and INCUS. Some of the other successful instruments like IceCube has successfully produced the first ever global atmospheric ice map at the 883-GHz band. Similarly RainCube and TEMPEST-D observations of typhoons and hurricanes resulted in future INCUS mission.\n\nThis session plans to have invited presentations on TROPICS, INCUS missions and upcoming technology demonstration programs like GRATTIS, ODIN and others.\n\n\nPresentations and speakers:\n\n\nTechnology Validation on CubeSats/SmallSats and their path towards building future missions\n\n\nSachidananda Babu - NASA/ESTO\nEarth Observing Systems of the Future: Proliferated Constellations of Small Satellites, Large-Format Arrays, and Cognitive Sensing\n\n\nWilliam Blackwell - MIT/LL\nThe Gravitational Reference Advanced Technology Test In Space (GRATTIS)\n\n\nJohn Conklin - Univ of Florida\nODIN \u2013 An Optomechanical-Distributed Instrument for Inertial Sensing and Navigation\n\n\nFelipe Guzman - Univ of Arizona",
-    "type": "session",
-    "session_id": "D9B16B42-1421-4FAB-A48F-CB586645A069",
-    "tags": [
-      "cog"
-    ]
-  },
-  {
     "title": "Advancing Monitoring of Complex Coasts: Harnessing Sentinel-2 and Landsat Data for Complementary Open-Source Approaches at Continental Scale",
     "authors": [
       "Stephen Sagar",
@@ -1479,72 +1289,6 @@
     ]
   },
   {
-    "title": "Measuring sun-induced fluorescence from ground-, UAV- and airborne platforms to understand the regulatory properties of photosynthesis and fluorescence across scales",
-    "authors": [
-      "Uwe Rascher",
-      "Jim Buffat",
-      "Andreas Burkart",
-      "Marco Celesti",
-      "Maria-Pilar Cendrero",
-      "Sofia Choza Farias",
-      "Sergio Cogliati",
-      "Roberto Colombo",
-      "Alexander Damm",
-      "Matthias Drusch",
-      "Ingo Ensminger",
-      "Lorenzo Genesio",
-      "Arthur Gessler",
-      "Jan Hanus",
-      "David Herrera",
-      "Tommi Julitta",
-      "Ireneus Kleppert",
-      "Oliver Knopf",
-      "Deepthi Konche",
-      "Julie Kr\u00e4mer",
-      "Vera Krieger",
-      "Ann-Kathrin Mahlein",
-      "Franco Miglietta",
-      "Jose Moreno",
-      "Onno Muller",
-      "Paul N\u00e4the",
-      "Huayiue Peng",
-      "Juan Quiros",
-      "Patrick Rademske",
-      "Juan Romera Barrios",
-      "Micol Rossini",
-      "Saja Salattna",
-      "Dirk Sch\u00fcttemeyer",
-      "Bastian Siegmann",
-      "Giulia Tagliabue",
-      "Marin Tudoroiu",
-      "Jochem Verrelst"
-    ],
-    "affiliations": [
-      "Forschungszentrum J\u00fclich, Institute of Bio- and Geosciences, IBG-2: Plant Sciences",
-      "German Space Agency at DLR",
-      "National Research Council \u2013 CNR, Institute of Bioeconomy \u2013 IBE",
-      "European Space Agency, ESTEC",
-      "University of Zurich, Department of Geography",
-      "JB Hyperspectral Devices GmbH",
-      "University of Milano-Bicocca, Remote Sensing of Environmental Dynamics Lab.",
-      "Institute for Sugar Beet Research",
-      "University of Valencia, Laboratory of Earth Observation,",
-      "University of Toronto, Department of Biology",
-      "Swiss Federal Research Institute WSL",
-      "Global Change Research Institute \u2013 CzechGlobe"
-    ],
-    "abstract": "Plant photosynthesis is maybe one of the best understood biophysical and biochemical pathway, which combines photosynthetic light absorption, the usage of the energy in light reactions and the biochemical fixation of atmospheric CO2. Decades of basic and applied research have produced a good mechanistic understanding of the underlying mechanisms and their regulatory properties as well as a large number of methods to non-invasively quantify the dynamics of photosynthesis. Fluorescence techniques are widely used approaches to directly quantify charge separation at photosystem II and to non-invasively quantify the efficiency of photosynthetic light reactions. However, regulation of photosynthetic acclimation and adaptation takes place on the level of single leaves and consequently most of our methods and knowledge on the dynamic nature of photosynthetic regulation is based on leaf-level studies. With FLEX and other satellite platforms delivering large scale data on solar-induced fluorescence, it becomes imminent to develop a good mechanistic understanding how larger scale observations can be translated to the small-scale regulatory properties. Such transfer should be based on good experimental evidence, that can then be used in mechanistic models, which are the basis for the development of higher level data products (lvl 2 and above). \r\nIn this presentation we summarize two important developments in this direction. First, we give an overview on the recent development of novel sensors, which help to bridge the gap between leaf level regulation of photosynthesis and fluorescence emission and top-of-canopy SIF observations. We demonstrate how novel sensor concepts that include active fluorescence approaches and passive, SIF-based approaches in combination with radiative transfer modelling, are used to mechanistically link leaf-level measurements to UAV- and airborne based SIF observations. Secondly, we will exemplify recent campaigns, where this novel portfolio of sensors was used in the European context to further test and understand the potential of large scale SIF measurements to serve as early stress indicator and to be used to better constrain vegetation carbon and water exchange. We executed various campaigns covering ecosystems in Germany, Switzerland, Czech Republic, The Netherlands, Spain, and Italy, all of which provided data on specific scientific objectives. In these campaigns we could (i) further constrain the accuracy and uncertainty of field, UAV and airborne SIF observations, which are relevant for the upcoming FLEX Cal/Val scheme, (ii) we could further develop the concepts how SIF can be used as an early drought and heat stress indicator, and (iii) we could greatly extend the data basis on the natural variability of the SIF signal across different ecosystems, the diurnal and seasonal cycle, and as a reaction to environmental extremes. \r\nWith this presentation we will bring together the data of FLEX related campaigns for our understanding of the regulatory properties of photosynthesis and fluorescence across scales. These data were used in scientific publications that are freely accessible for further exploitation. We present data concepts, which are currently being developed to make these new campaign data openly available to the scientific community and to complement the ESA based campaign data. \r\n\r\nThree selected reviews on this general topic\r\n\r\nPorcar-Castell A., Malenovsk\u00fd Z., Magney T., Van Wittenberghe S., Fern\u00e1ndez-Mar\u00edn B., Maignan F., Zhang Y., Maseyk K., Atherton J., Albert L.P., Robson T.M., Zhao F., Garcia-Plazaola J.-I., Ensminger I., Rajewicz P.A., Grebe S., Tikkanen M., Kellner J.R., Ihalainen J.A., Rascher U. &amp; Logan B. (2021) Chlorophyll a fluorescence illuminates a path connecting plant molecular biology to Earth-system science. Nature Plants, 7, 998-1009, doi: 10.1038/s41477-021-00980-4.\r\n\r\nMachwitz M., Pieruschka R., Berger K., Schlerf M., Aasen H., Fahrner S., Jimenez-Berni J.A., Baret F. &amp; Rascher U. (2021) Bridging the gap between remote sensing and plant phenotyping - challenges and opportunities for the next generation of sustainable agriculture. Frontiers in Plant Science, 12, article no. 749374, doi: 10.3389/fpls.2021.749374.\r\n\r\nBerger K., Machwitz M., Kycko M., Kefauver S.C., van Wittenberghe S., Gerhards M., Verrelst J., Atzberger C., van der Tol C., Damm A., Rascher U., Herrmann I., Sobejano Paz V., Fahrner S., Pieruschka P., Prikaziuk E., Buchaillot M.L., Halabuk A., Celesti M., Koren G., Gormus E.T., Rossini M., F\u00f6rster M., Siegmann B., Abdelbaki A., Tagliabue G., Hank T., Aasen H., Garcia M., P\u00f4\u00e7as I., Bandopadhyay S., Sulis M., Tomelleri E., Rozenstein O., Filchev L, Stancile G. &amp; Schlerf M. (2022) Multi-sensor synergies for crop stress detection and monitoring in the optical domain: a review. Remote Sensing of Environment, 280, article no. 113198, doi: 10.1016/j.rse.2022.113198.\r\n\r\n\r\nSelected publications describing novel SIF sensors and the associated campaign activities\r\n\r\nNaethe P., De Sanctis A., Burkart A., Campbell P.K.E., Colombo R., di Mauro B., Damm A., El-Madany T., Fava F., Gamon J., Huemmrich K.F., Migliavacca M., Rascher U., Rossini M., Sch\u00fcttemeyer D., Tagliabue G., Zhang Y. &amp; Julitta T. (2024) Towards a standardized, ground-based network of hyperspectral measurements: combining time series from autonomous field spectrometers with Sentinel-2. Remote Sensing of Environment, 303, article no. 114013, doi: 10.1016/j.rse.2024.114013.\r\n\r\nSiegmann B., Cendrero-MateoM.P., Cogliati S., Damm A., Gamon J., Herrera D., Jedmowski C., Junker-Frohn L.V., Kraska T., Muller O., Rademske P., van der Tol C., Quiros-Vargas J., Yang P. &amp; Rascher U. (2021) Downscaling of far-red solar-induced chlorophyll fluorescence of different crops from canopy to leaf level using a diurnal data set acquired by the airborne imaging spectrometer HyPlant. Remote Sensing of Environment, 264, article no. 112609, doi: 10.1016/j.rse.2021.112609.\r\n\r\nKneer C., Burkart A., Bongartz J., Siegmann B., Bendig J., Jenal A. &amp; Rascher U. (2023) A snapshot imaging system for the measurement of solar-induced chlorophyll fluorescence \u2013 addressing the challenges of high-performance spectral imaging. IEEE Sensors Journal, 23, 23255 \u2013 23269, doi: 10.1109/JSEN.2023.3297054.\r\n\r\nAcebron K., Salvatori N., Alberti G., Muller O., Peressotti A., Rascher U. &amp; Matsubara S. (2023) Elucidating the details of photosynthesis in chlorophyll-deficient soybean (Glycine max, L.) leaf. Journal of Photochemistry and Photobiology, 13, article no. 100152, doi: 10.1016/j.jpap.2022.100152.\r\n\r\nWang N., Siegmann B., Rascher U., Clevers J.G.P.W., Muller O., Bartholomeus H., Bendig J., Masiliu D., Pude R. &amp; Kooistra L. (2022) Comparison of a UAV- and an airborne-based system to acquire far-red sun-induced chlorophyll fluorescence measurements over structurally different crops. Agricultural and Forest Meteorology, 323, article no. 109081, doi: 10.1016/j.agrformet.2022.109081.\r\n\r\nPeng H., Cendrero-Mateo M.P., Bendig J., Siegmann B., Acebron K., Kneer C., Kataja K., Muller O. &amp; Rascher U. (2022) HyScreen: A ground-based imaging system for high-resolution red and far-red solar-induced chlorophyll fluorescence. Sensors, 22, article no. 9443; doi: 10.3390/s22239443.\r\n\r\nDamm A., Cogliati S., Colombo R., Fritsche L., Genangeli A., Genesio L., Hanus J., Peressotti A., Rademske P., Rascher, U., Schuettemeyer D., Siegman B., Sturm J. &amp; Miglietta F. (2022) Response times of remote sensing measured sun-induced chlorophyll fluorescence, surface temperature and vegetation indices to evolving soil water limitation in a crop canopy. Remote Sensing of Environment, 273, article no. 112957; doi: 10.1016/j.rse.2022.112957.",
-    "type": "poster",
-    "session_id": "50EBA85C-5ED4-4EEE-8EAB-4D6E7D631ADC",
-    "start": "2025-06-26T17:45:00",
-    "end": "2025-06-26T19:00:00",
-    "location": "X5 - Poster Area",
-    "presentation_id": "6B3B916B-E705-4C8D-B207-BD911CD4F670",
-    "tags": [
-      "cog"
-    ]
-  },
-  {
     "title": "FLEX DISC Collaborative Platform: Supporting Data Processing and Analysis for the FLEX Mission",
     "authors": [
       "Pedro Goncalves",
@@ -1569,27 +1313,6 @@
     ]
   },
   {
-    "title": "From Cradle to EO: 10 Child-Inspired Generic Tasks for Foundations Models",
-    "authors": [
-      "Imen Kaabachi",
-      "David Petit",
-      "Mohamed Amine Bouchnak"
-    ],
-    "affiliations": [
-      "Metaplanet"
-    ],
-    "abstract": "Foundation models are generic models that use self-learning techniques to learn general concepts after being trained on huge data sets utilizing pretext tasks. Afterward, these foundational models can be employed and trained on smaller data sets\u2014even no data with zero-shot learning\u2014for specific Earth observation applications.\r\nThis work proposes and analyzes the performances of a list of generic pretext tasks that can be employed to train an Earth Foundation model using self-learning. The tasks are derived from the typical tasks that educators and child therapists recommend for children to help them develop their skills. They have been adapted to meet the specific requirements of Earth Observation. This should assist in training a genuine generic foundation model, provided that the foundation model has a suitable architecture that is able to learn these concepts.\r\n\r\nIn the past years, most approaches to building a foundation model in EO have been funded on the predicate that bigger models and more data (of different modalities) will unlock the capacity to build more generic foundation models. Metaplanet has reviewed more than one hundred foundation models and analyzed their training approaches to categorize them.\r\n\r\nState-of-the-art methodologies address various challenges of geospatial data, including spatial-temporal heterogeneity, spatial redundancy and complexity. Additionally, novel architectures were introduced to better perform remote-sensing tasks. Advances include the incorporation of spatial and temporal relationships within the positional encoding (+3d token generation to enhance spatial-temporal coupling) to encode patterns captured over different timestamps or spectral bands. Dynamic masking strategies and patch selection processes quantify the amount of information in patches by measuring indicators of texture and content. They, therefore, ensure models focus on finer details and provide additional contextual information. Versatile architectures were also proposed to adapt to unseen modalities and varying sizes, resolutions, time-series and regions and to learn the complementary information between different sensors observing the same location. In addition, multi-stage learning approaches like consecutive pre-training, where a model is initially pre-trained on general-purpose data and then pre-trained on domain-specific data, were introduced to allow models to gradually adapt to the specific characteristics of the target domain, improving their capability of knowledge transfer.\r\n\r\nAlthough larger models and improved architecture are essential for the development of additional capabilities, the significance of the pretext tasks employed in self-learning is still overlooked, whereas they are critical in determining the foundation model&#039;s actual capabilities. According to Piaget&#039;s cognitive development theory, infants undergo four developmental stages: the sensorimotor stage (less than two years), the preoperational stage (2-7 years), the concrete operational stage (7-11 years), and the formal operational stage (more than 12 years). We have chosen ten pretext tasks that are appropriate for training Earth Observation Foundations Models through self-learning, up to the concrete operational stage. They are classified into categories such as creativity, perception of objects, perception of space, mathematics and logic, abstraction of concepts, problem-solving, memory, perception of time and causality.\r\n \r\nThe team has employed the PhilEO framework to evaluate the performance of a few foundation models by examining the impact of each pretext task individually and in combination for self-training. The PhilEO framework, which was developed by the Phi-lab of the European Space Agency, provides a flexible, consistent benchmark for evaluating these trained foundation models. This method also enables the classification of the learning capacity of the foundation models depending on the type of cognitive task. The proposed principles are generic and have the potential to enhance the training quality of any foundation models.",
-    "type": "poster",
-    "session_id": "ED4266A9-53C0-4768-A18A-7AA5C2CF00D9",
-    "start": "2025-06-26T17:45:00",
-    "end": "2025-06-26T19:00:00",
-    "location": "X5 - Poster Area",
-    "presentation_id": "BCD31316-872E-4119-B0EB-CEB89BFF2CBE",
-    "tags": [
-      "cog"
-    ]
-  },
-  {
     "title": "The Earth Observation Training Data Lab (EOTDL) - Addressing Training Data related needs in the Earth Observation community.",
     "authors": [
       "Juan B. Pedro"
@@ -1606,31 +1329,6 @@
     "presentation_id": "7E38607D-4923-4C5E-82E1-3984E73EB185",
     "tags": [
       "stac"
-    ]
-  },
-  {
-    "title": "color33 \u2013 a cloud service for automated semantic enrichment of Sentinel-2 data",
-    "authors": [
-      "Martin Sudmanns",
-      "Matthias Laher",
-      "Steffen Reichel",
-      "Markus Kerschbaumer",
-      "Dr Andrea Baraldi",
-      "Dr Dirk Tiede"
-    ],
-    "affiliations": [
-      "Paris Lodron University Salzburg",
-      "Spatial Services GmbH"
-    ],
-    "abstract": "Enormous amount of data is produced by Earth observation satellites such as the ones from the Copernicus Sentinel-2 missions. Every day each Sentinel-2 satellite collects &gt;1.5 TB of data, and 120 million Sentinel-2 scenes are already available for download.  Cloud-based systems such as Google Earth Engine, Microsoft Planetary Computer, OpenEO on the Copernicus Data Space Ecosystem are supposed to tackle problems regarding data access or provision of processing capabilities. The user\u2019s interest in this type of data is evident as the Sentinel-2 downloads account for 50% of all Sentinel downloads. \r\n\r\nYet, users are still struggle with converting this data into information in a reliable and scalable way. Existing approaches are often application- or sensor-specific, not transferable to other geographic areas or applications, or require many user-generated samples. Pixel-based spectral signatures of reflectance values and derived index values (e.g. NDVI) generally cannot be associated to land cover in a 1:1 relationship without additional information or interpretation. This is largely because values can be associated to several desired land cover definitions given variability in state or condition (e.g. deciduous forest in winter), or may not even be related to land cover at all (e.g. clouds).  Further, to achieve vegetation categories, users are required to set thresholds depending on the season or area-of-interest.\r\n\r\nThere are relatively few approaches for consistently producing meaningful information from calibrated reflectance values, which is also called semantic enrichment. color33 is the first worldwide working cloud service for fully automated semantic enrichment of any Sentinel-2 scene. Based on the SIAM software [1],  it implements a physical-model- and knowledge-based decision tree to categorize the spectral signature into a known and stable set of categories (color naming) without the need for training samples or additional parameter. The target categories are application-independent, generic, sensor-independent and are the basis for fully automatic image interpretation and change detection.\r\n\r\nFrom a user\u2019s perspective, having the categories shifts the starting point for analysis from reflectance values to known, stable spectral categories. Therefore, the burden of handling multispectral reflectance values is removed because users are able to use spectral categories with semantics in their analysis. For example, change detection can be expressed as category changes within vegetation categories or from vegetation to bare soil categories. As a physical-model and knowledge-based decision tree, color33 can be used without any parameters and does not require custom adjustments. color33 was designed as a cloud service with scalability in mind and provides parallelization and multi-user support accelerating performance and making it usable in a variety of applications. Hence, as a fast algorithm without training and deployed on scalable cloud resources, it contributes not only to a better user experience but also reduces the environmental footprint.\r\n\r\ncolor33 (https://color33.io) provides a scalable, worldwide applicable semantic enrichment on-demand for any Sentinel-2 image without additional parameters or training samples. Several applications can be supported from domains such as agriculture, wildfire, or forest monitoring. color33 was funded through an ESA inCubed project (SIAMaaS) and is available for testing through the ESA network of resources.\r\n\r\n[1] A. Baraldi, M. L. Humber, D. Tiede, and S. Lang, \u2018GEO-CEOS stage 4 validation of the Satellite Image Automatic Mapper lightweight computer program for ESA Earth observation level 2 product generation \u2013 Part 2: Validation\u2019, Cogent Geoscience, vol. 4, no. 1, p. 1467254, Jan. 2018, doi: 10.1080/23312041.2018.1467254.",
-    "type": "poster",
-    "session_id": "399387CD-7CF3-4D83-B5E8-2B86D6DC37A5",
-    "start": "2025-06-26T17:45:00",
-    "end": "2025-06-26T19:00:00",
-    "location": "X5 - Poster Area",
-    "presentation_id": "E94CEDB1-5F53-42D6-8516-D5854D72367F",
-    "tags": [
-      "cog"
     ]
   },
   {
@@ -1703,9 +1401,9 @@
     "location": "X5 - Poster Area",
     "presentation_id": "01B90E6F-1384-4CEA-A90D-02218E9F1A99",
     "tags": [
+      "pangeo",
       "cog",
-      "zarr",
-      "pangeo"
+      "zarr"
     ]
   },
   {
@@ -1759,9 +1457,9 @@
     "location": "X5 - Poster Area",
     "presentation_id": "F7EACB41-28E1-45FC-A009-BD2BDDF21197",
     "tags": [
-      "zarr",
       "stac",
-      "cloud-native"
+      "cloud-native",
+      "zarr"
     ]
   },
   {
@@ -1786,10 +1484,10 @@
     "location": "X5 - Poster Area",
     "presentation_id": "2173BA43-9CF0-4F19-95C4-CAC75E7CDBB2",
     "tags": [
-      "zarr",
       "stac",
+      "cloud-native",
       "cog",
-      "cloud-native"
+      "zarr"
     ]
   },
   {
@@ -1973,29 +1671,6 @@
     ]
   },
   {
-    "title": "Advancing Tropical Forest Monitoring: Predictive Deforestation Models and Explainable AI for Disturbance Driver Classification",
-    "authors": [
-      "Laura Elena Cue La Rosa",
-      "Diego Marcos",
-      "Bart Slagter",
-      "Johannes Reiche"
-    ],
-    "affiliations": [
-      "Wageningen University & Research",
-      "Inria, University of Montpellier"
-    ],
-    "abstract": "The free availability of optical and radar satellite imagery has transformed our ability to monitor tropical forests, offering near real-time information on deforestation and disturbance events. Monitoring tools like RADD (Reiche et al., 2021) and GLAD (Hansen et al., 2016) alerts provide valuable insights into forest disturbances using radar and optical satellite imagery. These systems are invaluable for law enforcement but lack the ability to identify the specific drivers of deforestation or predict risks before disturbances occur. In this work, we present two research projects aimed at advancing tropical forest monitoring: forecasting the risk of deforestation and improving the interpretability of model decision-making in classifying disturbance drivers.\r\nOur first research line focuses on a collaborative effort with Forest Foresight to predict the risk of deforestation in tropical regions using artificial intelligence. By integrating alerts from the RADD and GLAD (Reiche et al., 2024) systems, the initiative predicts deforestation risks up to six months in advance. In this work, we employed a ResUnet (Diakogiannis et al., 2020) to predict deforestation by combining static and dynamic variables, including historical deforestation patterns, proximity to infrastructure and roads, and fire alerts. The study covers several regions in South America, Africa and Asia, which experience different deforestation pressures such as logging, agriculture, and mining. The results show F0.5 scores ranging from 40% to 75%, from July 2022 to May 2023. Performance metrics reveal a seasonal trend where detection scores decrease during the dry season. This trend corresponds to increased deforestation intensity during these months, as forest-clearing activities tend to rise when weather conditions are more favorable for operations. The results reflect the model&#039;s ability to capture temporal variations, while also highlighting its limitations due to region-specific challenges, likely influenced by seasonal data quality and deforestation dynamics.\r\nThe second study focuses on evaluating several eXplainable Artificial Intelligence (XAI) methods applied to the classification of forest disturbance drivers using high spatiotemporal resolution Sentinel-1 and Sentinel-2 data. RADD forest disturbance alerts were classified into five categories: smallholder agriculture, road development, selective logging, mining, and others. The effectiveness of these methods was assessed in the context of early fusion and feature-level fusion, two of the most common data fusion techniques used in remote sensing. Our findings suggest that Guided Grad-CAM (GuidedGradCam) (Selvaraju et al., 2017) is the most effective method for the target application, focusing sharply on particular regions likely representing the target drivers&#039; activities while attributing zero scores to other classes. Additionally, by thoroughly examining the significance of variables, the impact of cloud cover, and the explanations offered by both fusion models for co-located classes, we shed light on the underlying reasoning behind each model&#039;s performance and decision-making processes.\r\nIntegrating both studies, predicting deforestation risk and classifying drivers, is a promising direction for future research. By combining these approaches, we aim to create a unified system that not only predicts where deforestation is likely to occur but also identifies the underlying causes.\r\n\r\nReferences\r\nDiakogiannis, F.I., Waldner, F., Caccetta, P., Wu, C., 2020. Resunet-a: A deep learning framework for semantic segmentation of remotely sensed data. ISPRS Journal of Photogrammetry and Remote Sensing 162, 94\u2013114.\r\n\r\nHansen, M.C., Krylov, A., Tyukavina, A., Potapov, P.V., Turubanova, S., Zutta, B., Ifo, S., Margono, B., Stolle, F., Moore, R., 2016. Humid tropical forest disturbance alerts using landsat data. Environmental Research Letters 11, 034008.\r\n\r\nReiche, J., Balling, J., Pickens, A.H., Masolele, R.N., Berger, A., Weisse, M.J., Mannarino, D., Gou, Y., Slagter, B., Donchyts, G., et al., 2024. Integrating satellite-based forest disturbance alerts improves detection timeliness and confidence. Environmental Research Letters 19.\r\n\r\nReiche, J., Mullissa, A., Slagter, B., Gou, Y., Tsendbazar, N.E., Odongo-Braun, C., Vollrath, A., Weisse, M.J., Stolle, F., Pickens, A., et al., 2021. Forest disturbance alerts for the congo basin using sentinel-1. Environmental Research Letters 16.\r\n\r\nSelvaraju, R.R., Cogswell, M., Das, A., Vedantam, R., Parikh, D., Batra, D., 2017. Grad-cam: Visual explanations from deep networks via gradient-based localization, in: Proceedings of the IEEE international conference on computer vision, pp. 618\u2013626.",
-    "type": "presentation",
-    "session_id": "DCFBC7F6-AA27-4CA9-8011-740D9DAED364",
-    "start": "2025-06-26T11:30:00",
-    "end": "2025-06-26T13:00:00",
-    "location": "Hall F2",
-    "presentation_id": "D47AAF68-A8A4-48E2-B7B5-69703D23AC2D",
-    "tags": [
-      "cog"
-    ]
-  },
-  {
     "title": "Introducing the OGC API \u2013 Discrete Global Grid Systems Standard for Enhanced Geospatial Data Interoperability",
     "authors": [
       "Matthew Brian John Purss",
@@ -2080,8 +1755,8 @@
     "location": "Hall K1",
     "presentation_id": "3EBAAC71-AA82-4ED4-B878-B12595EB6AEE",
     "tags": [
-      "cloud-native",
-      "pangeo"
+      "pangeo",
+      "cloud-native"
     ]
   },
   {
@@ -2161,31 +1836,6 @@
       "stac",
       "cog",
       "zarr"
-    ]
-  },
-  {
-    "title": "Telling Climate Stories with Data",
-    "authors": [
-      "Philip Eales",
-      "Andrew Wayne",
-      "Annika van Lengen",
-      "Patrick Mast",
-      "Dr. Carsten Brockmann",
-      "Sophie Hebden",
-      "Paul"
-    ],
-    "affiliations": [
-      "Planetary Visions Limited"
-    ],
-    "abstract": "Article 12 of the Paris Agreement emphasises the importance of promoting public understanding, education and participation in addressing climate change. Education is also a mandatory activity in the ESA Convention, which all member states are expected to support. With these points in mind, ESA\u2019s Climate Office has over the last few years initiated a range of science communication activities to promote the ESA Climate Change Initiative (CCI), and climate change awareness more broadly, to the public, policy makers and students. These activities combine data visualisation and computer graphics techniques with extremely high visual quality and a narrative approach to science communication. \r\n\r\nStorytelling is the main means of communicating with which the human brain has developed, and narrative cognition is thought to be the default mode of human thought and memory. It is recognised that narratives (stories) are easier to comprehend, and non-expert audiences find them more engaging, than the logical-scientific approach that scientists often use to communicate with each other, and more effective than the \u201cinformation deficit\u201d approach often used to communicate with the public. We will demonstrate the practical application of a narrative approach across a range of media from simple graphics and image sequences  to animation and long-form multimedia storytelling.\r\n\r\nThe CCI is developing key datasets, based on the best available Earth Observation (EO) technologies and best methodological processing algorithms, for use in understanding changes to the Earth\u2019s climate. Twenty-seven essential climate variables (ECVs) are being developed and made available to climate modelers, with data stretching back in some cases more than forty years. The ECVs include variables such as sea surface temperature, atmospheric greenhouse gases, and land cover type.\r\n\r\nAs well as producing clear and easy-to-understand climate data visualisations for print, broadcast, social media and exhibition use in the form of 2D maps, 3D computer graphics and linear animations, an interactive web app has been developed to present the very long time-sequences of ECV data on an interactive virtual globe. This allows users to explore the climate data at their own pace, compare related climate variables, and discover for themselves patterns, relationships, climate events and trends. \r\n\r\nThe data globe is accompanied by a series of multimedia stories that are richly illustrated with photos, videos, satellite images and diagrams, and rooted in human experience. The stories present background information and context for the Earth observation data and show how they are relevant to daily life and newsworthy events. Data are linked through components of the Earth system, such as the carbon cycle and the water cycle, and to the challenges facing society due to climate change.  \r\n\r\nIn both the interactive data viewer and the stand-alone linear animations care is taken to follow best practice for scientific data visualisation and science communication. In the animations, visualisations of the global climate data products are supplemented by computer graphic representations of microscopic processes, such as aerosols seeding cloud formation, and with conceptual illustrations of, for example, the carbon budget and the volume of ice Earth loses each year. \r\n\r\nThe time-sequence maps are made available outside the web app for use on custom display hardware such as touch-tables and spherical displays. ESA and the UK Space Agency have used the material in this way in their own exhibition spaces and in public events such as the annual UN climate summits. The animations are published on ESA\u2019s website and social media channels and made available for use by broadcasters. Future work will look at tighter integration between the data viewer and the storytelling, and adapting the app, stories and animations to the needs of outreach partners such as museums, science centres and exhibition spaces.",
-    "type": "presentation",
-    "session_id": "3DDFB9AA-9A4A-419E-A522-6128334B42A5",
-    "start": "2025-06-26T14:00:00",
-    "end": "2025-06-26T15:30:00",
-    "location": "Hall L1/L2",
-    "presentation_id": "F5DC5FBE-6010-4ACA-83CB-25F9EBA06687",
-    "tags": [
-      "cog"
     ]
   },
   {
@@ -2287,8 +1937,8 @@
     "type": "session",
     "session_id": "3CED5B3C-FA23-4E18-8004-33BF75D9F4E1",
     "tags": [
-      "zarr",
-      "cloud-native"
+      "cloud-native",
+      "zarr"
     ]
   },
   {
@@ -2390,8 +2040,8 @@
     "location": "Room 1.34",
     "presentation_id": "DBAC2963-422B-48D4-ADC7-E38BF8FB55F7",
     "tags": [
-      "kerchunk",
-      "zarr"
+      "zarr",
+      "kerchunk"
     ]
   },
   {
@@ -2516,8 +2166,8 @@
     "presentation_id": "6B2F8BA1-D1F0-48A0-969C-B6012591C2FC",
     "tags": [
       "stac",
-      "cog",
-      "cloud-native"
+      "cloud-native",
+      "cog"
     ]
   },
   {
@@ -2539,9 +2189,9 @@
     "location": "X5 - Poster Area",
     "presentation_id": "DE8BFD7C-A033-4B5A-8FE2-EBD6A260F810",
     "tags": [
-      "zarr",
       "stac",
       "cloud-native",
+      "zarr",
       "pangeo"
     ]
   },
@@ -2583,9 +2233,9 @@
     "location": "X5 - Poster Area",
     "presentation_id": "56E337F7-EADD-4641-BC8B-A056CE0B869A",
     "tags": [
-      "zarr",
       "stac",
-      "cloud-native"
+      "cloud-native",
+      "zarr"
     ]
   },
   {
@@ -2606,8 +2256,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "941BC934-0458-41B5-A8A7-ADD9E9D562A6",
     "tags": [
-      "zarr",
-      "cloud-native"
+      "cloud-native",
+      "zarr"
     ]
   },
   {
@@ -2650,8 +2300,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "40151028-2508-433A-9B6A-107FEE2A5BCA",
     "tags": [
-      "cog",
-      "parquet"
+      "parquet",
+      "cog"
     ]
   },
   {
@@ -2733,8 +2383,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "EE20C19F-ED37-48AA-845F-81C815312532",
     "tags": [
-      "zarr",
-      "cloud-native"
+      "cloud-native",
+      "zarr"
     ]
   },
   {
@@ -2858,11 +2508,11 @@
     "type": "session",
     "session_id": "98C8A8A1-7F82-4AFB-9BFC-F84FAAFE7136",
     "tags": [
-      "cloud-native",
-      "zarr",
-      "stac",
       "parquet",
-      "cog"
+      "cog",
+      "stac",
+      "cloud-native",
+      "zarr"
     ]
   },
   {
@@ -2971,10 +2621,10 @@
     "location": "Hall K2",
     "presentation_id": "DDAD3041-72BF-4FAF-9429-FCBA7081E600",
     "tags": [
-      "kerchunk",
       "stac",
+      "virtualizarr",
       "zarr",
-      "virtualizarr"
+      "kerchunk"
     ]
   },
   {
@@ -3062,20 +2712,6 @@
     ]
   },
   {
-    "title": "D.02.15 The ESA \u03a6sat-2 mission: an AI empowered 6U Cubesat for Earth Observation",
-    "start": "2025-06-27T14:30:00",
-    "end": "2025-06-27T16:00:00",
-    "duration": "90 Minutes",
-    "chairs": "N/A",
-    "location": "Room 0.96/0.97",
-    "abstract": "As part of an initiative to promote the development and implementation of innovative technologies onboard Earth Observation (EO) missions, the \u03a6sat-2 mission demonstrates AI capabilities for new, valuable EO techniques relevant to EO user communities. Its overall objective is to address innovative mission concepts, fostering novel architectures or sensing methods that meet user-driven science and applications through onboard processing using state-of-the-art AI techniques and AI-accelerator processors. The \u03a6sat-2 mission is based on an innovative nano-satellite platform capable of running AI applications developed by its users. It is a 6U satellite equipped with a high-resolution multispectral instrument that can acquire eight bands (seven plus panchromatic) from Visible to Near Infra-Red (VIS/NIR). Multiple applications run on the NanoSatMO Framework via the CogniSat AI processor for novel data analysis. It also allows custom AI applications to be developed, installed, updated, and operated on the satellite while in orbit, enabling \u03a6sat-2 to adapt to changing needs and maximize its value for scientists, businesses, and governments. As of today, six AI applications will run onboard the satellite, including capabilities to turn images into maps, detect and classify clouds, provide insight into cloud distribution, detect and classify vessels, compress images onboard and reconstruct them on the ground to reduce download time, identify anomalies in marine ecosystems, and detect wildfires. This invited session will provide an overview of the \u03a6sat-2 mission, its current status, its various AI app demontrations, and further opportunities for the open community to work with the mission. \u03a6sat-2 is a collaborative effort with Open Cosmos as the prime contractor, supported by an industrial consortium including CGI, Simera, Ubotica, CEiiA, GEO-K, and KP-Labs, with additional AI app contributions from IRT Saint Exupery and TAS-I.\n\nThis session will feature the following contributions:\n\n\nOverview of the phisat-2 mission\n\n\nFlorian Deconinck - Open Cosmos\n\u03a6sat-2 in action: AI app orchestration, data acquisition, and open access\n\n\nAlessandro Marin - CGI Italy\n\n\nFrom pixels to insights: developing and running AI Applications\n\n\nThe Best Cloud Detection in the World by Jakub Nalepa (KP-Labs)\nGenerative Adversarial Networks in Orbit results by Alessandro Marin (CGI Italy)\nDeep Compression Application by Giorgia Guerrisi (Geo-K)\nAutonomous Vessel Awareness by Andre Dias (CEiiA)\nMonitoring the Ocean from Orbit: First Onboard Runs of Marine Anomaly Detection for Environmental Protection by Thomas Goudemant (IRT St Exupery)\nPhiFire AI: on\u2013board wildfires detection by Federica Biancucci / Andrea Tantucci (Thales Alenia Space Italy)\n\n\nAll4One or One4All? Tailoring Onboard AI with NAS and Foundation Models\n\n\nRoberto Del Prete - ESA \u03a6-lab",
-    "type": "session",
-    "session_id": "AD02EA6B-646C-4BB1-AC02-38FB11D9C8A6",
-    "tags": [
-      "cog"
-    ]
-  },
-  {
     "title": "Cloud-Native Raster Data: Revolutionizing Geospatial Analysis",
     "authors": [
       "Vincent Sarago",
@@ -3093,10 +2729,10 @@
     "location": "Room 1.31/1.32",
     "presentation_id": "323699B8-688A-46C1-8870-7DDF009D487F",
     "tags": [
-      "zarr",
       "stac",
+      "cloud-native",
       "cog",
-      "cloud-native"
+      "zarr"
     ]
   },
   {
@@ -3127,10 +2763,10 @@
     "location": "Room 1.31/1.32",
     "presentation_id": "2CF5896C-BEBD-43FB-961B-F0773B86318D",
     "tags": [
-      "zarr",
       "stac",
+      "cloud-native",
       "cog",
-      "cloud-native"
+      "zarr"
     ]
   },
   {
@@ -3164,10 +2800,10 @@
     "location": "Room 1.31/1.32",
     "presentation_id": "33D5844D-9424-4CB7-BE07-DA48FC42C374",
     "tags": [
-      "kerchunk",
       "stac",
       "cog",
-      "zarr"
+      "zarr",
+      "kerchunk"
     ]
   },
   {
@@ -3211,63 +2847,6 @@
     "tags": [
       "stac",
       "cloud-native"
-    ]
-  },
-  {
-    "title": "Sugar Beet Cercospora Leaf Spot Quantified By Integration Of Active (Fq\u2019/Fm\u2019) And Passive (SIF) Chlorophyll Fluorescence Methods In The Field",
-    "authors": [
-      "Deepthi Konche",
-      "Dr. Juan Manuel Romero",
-      "Facundo Ispizua Yamati",
-      "Dr. Christoph Jedmowski",
-      "Ilgaz Askin",
-      "Micheal Quarten",
-      "Angelina Steier",
-      "Prof. Dr Anne Katrin Mahlein",
-      "Prof. Dr. Uwe Rascher",
-      "Dr. Onno Muller"
-    ],
-    "affiliations": [
-      "Institute of Bio- and Geosciences 2 (IBG-2), Plant Sciences, Forschungszentrum J\u00fclich",
-      "Institute of Sugar Beet Research G\u00f6ttingen, Holtenser Landstrasse 77, 37079",
-      "CONICET, Instituto de Investigaciones Fisiol\u00f3gicas y Ecol\u00f3gicas vinculadas a la Agricultura (IFEVA)",
-      "Universidad de Buenos Aires, Facultad de Ciencias Exactas y Naturales, Departamento de Qu\u00edmica Inorg\u00e1nica, Anal\u00edtica y Qu\u00edmica F\u00edsica"
-    ],
-    "abstract": "Cercospora leaf spot (CLS), caused by the fungus Cercospora beticola, is a destructive foliar disease in sugar beet (Beta vulgaris L.), leading to reduced yields and sugar content (Rangel et al., 2020). Traditional detection and monitoring of CLS on visual assessments and laboratory analyses is very time-consuming (Shane &amp; Teng. 1992). The ability to detect physiological and structural changes due to CLS is vital for understanding genotype-specific responses and improving crop management strategies. Sun-induced chlorophyll fluorescence (SIF) has emerged as a promising tool for assessing photosynthetic activity and detecting plant stress (Rascher et al., 2015) (Porcar-Castell et al., 2014). However, the application of SIF in monitoring biotic stress, specifically fungal diseases like CLS in sugar beet is very less explored. \r\nThe study took place in 2023 in experimental sites at the Institute of Sugar Beet Research, Goettingen. Two sugar beet genotypes\u2014one susceptible (S) and one very low-susceptible (VLS) to CLS\u2014were evaluated in plots (12.0m \u00d7 5.4m) under inoculated and control conditions. Three replications were sown using a randomized block design. The mobile positioning system \u2018FieldWeasel\u2019 was used in open fields for canopy-scale fluorescence measurements with RTK to position the sensor platform at less than 2 cm. \r\nTwo chlorophyll fluorescence methods were employed: the passive FloX system for monitoring of top-of-canopy solar-induced fluorescence and reflectance measurements using high-performance spectrometers (Damm et al., 2022) and the active Light-Induced Fluorescence Transient (LIFT) device, which uses fast repetition rate (FRR) pulses to measure PSII electron transport efficiency (Fq&#039;/Fm&#039;) (Kolber et al., 1998) (Knopf et al., 2024). \r\nFirst when looked at disease severity score, in inoculated plots the disease severity peaked up to 10 in the S genotype, while the VLS genotype showed severity below 8 by the season&#039;s end. In control plots severity remained below 6 for the VLS genotype while the S genotype reached 10, indicating successful inoculation and even distribution. \r\nThe three Vegetation Indices (VI\u2019s) (NDVI, MTCI &amp; PRI) derived from reflectance measurements collectively demonstrated consistent patterns in response to disease progression in the sugar beet genotypes. Overall, VLS genotype showed no effect of disease in control treatments, whereas inoculated plots showed changes in the VIs only towards the end of the season, reflecting lower biomass and chlorophyll content and higher light stress. On the other hand, inoculated plots of S genotype revealed significant effects of the disease already in the first measuring day while control plots were affected only in the second part of the season.\r\nComing to sun-induced fluorescence (SIF), SIFFR and SIFR signal changes as a result from not only the structural effects through fAPAR and Fesc but also the physiological effects through SIF yield therefore showing sensitivity to early physiological disruptions at the photosystem level. This allowed to identify subtle disease effects on the VLS genotype that were not visible in the reflectance measurements: the early decrease observed for the inoculated plots in the first measuring date and the effect on the control plots in the second measuring date. SIF changes upon CLS infection in S genotype, on the other hand, follow the same trend as described by vegetation indices, due to its strong dependence on APAR.\r\nPSII efficiency (Fq\u2019/Fm\u2019) measured from LIFT is compared with both red and far-red SIF emission yields. At first, it can be observed that for S variety both fluorescence yields follow the same general pattern as PSII efficiency, contributing to the first scenario described by (Porcar-Castell et al., 2021). This suggests a direct relationship between PSII yield and SIF yield, indicating that fluctuations in photosynthetic efficiency and fluorescence emission upon CLS disease are linked, possibly due to a degree of decoupling between reaction centers and the antenna complex or quenching of chlorophyll excited states.\r\nThe study conducted in this work showed how Cercospora leaf spot disease, a widely distributed diseases in german production, affects sugar beet crop mainly at the structural level. We have shown how simultaneous retrieval of active and passive fluorescence can provide insights on early disease effects, provided structural normalization is adequately addressed. By bridging these findings with satellite-based remote sensing approaches, such as ESAs FLEX mission, we can offer practical solutions for monitoring crop health and stress on larger scales, from regional to global levels. \r\nReferences:\r\nDamm, A., Cogliati, S., Colombo, R., Fritsche, L., Genangeli, A., Genesio, L., Hanus, J., Peressotti, A., Rademske, P., Rascher, U., Schuettemeyer, D., Siegmann, B., Sturm, J., &amp; Miglietta, F. (2022). Response times of remote sensing measured sun-induced chlorophyll fluorescence, surface temperature and vegetation indices to evolving soil water limitation in a crop canopy. Remote Sensing of Environment, 273, 112957. https://doi.org/10.1016/j.rse.2022.112957\r\nKnopf, O., Castro, A., Bendig, J., Pude, R., Kleist, E., Poorter, H., Rascher, U., &amp; Muller, O. (2024). Field phenotyping of ten wheat cultivars under elevated CO2 shows seasonal differences in chlorophyll fluorescence, plant height and vegetation indices. Frontiers in Plant Science, 14, 1304751. https://doi.org/10.3389/fpls.2023.1304751\r\nKolber, Z. S., Pr\u00e1\u0161il, O., &amp; Falkowski, P. G. (1998). Measurements of variable chlorophyll fluorescence using fast repetition rate techniques: Defining methodology and experimental protocols. Biochimica et Biophysica Acta (BBA) - Bioenergetics, 1367(1\u20133), 88\u2013106. https://doi.org/10.1016/S0005-2728(98)00135-2\r\nPorcar-Castell, A., Malenovsk\u00fd, Z., Magney, T., Van Wittenberghe, S., Fern\u00e1ndez-Mar\u00edn, B., Maignan, F., Zhang, Y., Maseyk, K., Atherton, J., Albert, L. P., Robson, T. M., Zhao, F., Garcia-Plazaola, J.-I., Ensminger, I., Rajewicz, P. A., Grebe, S., Tikkanen, M., Kellner, J. R., Ihalainen, J. A., \u2026 Logan, B. (2021). Chlorophyll a fluorescence illuminates a path connecting plant molecular biology to Earth-system science. Nature Plants, 7(8), 998\u20131009. https://doi.org/10.1038/s41477-021-00980-4\r\nPorcar-Castell, A., Tyystj\u00e4rvi, E., Atherton, J., Van Der Tol, C., Flexas, J., Pf\u00fcndel, E. E., Moreno, J., Frankenberg, C., &amp; Berry, J. A. (2014). Linking chlorophyll a fluorescence to photosynthesis for remote sensing applications: Mechanisms and challenges. Journal of Experimental Botany, 65(15), 4065\u20134095. https://doi.org/10.1093/jxb/eru191\r\nRangel, L. I., Spanner, R. E., Ebert, M. K., Pethybridge, S. J., Stukenbrock, E. H., De Jonge, R., Secor, G. A., &amp; Bolton, M. D. (2020). Cercospora beticola: The intoxicating lifestyle of the leaf spot pathogen of sugar beet. Molecular Plant Pathology, 21(8), 1020\u20131041. https://doi.org/10.1111/mpp.12962\r\nRascher, U., Alonso, L., Burkart, A., Cilia, C., Cogliati, S., Colombo, R., Damm, A., Drusch, M., Guanter, L., Hanus, J., Hyv\u00e4rinen, T., Julitta, T., Jussila, J., Kataja, K., Kokkalis, P., Kraft, S., Kraska, T., Matveeva, M., Moreno, J., \u2026 Zemek, F. (2015). Sun\u2010induced fluorescence \u2013 a new probe of photosynthesis: First maps from the imaging spectrometer HyPlant. Global Change Biology, 21, null. https://doi.org/10.1111/gcb.13017",
-    "type": "poster",
-    "session_id": "30DD12FD-216A-41E3-B518-C0A97951BFCD",
-    "start": "2025-06-23T17:45:00",
-    "end": "2025-06-23T19:00:00",
-    "location": "X5 - Poster Area",
-    "presentation_id": "A0832E34-68E0-4F44-B4D7-EB33149CE7D7",
-    "tags": [
-      "cog"
-    ]
-  },
-  {
-    "title": "Monitoring Soybeans and Ozone Relationship with TROPOMI Solar-Induced Fluorescence",
-    "authors": [
-      "Luka Mami\u0107",
-      "Mj Riches",
-      "Delphine K. Farmer",
-      "Rose K. Rossell",
-      "Francesco Pirotti"
-    ],
-    "affiliations": [
-      "Department of Civil, Building and Environmental Engineering, Sapienza University of Rome",
-      "Department of Chemistry, Colorado State University",
-      "Department of Land and Agroforestry Systems (TESAF), University of Padua",
-      "Interdepartamental Research Centre in Geomatics (CIRGEO), University of Padua"
-    ],
-    "abstract": "The worldwide increases in air pollution threaten agricultural productivity and food security. Among air pollutants, ground-level ozone (O\u2083) is considered one of the most important stressors to crop production globally. Even short-term periods of high O\u2083 concentrations can cause significant losses in crop production. Soybeans are particularly sensitive to O\u2083 damage, as shown in various field and laboratory studies.\r\n\r\nPlant stress is defined as a state of applied force followed by a strain phase, which is an expression of stress before damage occurs. The damage phase is the final state of acute and chronic damage visible on the leaf surface. Traditional remote sensing indices such as Normalized Difference Vegetation Index (NDVI) allow us to detect the damage phase of a plant as a change in the &quot;greenness&quot; of the canopy, but by that time these morphological changes are already irreversible. However, if the stressor is removed before the damage phase, the plant will regenerate and move to a new physiological standard (Meroni et al., 2008).\r\n\r\nSolar-induced fluorescence (SIF) holds great promise for the early detection of physiological stress in plants. Measured SIF from the ground has been successfully used to indicate strain phase (Wu et al., 2024). With the advancement of satellite-based SIF measurements, such as those from the TROPOspheric Monitoring Instrument (TROPOMI), there is a potential to detect the strain phase of crop stress and over large spatial scales.\r\n\r\nTherefore, this study addresses two main questions: I. Are we able to detect periods of soybean stress using satellite SIF measurements; II. Are we able to attribute soybean stress to explicit stressors such as heat, drought or ozone?\r\n\r\nThis study uses several datasets to carry out the analysis. Daily ground-level O\u2083 concentrations are derived from nearby EPA monitoring stations. Daily SIF data at 743 nm were derived from the ESA-TROPOSIF project, which produced a global SIF product from Sentinel-5P TROPOMI data. Daily meteorological variables, including temperature, relative humidity (RH), vapor pressure deficit (VPD), and precipitation, were obtained from the University of Idaho Gridded Surface Meteorological Dataset (GRIDMET). In addition, eight-day Gross Primary Productivity (GPP) and four-day Fraction of Photosynthetically Active Radiation (fPAR) were derived from the MODIS datasets. \r\n\r\nDue to the coarse spatial resolution of the TROPOMI SIF dataset (~7 \u00d7 3.5 km), our primary study sites were selected to include large soybean fields in Arkansas, while fields in Ohio were chosen for validation purposes.\r\n\r\nThe study focused on the soybeans growing season - May to August - from 2018 to 2021. To improve the precision of the SIF data and calculate the Standardized Precipitation-Evapotranspiration Index (SPEI), all datasets were aggregated to a weekly scale, resulting in 70 weeks of observations. \r\n\r\nTo capture the interactive effects of O\u2083 with weekly maximum temperature (Tmax), mean VPD, and mean RH, three new indices were calculated:\r\n- Normalized Ozone Temperature Index (NOTI):\r\nNOTI =  (normalized O\u2083 - normalized Tmax) / (normalized O\u2083 + normalized Tmax )\r\n- Normalized Ozone Vapor Pressure Deficit Index (NOVPDI):\r\nNOVPDI =  (normalized O\u2083 - normalized VPDI) / (normalized O\u2083 + normalized VPD)\r\n- Normalized Ozone Humidity Index (NOHI):\r\nNOHI =  (normalized O\u2083 - normalized RH) / (normalized O\u2083 + normalized RH)\t\r\n\r\nPreliminary results indicate that soybeans in Arkansas and Ohio have a clear seasonal SIF signature, peaking around the 200th day of the year (DOY), and thus are distinguishable from other regional crops. Annual average TROPOMI SIF is correlated with annual soybean yields at the county level (R = 0.90 in Arkansas; R = 0.41 in Ohio) based on data from the United States Department of Agriculture (USDA).\r\n\r\nOur analysis shows that soybeans are sensitive to ambient O\u2083 levels during the growing season, even at low weekly average concentrations of 40 ppb. Soybeans in Arkansas did not experience severe stress, supported by a strong correlation between SIF and fPAR (R = 0.87) or SIF and GPP (R = 0.89), and no significant heat or drought stress from 2018 to 2021.\r\n\r\nCalculated average of normalized O\u2083 and normalized SPEI values indicate a decrease in SIF during wet periods with high O\u2083 levels. The calculated NOTI index suggests that SIF is reduced by almost 0.5 units when temperature and ozone levels were both high. NOVPDI shows that under high ozone and high VPD conditions, there is a reduction in SIF of about 0.4 units, indicating that ozone can damage plants through non-stomatal uptake (Clifton et al., 2020). On the other hand, NOHI shows that under high ozone and high relative humidity (\u2265 78%), the SIF decreased by about 0.4 units, suggesting that very humid conditions may further promote ozone uptake and plant stress (Kavassalis &amp; Murphy, 2017).\r\n\r\nTo additionally validate these findings, we propose to conduct controlled laboratory experiments to test the observed relationships between low O\u2083 exposure and soybean stress. In addition, we propose to use machine learning techniques to downscale the spatial resolution of the TROPOMI SIF data - possibly using high-resolution Sentinel-2 or other datasets - so that these methods can be applied to smaller fields. Extending this methodology to other crop types or forested areas could provide broader insights into the effects of ozone and environmental stressors on vegetation health.\r\n\r\nReferences\r\nClifton, O. E., Fiore, A. M., Massman, W. J., Baublitz, C. B., Coyle, M., Emberson, L., ... &amp; Tai, A. P. (2020). Dry deposition of ozone over land: processes, measurement, and modeling. Reviews of Geophysics, 58(1), e2019RG000670.\r\nKavassalis, S. C., &amp; Murphy, J. G. (2017). Understanding ozone\u2010meteorology correlations: A role for dry deposition. Geophysical Research Letters, 44(6), 2922-2931.\r\nMeroni, M., Panigada, C., Rossini, M., Picchi, V., Cogliati, S., &amp; Colombo, R. (2009). Using optical remote sensing techniques to track the development of ozone-induced stress. Environmental pollution, 157(5), 1413-1420.\r\nWu, G., Guan, K., Ainsworth, E. A., Martin, D. G., Kimm, H., &amp; Yang, X. (2024). Solar-induced chlorophyll fluorescence captures the effects of elevated ozone on canopy structure and acceleration of senescence in soybean. Journal of experimental botany, 75(1), 350-363.",
-    "type": "poster",
-    "session_id": "30DD12FD-216A-41E3-B518-C0A97951BFCD",
-    "start": "2025-06-23T17:45:00",
-    "end": "2025-06-23T19:00:00",
-    "location": "X5 - Poster Area",
-    "presentation_id": "7E689290-7D6F-487B-8E67-FD2CE2D308A0",
-    "tags": [
-      "cog"
     ]
   },
   {
@@ -3524,10 +3103,10 @@
     "location": "X5 - Poster Area",
     "presentation_id": "CB47235C-86B8-489B-8481-B350D929660E",
     "tags": [
-      "zarr",
       "stac",
+      "cloud-native",
       "cog",
-      "cloud-native"
+      "zarr"
     ]
   },
   {
@@ -3571,29 +3150,6 @@
     "presentation_id": "FEE71017-B3E4-4498-B7CA-00F95AF2C2FB",
     "tags": [
       "cloud-native"
-    ]
-  },
-  {
-    "title": "Human-Centred AI for Cybersecurity in Earth Observation: Transparent and Reliable Systems for a Sustainable Future",
-    "authors": [
-      "Carmelo Ardito",
-      "Angela Lombardi",
-      "Domenico Lof\u00f9",
-      "Tommaso Di Noia",
-      "Eugenio Di Sciascio"
-    ],
-    "affiliations": [
-      "Politecnico di Bari"
-    ],
-    "abstract": "The integration of Artificial Intelligence (AI) in Earth Observation (EO) systems is reshaping our capacity to monitor, analyze, and respond to the planet\u2019s most pressing environmental challenges. By enabling more efficient data processing and enhanced decision-making, AI holds the potential to amplify the global value of EO data. However, alongside these opportunities arise significant risks, particularly in the domain of cybersecurity. As AI-driven systems become increasingly critical, they also represent potential vulnerabilities. Cyber-attacks exploiting these vulnerabilities can disrupt EO operations, compromise data integrity, and hinder environmental sustainability efforts. Addressing these challenges requires a novel approach to cybersecurity\u2014one that integrates AI technology with human-centric design principles.\r\nTraditional AI systems often operate as &quot;black boxes,&quot; providing outputs without offering clarity on the underlying decision-making processes. This lack of transparency can undermine user trust, increase the likelihood of errors, and reduce the effectiveness of cybersecurity interventions. The Human-Centred AI (HCAI) discipline addresses these issues by prioritizing transparency, explainability, and user collaboration [1]. It emphasizes the development of systems that make AI processes understandable to users through explanations presented in natural or visual language. These explanations are tailored to the user\u2019s level of expertise, enabling stakeholders\u2014whether cybersecurity analysts, EO operators, or decision-makers\u2014to comprehend and evaluate AI-driven outputs. By making the underlying model behavior explicit, such systems promote safety, reliability, and trustworthiness. This not only strengthens the effectiveness of cybersecurity measures but also ensures that users are better equipped to respond to emerging threats.\r\nThe implications of this approach extend beyond immediate operational benefits. Since 2020, when Ben Shneiderman coined the term, HCAI is gaining momentum and it has been adopted in designing AI-based systems in many domains. However, to the best of our knowledge, its adoption in the field of cybersecurity remains largely unexplored. Here we propose to introduce HCAI as a framework to enhance cybersecurity in EO systems, with a specific focus on the pivotal task of malware attribution and classification. By safeguarding EO data and infrastructures, we contribute to the resilience of critical systems that underpin climate adaptation and mitigation efforts. For example, secure EO systems enable accurate environmental monitoring, disaster response coordination, and long-term sustainability planning. Conversely, breaches in these systems can lead to data tampering, supply chain inefficiencies, and misallocation of climate finance\u2014all of which exacerbate environmental and social vulnerabilities.\r\nFrom a technical perspective, implementing HCAI principles in EO cybersecurity involves three key strategies:\r\n1.\tModel Explainability: Ensuring that AI algorithms provide interpretable outputs. This can be achieved through methods such as feature attribution, decision trees, and saliency maps, which highlight the reasoning behind specific decisions.\r\n2.\tAdaptive Explanations: Customizing explanations to align with the user\u2019s domain expertise and cognitive preferences. For instance, a cybersecurity analyst might benefit from technical details about algorithmic behavior, while an EO operator might require visual summaries or high-level insights.\r\n3.\tCollaborative Interfaces: Designing interactive platforms that allow users to question, validate, and refine AI outputs. Such interfaces foster a sense of control and partnership, reducing the cognitive load associated with relying on automated systems.\r\nThese strategies not only enhance system usability but also address broader ethical concerns related to AI deployment. By making AI systems accountable and interpretable, we align cybersecurity practices with Environmental, Social, and Corporate Governance (ESG) objectives. This alignment is critical in the EO domain, where the stakes are high, and the consequences of system failures are far-reaching.\r\nMoreover, adopting HCAI principles contributes to a more proactive and sustainable approach to cybersecurity. By embedding transparency and trust into system design, we reduce the risk of adversarial attacks, data leakage, and operational disruptions. This, in turn, supports the continuity of green operations and the effective management of environmental risks.\r\nFinally, this paper situates the HCAI framework within the broader context of cybersecurity and sustainability. It highlights the dual role of cybersecurity in protecting EO systems while advancing sustainability goals. By securing critical infrastructure and enabling reliable data sharing, cybersecurity becomes a key enabler of resilience, adaptation, and mitigation strategies. Furthermore, the integration of HCAI principles ensures that these efforts are inclusive, equitable, and aligned with the values of a sustainable future.\r\nThe proposed approach bridges the gap between technical innovation and human needs, demonstrating how AI can be harnessed responsibly to address the interconnected challenges of cybersecurity and climate change. As EO systems continue to evolve, adopting HCAI principles will be essential to ensuring their safety, reliability, and trustworthiness\u2014ultimately contributing to a more resilient and sustainable planet.\r\n\r\n[1] B. Shneiderman, &quot;Human-centered artificial intelligence: Reliable, safe &amp; trustworthy,&quot; International Journal of Human\u2013Computer Interaction, vol. 36, pp. 495-504, 2020, DOI: 10.1080/10447318.2020.1741118",
-    "type": "poster",
-    "session_id": "BAB82A5B-4D2C-43A9-85D3-281C24DDDDE5",
-    "start": "2025-06-26T17:45:00",
-    "end": "2025-06-26T19:00:00",
-    "location": "X5 - Poster Area",
-    "presentation_id": "4A187ED6-9F48-4CBA-9418-B471012026DA",
-    "tags": [
-      "cog"
     ]
   },
   {
@@ -3698,29 +3254,6 @@
     ]
   },
   {
-    "title": "Proving the feasibility of continuous AI processing on EO spacecraft",
-    "authors": [
-      "Tom Hendrix",
-      "Juan Romero-Ca\u00f1as",
-      "Pablo Tomas Toledano Gonz\u00e1lez",
-      "Aubrey Dunne",
-      "David Rijlaarsdam"
-    ],
-    "affiliations": [
-      "Ubotica Technologies"
-    ],
-    "abstract": "The rise of onboard processing will enable new operational paradigms for Earth Observation spacecraft by interpreting payload data at the edge and enabling the system to autonomously act on this data. While current research has shown the feasibility of AI hardware acceleration in spacecraft, quantitative measurements of accelerator hardware performance in orbit remain underreported. We present the results of the commissioning campaign of the CogniSAT-XE2 AI hardware accelerator on the CogniSAT-6 satellite, confirming for the first time the feasibility of continuous edge AI processing on resource-constrained systems such as a 6U CubeSat. These findings prove the feasibility of intensive processing workload execution on spacecraft, paving the way for intelligence-enabled satellites.",
-    "type": "poster",
-    "session_id": "619ED0CC-EE22-486C-9995-7B296B3A5551",
-    "start": "2025-06-23T17:45:00",
-    "end": "2025-06-23T19:00:00",
-    "location": "X5 - Poster Area",
-    "presentation_id": "2D324467-C8F2-4EF4-B500-E9011E358AC1",
-    "tags": [
-      "cog"
-    ]
-  },
-  {
     "title": "Fast Cloud Access and Visualization of Short Wavelength Displacement Data in Netcdf4 Sentinel-1 OPERA Displacement Products with Kerchunk and Zarr",
     "authors": [
       "Scott Staniewicz",
@@ -3757,8 +3290,8 @@
     "location": "Hall K2",
     "presentation_id": "66828387-4139-4060-93B3-CE6305A164C3",
     "tags": [
-      "kerchunk",
-      "zarr"
+      "zarr",
+      "kerchunk"
     ]
   },
   {
