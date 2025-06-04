@@ -90,7 +90,7 @@ for date in [
     calendar_daterange = f"{row.start_dt.strftime('%Y%m%dT%H%M%S%z')}/{row.end_dt.strftime('%Y%m%dT%H%M%S%z')}"
     calendar_url = (
       f"https://calendar.google.com/calendar/render?action=TEMPLATE"
-      f"&text={row.title}"
+      f"&text=[{row.type.title()}] {row.title}"
       f"&dates={calendar_daterange}"
       f"&ctz=Europe/Vienna"
       f"&details=LPS Website link: <a href='{event_url}'>{row.title}</a>"
@@ -112,7 +112,6 @@ for date in [
             </p>
           </p>
         </div>
-
       </div>
     """))
 ```
