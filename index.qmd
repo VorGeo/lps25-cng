@@ -80,10 +80,22 @@ for date in [
   for idx, row in df_day.iterrows():
     desc = f'{row.title}' if isinstance(row.title, str) else ''
     if isinstance(row.session_id, str):
-      event_title_html = f'<a href="{BASE_URL}programme/programme-session/?id={row.session_id}" class="card-link">{desc}</a>'
+      event_url = f'{BASE_URL}programme/programme-session/?id={row.session_id}'
+      event_title_html = f'<a href="{event_url}" class="card-link">{desc}</a>'
     else:
+      event_url = ''
       event_title_html = desc
     location = f'({row.location})' if pd.notna(row.location) else ''
+
+    calendar_daterange = f"{row.start_dt.strftime('%Y%m%dT%H%M%S%z')}/{row.end_dt.strftime('%Y%m%dT%H%M%S%z')}"
+    calendar_url = (
+      f"https://calendar.google.com/calendar/render?action=TEMPLATE"
+      f"&text={row.title}"
+      f"&dates={calendar_daterange}"
+      f"&ctz=Europe/Vienna"
+      f"&details=LPS Website link: <a href='{event_url}'>{row.title}</a>"
+      f"&location={row.location.replace(' ', '+')}"
+    )
     display(HTML(f"""
       <div class="card border-primary mb-3">
         <div class="card-header">
@@ -92,11 +104,12 @@ for date in [
           {location}
         </div>
         <div class="card-body">
+          <h4 class="card-title">{row.type.title()}: {event_title_html}</h4>
           <p class="card-text">
-            {row.type.title()}:
-            {event_title_html}
-            <br/>
             <span class="text-success">{' '.join(['#' + tag for tag in row.tags])}</span>
+            <br/>
+            <a href="{calendar_url}" class="text-info">Add to Google Calendar</a>
+            </p>
           </p>
         </div>
 
