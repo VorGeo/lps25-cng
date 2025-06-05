@@ -5,71 +5,41 @@ execute:
 ---
 
 ```{python}
-from datetime import datetime, date, time, timedelta
-import json
-import math
-import numpy as np
-import pandas as pd
-from IPython.display import display, HTML, Markdown
-from dateutil.parser import parse
+from datetime import date # datetime, time, timedelta
+from IPython.display import display, Markdown
+
+from lps25_cng.core import (
+  dt_format,
+  BASE_URL,
+  Events,
+  get_lps25_events,
+  display_info_html,
+  display_footer_html,
+  create_event_html,
+)
+```
+
+
+```{python}
+search_terms = [
+  {'term': r'\bcloud-native|cloud native\b', 'tag': 'cloud-native'},
+  {'term': r'\bstac\b', 'tag': 'stac'},
+  {'term': r'\bCOG(s)?\b', 'tag': 'cog'},
+  {'term': r'\b(geo)?zarr\b', 'tag': 'zarr'},
+  {'term': r'\bvirtualizarr\b', 'tag': 'virtualizarr'},
+  {'term': r'\b(geo)?parquet\b', 'tag': 'parquet'},
+  {'term': r'\bkerchunk\b', 'tag': 'kerchunk'},
+  {'term': r'\b(geo)?flatgeobuf\b', 'tag': 'flatgeobuf'},
+  {'term': r'\bpmtiles\b', 'tag': 'pmtiles'},
+  {'term': r'\bfiboa\b', 'tag': 'fiboa'},
+  {'term': r'\bpangeo\b', 'tag': 'pangeo'},
+  {'term': r'\bcopc\b', 'tag': 'copc'},
+]
+df = get_lps25_events().filter_to_tagged_events(search_terms).as_dataframe()
 ```
 
 ```{python}
-dt_format = "%A, %B %d, %Y %H:%M"
-BASE_URL = 'https://lps25.esa.int/'
-
-# with open('2_event_info.json', 'r') as f:
-with open('3_test_tagged_file.json', 'r') as f:
-    items = json.load(f)
-
-# Add extra events
-items.extend([
-  {
-    "title": "Cloud-native Geospatial Community Social.<br/>Register to attend <a href='https://lu.ma/56jksm3l?tk=LJtRja'>here</a>",
-    "start": "2025-06-25T17:00:00",
-    "end": "2025-06-25T19:00:00",
-    "duration": "120 Minutes",
-    "location": "Schweizerhaus, Prater 116",
-    "abstract": "Socialize with other members of the Cloud-Native Geospatial community. ",
-    "type": "social",
-    "tags": [
-      "cloud-native"
-    ]
-  },
-  {
-    "title": "Earth Engine User Meetup<br/>Register to attend <a href='https://www.tickettailor.com/events/thrivegeo/1694427'>here</a>",
-    "start": "2025-06-23T18:00:00",
-    "end": "2025-06-23T19:30:00",
-    "duration": "90 Minutes",
-    "location": "Arcotel Kaiserwasser, 1220",
-    "abstract": "Join us for an evening of networking opportunities with fellow Earth Engine enthusiasts who are attending the Living Planet Symposium. Whether you're a beginner or an advanced user, this event is perfect for anyone looking to connect with like-minded individuals and learn from experts in the field.",
-    "type": "social",
-    "tags": [
-      "earth-engine"
-    ]
-  },
-])
-```
-```{python}
-for item in items:
-  item['start_dt'] = datetime.fromisoformat(item['start'])
-  item['end_dt'] = datetime.fromisoformat(item['end'])
-
-df = pd.DataFrame(items)
-df.sort_values(by='start_dt', inplace=True)
-```
-
-```{python}
-display(HTML(f"""
-  <div class="alert alert-dismissible alert-success">
-    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-    <p>
-    The following is a list of events at the
-    <a href='https://lps25.esa.int/'>2025 ESA Living Planet Symposium</a>
-    that involve cloud-native geospatial technologies.
-    </p>
-  </div>
-"""))
+display(display_info_html())
 ```
 
 ```{python}
@@ -84,67 +54,14 @@ for date in [
   date(2025, 6, 26),
   date(2025, 6, 27),
 ]:
-
   df_day = df[date == df["start_dt"].dt.date]
   display(Markdown(f"\n# {date.strftime("%A %d %B")}"""))
   display(Markdown(f"\n### {len(df_day)} events"""))
   for idx, row in df_day.iterrows():
-    desc = f'{row.title}' if isinstance(row.title, str) else ''
-    if isinstance(row.session_id, str):
-      event_url = f'{BASE_URL}programme/programme-session/?id={row.session_id}'
-      event_title_html = f'<a href="{event_url}" class="card-link">{desc}</a>'
-    else:
-      event_url = ''
-      event_title_html = desc
-    if isinstance(row.tags, list):
-      tag_str = ' '.join(['#' + tag for tag in row.tags])
-    else:
-      tag_str = ''
-    location = f'({row.location})' if pd.notna(row.location) else ''
-
-    calendar_daterange = f"{row.start_dt.strftime('%Y%m%dT%H%M%S%z')}/{row.end_dt.strftime('%Y%m%dT%H%M%S%z')}"
-    calendar_url = (
-      f"https://calendar.google.com/calendar/render?action=TEMPLATE"
-      f"&text=[{row.type.title()}] {row.title}"
-      f"&dates={calendar_daterange}"
-      f"&ctz=Europe/Vienna"
-      f"&details=LPS Website link: <a href='{event_url}'>{row.title}</a>"
-      f"&location={row.location.replace(' ', '+')}"
-    )
-    display(HTML(f"""
-      <div class="card border-primary mb-3">
-        <div class="card-header">
-          {row.start_dt.strftime("%A %d %B")}
-          {row.start_dt.strftime("%H:%M")} - {row.end_dt.strftime("%H:%M")}
-          {location}
-        </div>
-        <div class="card-body">
-          <h4 class="card-title">{row.type.title()}: {event_title_html}</h4>
-          <p class="card-text">
-            <span class="text-success">{tag_str}</span>
-            <br/>
-            <a href="{calendar_url}" class="text-info" target="_blank">Add to Google Calendar</a>
-            </p>
-          </p>
-        </div>
-      </div>
-    """))
+    display(create_event_html(row))
 ```
 
 
 ```{python}
-display(HTML(f"""
-  <div class="alert alert-dismissible alert-success">
-    <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
-   <p>
-    Of course, some events may have been missed while compiling this list.
-    If you know of other LPS events involving CNG, please create a 
-    <a href='https://github.com/VorGeo/lps25-cng/issues/new'>new issue</a>
-    describing the event
-    and/or add the event yourself
-    (i.e. 
-    <a href='https://github.com/VorGeo/lps25-cng/edit/main/index.qmd'>edit this page</a>, add a new event 'item', and then submit a PR).
-    </p>
-  </div>
-"""))
+display(display_footer_html())
 ```

@@ -1,6 +1,5 @@
 [project]
 authors = [{name = "Tyler Erickson", email = "tyler@vorgeo.com"}]
-dependencies = []
 name = "lps25-cng"
 requires-python = ">= 3.11"
 version = "0.1.0"
@@ -22,3 +21,6 @@ numpy = ">=2.2.6,<3"
 pandas = ">=2.2.3,<3"
 nbformat = ">=5.10.4,<6"
 pytest-playwright = ">=0.7.0,<0.8"
+
+[tool.pixi.pypi-dependencies]
+lps25-cng = { path = ".", editable = true }
