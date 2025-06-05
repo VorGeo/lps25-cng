@@ -18,11 +18,12 @@ from dateutil.parser import parse
 dt_format = "%A, %B %d, %Y %H:%M"
 BASE_URL = 'https://lps25.esa.int/'
 
+# with open('2_event_info.json', 'r') as f:
 with open('3_test_tagged_file.json', 'r') as f:
     items = json.load(f)
 
 # Add extra events
-items.append(
+items.extend([
   {
     "title": "Cloud-native Geospatial Community Social.<br/>Register to attend <a href='https://lu.ma/56jksm3l?tk=LJtRja'>here</a>",
     "start": "2025-06-25T17:00:00",
@@ -34,8 +35,20 @@ items.append(
     "tags": [
       "cloud-native"
     ]
-  }
-)
+  },
+  {
+    "title": "Earth Engine User Meetup<br/>Register to attend <a href='https://www.tickettailor.com/events/thrivegeo/1694427'>here</a>",
+    "start": "2025-06-23T18:00:00",
+    "end": "2025-06-23T19:30:00",
+    "duration": "90 Minutes",
+    "location": "Arcotel Kaiserwasser, 1220",
+    "abstract": "Join us for an evening of networking opportunities with fellow Earth Engine enthusiasts who are attending the Living Planet Symposium. Whether you're a beginner or an advanced user, this event is perfect for anyone looking to connect with like-minded individuals and learn from experts in the field.",
+    "type": "social",
+    "tags": [
+      "earth-engine"
+    ]
+  },
+])
 ```
 ```{python}
 for item in items:
@@ -45,8 +58,6 @@ for item in items:
 df = pd.DataFrame(items)
 df.sort_values(by='start_dt', inplace=True)
 ```
-
-<!-- ![](images/cng_perfect_loop.gif){width=200px} -->
 
 ```{python}
 display(HTML(f"""
@@ -85,6 +96,10 @@ for date in [
     else:
       event_url = ''
       event_title_html = desc
+    if isinstance(row.tags, list):
+      tag_str = ' '.join(['#' + tag for tag in row.tags])
+    else:
+      tag_str = ''
     location = f'({row.location})' if pd.notna(row.location) else ''
 
     calendar_daterange = f"{row.start_dt.strftime('%Y%m%dT%H%M%S%z')}/{row.end_dt.strftime('%Y%m%dT%H%M%S%z')}"
@@ -106,7 +121,7 @@ for date in [
         <div class="card-body">
           <h4 class="card-title">{row.type.title()}: {event_title_html}</h4>
           <p class="card-text">
-            <span class="text-success">{' '.join(['#' + tag for tag in row.tags])}</span>
+            <span class="text-success">{tag_str}</span>
             <br/>
             <a href="{calendar_url}" class="text-info" target="_blank">Add to Google Calendar</a>
             </p>

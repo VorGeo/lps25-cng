@@ -108,10 +108,10 @@
     "location": "X5 - Poster Area",
     "presentation_id": "A5A0F58C-99A8-4053-A497-8ECE0B144E44",
     "tags": [
-      "stac",
+      "zarr",
       "cloud-native",
-      "cog",
-      "zarr"
+      "stac",
+      "cog"
     ]
   },
   {
@@ -134,8 +134,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "3F9788F3-B340-4B7F-9F17-F4A2CB41ECE0",
     "tags": [
-      "stac",
-      "cloud-native"
+      "cloud-native",
+      "stac"
     ]
   },
   {
@@ -161,8 +161,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "9F1F196A-BD56-402E-A8A5-C60688D09789",
     "tags": [
-      "cloud-native",
-      "zarr"
+      "zarr",
+      "cloud-native"
     ]
   },
   {
@@ -371,9 +371,9 @@
     "location": "X5 - Poster Area",
     "presentation_id": "035665B1-9101-4C9E-94CB-8807ED849663",
     "tags": [
-      "stac",
-      "cloud-native",
       "parquet",
+      "cloud-native",
+      "stac",
       "cog"
     ]
   },
@@ -416,8 +416,8 @@
     "type": "demo",
     "session_id": "EA7C0877-1CC8-41DB-A087-7D9AB6182C14",
     "tags": [
-      "stac",
-      "zarr"
+      "zarr",
+      "stac"
     ]
   },
   {
@@ -464,8 +464,8 @@
     "location": "Hall K1",
     "presentation_id": "FDB10C36-457D-4899-863D-B33DE7443E16",
     "tags": [
-      "stac",
-      "zarr"
+      "zarr",
+      "stac"
     ]
   },
   {
@@ -518,8 +518,8 @@
     "location": "Hall K1",
     "presentation_id": "9C843F94-1CED-4420-8768-D47BFCC1264A",
     "tags": [
-      "pangeo",
-      "zarr"
+      "zarr",
+      "pangeo"
     ]
   },
   {
@@ -588,8 +588,8 @@
     "location": "Hall N1/N2",
     "presentation_id": "AF0EBBC8-D5C3-48F3-9C73-9218851AAB1A",
     "tags": [
-      "pangeo",
-      "zarr"
+      "zarr",
+      "pangeo"
     ]
   },
   {
@@ -773,8 +773,8 @@
     "type": "hands-on",
     "session_id": "F3A350FC-F2CF-43E1-B68E-082A6ABCA015",
     "tags": [
-      "stac",
-      "cloud-native"
+      "cloud-native",
+      "stac"
     ]
   },
   {
@@ -852,8 +852,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "89C46DEA-159A-4990-8766-AD390C8A760D",
     "tags": [
-      "fiboa",
-      "parquet"
+      "parquet",
+      "fiboa"
     ]
   },
   {
@@ -885,8 +885,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "38C7593E-BBCF-4428-8A79-3D12D0A0A726",
     "tags": [
-      "stac",
-      "pangeo"
+      "pangeo",
+      "stac"
     ]
   },
   {
@@ -956,9 +956,9 @@
     "type": "demo",
     "session_id": "41BBA9F1-C53D-4276-8EBC-1350ECD1D840",
     "tags": [
-      "stac",
+      "zarr",
       "cloud-native",
-      "zarr"
+      "stac"
     ]
   },
   {
@@ -1001,8 +1001,8 @@
     "location": "Room 0.94/0.95",
     "presentation_id": "E5B96525-6793-457F-A0A0-D2FED88FFB0E",
     "tags": [
-      "stac",
-      "zarr"
+      "zarr",
+      "stac"
     ]
   },
   {
@@ -1028,8 +1028,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "CD1717BC-959F-42E3-9579-C4735BD91AB8",
     "tags": [
-      "pangeo",
-      "zarr"
+      "zarr",
+      "pangeo"
     ]
   },
   {
@@ -1125,9 +1125,9 @@
     "location": "X5 - Poster Area",
     "presentation_id": "048111F6-315B-4015-A724-2185E7C1D33A",
     "tags": [
-      "stac",
+      "pangeo",
       "cloud-native",
-      "pangeo"
+      "stac"
     ]
   },
   {
@@ -1199,8 +1199,8 @@
     "type": "demo",
     "session_id": "81AA4053-47DD-4BF8-8491-ADC3715CE2CB",
     "tags": [
-      "stac",
-      "pangeo"
+      "pangeo",
+      "stac"
     ]
   },
   {
@@ -1308,8 +1308,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "EB39DB6D-B60F-462F-80A4-D54D0906052C",
     "tags": [
-      "stac",
-      "cloud-native"
+      "cloud-native",
+      "stac"
     ]
   },
   {
@@ -1351,8 +1351,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "C9BD75C1-C0BC-491E-86D6-D16286FA7890",
     "tags": [
-      "stac",
-      "cloud-native"
+      "cloud-native",
+      "stac"
     ]
   },
   {
@@ -1401,9 +1401,9 @@
     "location": "X5 - Poster Area",
     "presentation_id": "01B90E6F-1384-4CEA-A90D-02218E9F1A99",
     "tags": [
+      "zarr",
       "pangeo",
-      "cog",
-      "zarr"
+      "cog"
     ]
   },
   {
@@ -1457,9 +1457,9 @@
     "location": "X5 - Poster Area",
     "presentation_id": "F7EACB41-28E1-45FC-A009-BD2BDDF21197",
     "tags": [
-      "stac",
+      "zarr",
       "cloud-native",
-      "zarr"
+      "stac"
     ]
   },
   {
@@ -1484,10 +1484,10 @@
     "location": "X5 - Poster Area",
     "presentation_id": "2173BA43-9CF0-4F19-95C4-CAC75E7CDBB2",
     "tags": [
-      "stac",
+      "zarr",
       "cloud-native",
-      "cog",
-      "zarr"
+      "stac",
+      "cog"
     ]
   },
   {
@@ -1595,9 +1595,9 @@
     "type": "demo",
     "session_id": "E495E552-D6B1-4986-8CE7-1AA8527A779A",
     "tags": [
-      "stac",
+      "pangeo",
       "cloud-native",
-      "pangeo"
+      "stac"
     ]
   },
   {
@@ -1833,9 +1833,9 @@
     "location": "Hall K1",
     "presentation_id": "A2FDBD2A-9C5B-4EC2-980B-4D5A739D4415",
     "tags": [
+      "zarr",
       "stac",
-      "cog",
-      "zarr"
+      "cog"
     ]
   },
   {
@@ -1937,8 +1937,8 @@
     "type": "session",
     "session_id": "3CED5B3C-FA23-4E18-8004-33BF75D9F4E1",
     "tags": [
-      "cloud-native",
-      "zarr"
+      "zarr",
+      "cloud-native"
     ]
   },
   {
@@ -2062,8 +2062,8 @@
     "location": "Room 1.34",
     "presentation_id": "9E113C57-34EE-44B0-B0D3-18377488051B",
     "tags": [
-      "stac",
-      "zarr"
+      "zarr",
+      "stac"
     ]
   },
   {
@@ -2109,8 +2109,8 @@
     "location": "Room 1.34",
     "presentation_id": "A77505D5-9B1F-4FE3-A409-A887C2140511",
     "tags": [
-      "stac",
-      "cloud-native"
+      "cloud-native",
+      "stac"
     ]
   },
   {
@@ -2165,8 +2165,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "6B2F8BA1-D1F0-48A0-969C-B6012591C2FC",
     "tags": [
-      "stac",
       "cloud-native",
+      "stac",
       "cog"
     ]
   },
@@ -2189,10 +2189,10 @@
     "location": "X5 - Poster Area",
     "presentation_id": "DE8BFD7C-A033-4B5A-8FE2-EBD6A260F810",
     "tags": [
-      "stac",
-      "cloud-native",
+      "pangeo",
       "zarr",
-      "pangeo"
+      "cloud-native",
+      "stac"
     ]
   },
   {
@@ -2233,9 +2233,9 @@
     "location": "X5 - Poster Area",
     "presentation_id": "56E337F7-EADD-4641-BC8B-A056CE0B869A",
     "tags": [
-      "stac",
+      "zarr",
       "cloud-native",
-      "zarr"
+      "stac"
     ]
   },
   {
@@ -2256,8 +2256,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "941BC934-0458-41B5-A8A7-ADD9E9D562A6",
     "tags": [
-      "cloud-native",
-      "zarr"
+      "zarr",
+      "cloud-native"
     ]
   },
   {
@@ -2383,8 +2383,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "EE20C19F-ED37-48AA-845F-81C815312532",
     "tags": [
-      "cloud-native",
-      "zarr"
+      "zarr",
+      "cloud-native"
     ]
   },
   {
@@ -2412,8 +2412,8 @@
     "type": "demo",
     "session_id": "D10B7367-026C-4144-8873-F448C1D8FDD6",
     "tags": [
-      "stac",
-      "cloud-native"
+      "cloud-native",
+      "stac"
     ]
   },
   {
@@ -2508,11 +2508,11 @@
     "type": "session",
     "session_id": "98C8A8A1-7F82-4AFB-9BFC-F84FAAFE7136",
     "tags": [
-      "parquet",
-      "cog",
-      "stac",
       "cloud-native",
-      "zarr"
+      "cog",
+      "parquet",
+      "zarr",
+      "stac"
     ]
   },
   {
@@ -2577,8 +2577,8 @@
     "location": "Hall K2",
     "presentation_id": "D1A85AC6-4F1F-4B6C-B1B8-016E5350E244",
     "tags": [
-      "stac",
-      "cloud-native"
+      "cloud-native",
+      "stac"
     ]
   },
   {
@@ -2621,9 +2621,9 @@
     "location": "Hall K2",
     "presentation_id": "DDAD3041-72BF-4FAF-9429-FCBA7081E600",
     "tags": [
+      "zarr",
       "stac",
       "virtualizarr",
-      "zarr",
       "kerchunk"
     ]
   },
@@ -2643,8 +2643,8 @@
     "location": "Hall K2",
     "presentation_id": "607179A9-6182-4282-8911-67B7317CA786",
     "tags": [
-      "stac",
-      "zarr"
+      "zarr",
+      "stac"
     ]
   },
   {
@@ -2729,10 +2729,10 @@
     "location": "Room 1.31/1.32",
     "presentation_id": "323699B8-688A-46C1-8870-7DDF009D487F",
     "tags": [
-      "stac",
+      "zarr",
       "cloud-native",
-      "cog",
-      "zarr"
+      "stac",
+      "cog"
     ]
   },
   {
@@ -2763,10 +2763,10 @@
     "location": "Room 1.31/1.32",
     "presentation_id": "2CF5896C-BEBD-43FB-961B-F0773B86318D",
     "tags": [
-      "stac",
+      "zarr",
       "cloud-native",
-      "cog",
-      "zarr"
+      "stac",
+      "cog"
     ]
   },
   {
@@ -2800,10 +2800,10 @@
     "location": "Room 1.31/1.32",
     "presentation_id": "33D5844D-9424-4CB7-BE07-DA48FC42C374",
     "tags": [
-      "stac",
-      "cog",
       "zarr",
-      "kerchunk"
+      "kerchunk",
+      "stac",
+      "cog"
     ]
   },
   {
@@ -2845,8 +2845,8 @@
     "location": "Room 1.34",
     "presentation_id": "88628F07-A934-49A6-B5A2-F4968D9CA815",
     "tags": [
-      "stac",
-      "cloud-native"
+      "cloud-native",
+      "stac"
     ]
   },
   {
@@ -2903,8 +2903,8 @@
     "location": "Hall G2",
     "presentation_id": "3E5CE2CF-C613-4BE6-983E-CA9D1A2D3A4F",
     "tags": [
-      "stac",
-      "cloud-native"
+      "cloud-native",
+      "stac"
     ]
   },
   {
@@ -3007,8 +3007,8 @@
     "location": "Room 0.94/0.95",
     "presentation_id": "B94E9AE1-FE2F-4F16-8C42-B1031B843D24",
     "tags": [
-      "stac",
-      "parquet"
+      "parquet",
+      "stac"
     ]
   },
   {
@@ -3103,10 +3103,10 @@
     "location": "X5 - Poster Area",
     "presentation_id": "CB47235C-86B8-489B-8481-B350D929660E",
     "tags": [
-      "stac",
+      "zarr",
       "cloud-native",
-      "cog",
-      "zarr"
+      "stac",
+      "cog"
     ]
   },
   {
@@ -3127,8 +3127,8 @@
     "location": "X5 - Poster Area",
     "presentation_id": "CFA4EE5F-B8BB-4ACB-A0CB-19726B432EF8",
     "tags": [
-      "stac",
-      "cloud-native"
+      "cloud-native",
+      "stac"
     ]
   },
   {
@@ -3213,8 +3213,8 @@
     "location": "Hall L3",
     "presentation_id": "A021DAA8-EC4B-444E-9987-D9EB26C9CE75",
     "tags": [
-      "stac",
-      "cloud-native"
+      "cloud-native",
+      "stac"
     ]
   },
   {
