@@ -40,6 +40,20 @@ class Events:
         ):
           tag_set.add(search_term['tag'])
       event['tags'] = list(tag_set)  # Convert to list to support serialization
+
+      # Highlight tagged words in abstract
+      if 'abstract' in event and 'tags' in event and event['tags']:
+        abstract = event['abstract']
+        for search_term in search_terms:
+          pattern = search_term['term']
+          tag = search_term['tag']
+          abstract = re.sub(
+            f'({pattern})', 
+            r'<span class="text-success">\1</span>',
+            abstract,
+            flags=re.IGNORECASE
+          )
+        event['abstract'] = abstract
     return self
 
   def filter_to_tagged_events(self, search_terms):
@@ -124,7 +138,7 @@ def display_footer_html():
       </div>
     """)
 
-def create_event_html(row):
+def create_event_html(row, show_abstract=False):
   desc = f'{row.title}' if isinstance(row.title, str) else ''
   if isinstance(row.session_id, str):
     event_url = f'{BASE_URL}programme/programme-session/?id={row.session_id}'
