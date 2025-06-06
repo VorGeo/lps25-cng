@@ -54,8 +54,11 @@ for date in [
   date(2025, 6, 26),
   date(2025, 6, 27),
 ]:
-  df_day = df[date == df["start_dt"].dt.date]
   display(Markdown(f"\n# {date.strftime("%A %d %B")}"""))
+  try:
+    df_day = df[date == df["start_dt"].dt.date]
+  except KeyError:
+    df_day = df
   display(Markdown(f"\n### {len(df_day)} events"""))
   for idx, row in df_day.iterrows():
     display(create_event_html(row))
