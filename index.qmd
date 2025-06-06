@@ -61,7 +61,7 @@ for date in [
     df_day = df
   display(Markdown(f"\n### {len(df_day)} events"""))
   for idx, row in df_day.iterrows():
-    display(create_event_html(row))
+    display(create_event_html(row, show_abstract=True))
 ```
 
 

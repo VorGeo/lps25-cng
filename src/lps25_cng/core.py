@@ -161,16 +161,22 @@ def create_event_html(row):
       <div class="card-body">
         <h4 class="card-title">{row.type.title()}: {event_title_html}</h4>
         <p class="card-text">
-          {'<b>Authors :</b> ' + ', '.join(row.authors) + '<br/>' if isinstance(row.authors, list) else ''}
-          {'<b>Affiliations:</b> ' + ', '.join(row.affiliations) + '<br/>' if isinstance(row.affiliations, list) else ''}
-          <span class="text-success">{tag_str}</span>
-          <br/>
+          <span class="text-success">{tag_str}</span><br/>
           <a href="{calendar_url}" class="text-info" target="_blank">Add to Google Calendar</a>
+          <ul class="list-group list-group-flush">
+            {'<li class="list-group-item"><b>Authors:</b> ' + ', '.join(row.authors) + '</li>' if isinstance(row.authors, list) else ''}
+            {'<li class="list-group-item"><b>Affiliations:</b> ' + ', '.join(row.affiliations) + '</li>' if isinstance(row.affiliations, list) else ''}
+            {'<li class="list-group-item"><b>Abstract:</b> ' + row.abstract + '</li>' if isinstance(row.abstract, str) else ''}
+          </ul>
           </p>
         </p>
       </div>
     </div>
   """)
+
+
+
+
 
 ##### testing
 # event_info = Events('2_event_info.json')
