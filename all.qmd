@@ -1,0 +1,61 @@
+---
+execute:
+  echo: false
+  engine: python
+---
+
+```{python}
+from datetime import date
+from IPython.display import display, Markdown
+
+from lps25_cng.core import (
+  dt_format,
+  BASE_URL,
+  Events,
+  get_lps25_events,
+  display_info_html,
+  display_footer_html,
+  create_event_html,
+)
+```
+
+
+```{python}
+search_terms = [
+  {'term': r'\bcloud-native|cloud native\b', 'tag': 'cloud-native'},
+  {'term': r'\bstac\b', 'tag': 'stac'},
+  {'term': r'\bCOG(s)?\b', 'tag': 'cog'},
+  {'term': r'\b(geo)?zarr\b', 'tag': 'zarr'},
+  {'term': r'\bvirtualizarr\b', 'tag': 'virtualizarr'},
+  {'term': r'\b(geo)?parquet\b', 'tag': 'parquet'},
+  {'term': r'\bkerchunk\b', 'tag': 'kerchunk'},
+  {'term': r'\b(geo)?flatgeobuf\b', 'tag': 'flatgeobuf'},
+  {'term': r'\bpmtiles\b', 'tag': 'pmtiles'},
+  {'term': r'\bfiboa\b', 'tag': 'fiboa'},
+  {'term': r'\bpangeo\b', 'tag': 'pangeo'},
+  {'term': r'\bcopc\b', 'tag': 'copc'},
+]
+df = get_lps25_events().set_tags(search_terms).as_dataframe()
+```
+
+```{python}
+#| output: asis
+# See https://bootswatch.com/ for Theme classes
+
+for date in [
+  date(2025, 6, 22),
+  date(2025, 6, 23),
+  date(2025, 6, 24),
+  date(2025, 6, 25),
+  date(2025, 6, 26),
+  date(2025, 6, 27),
+]:
+  display(Markdown(f"\n# {date.strftime("%A %d %B")}"""))
+  try:
+    df_day = df[date == df["start_dt"].dt.date]
+  except KeyError:
+    df_day = df
+  display(Markdown(f"\n### {len(df_day)} events"""))
+  for idx, row in df_day.iterrows():
+    display(create_event_html(row, show_abstract=True))
+```
