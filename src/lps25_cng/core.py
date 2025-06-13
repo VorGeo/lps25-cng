@@ -75,10 +75,10 @@ class Events:
       item['start_dt'] = datetime.datetime.fromisoformat(item['start'])
       item['end_dt'] = datetime.datetime.fromisoformat(item['end'])
     df = pd.DataFrame(items)
-    try:
-      df.sort_values(by='start_dt', inplace=True)
-    except KeyError: # this occurs when there are no records
-      pass
+    # try:
+    #   df.sort_values(by='start_dt', inplace=True)
+    # except KeyError: # this occurs when there are no records
+    #   pass
     return df
 
 
@@ -103,7 +103,7 @@ def get_lps25_events():
     "end": "2025-06-23T19:30:00",
     "duration": "90 Minutes",
     "location": "Arcotel Kaiserwasser, 1220",
-    "abstract": "Join us for an evening of networking opportunities with fellow Earth Engine enthusiasts who are attending the Living Planet Symposium. Whether you're a beginner or an advanced user, this event is perfect for anyone looking to connect with like-minded individuals and learn from experts in the field.",
+    "abstract": "Join us for an evening of networking opportunities with fellow Earth Engine enthusiasts who are attending the Living Planet Symposium.<br/><br/>Whether you're a beginner or an advanced user, this event is perfect for anyone looking to connect with like-minded individuals and learn from experts in the field.",
     "type": "social",
   })
 
@@ -138,7 +138,7 @@ def display_footer_html():
       </div>
     """)
 
-def create_event_html(row, show_abstract=False):
+def create_event_html(row, show_abstract=False, show_id=False):
   desc = f'{row.title}' if isinstance(row.title, str) else ''
   if isinstance(row.session_id, str):
     event_url = f'{BASE_URL}programme/programme-session/?id={row.session_id}'
@@ -147,9 +147,13 @@ def create_event_html(row, show_abstract=False):
     event_url = ''
     event_title_html = desc
   if isinstance(row.authors, list):
-    authors_str = 'Authors: ' + ', '.join(row.authors) + '<br/>'
+    authors_str = 'Author(s): ' + ', '.join(row.authors) + '<br/>'
   else:
     authors_str = ''
+  if isinstance(row.affiliations, list):
+    affiliations_str = 'Affiliation(s): ' + ', '.join(row.affiliations) + '<br/>'
+  else:
+    affiliations_str = ''
   if isinstance(row.tags, list):
     tag_str = ' '.join(['#' + tag for tag in row.tags])
   else:
@@ -162,9 +166,30 @@ def create_event_html(row, show_abstract=False):
     f"&text=[{row.type.title()}] {row.title}"
     f"&dates={calendar_daterange}"
     f"&ctz=Europe/Vienna"
-    f"&details=LPS Website link: <a href='{event_url}'>{row.title}</a>"
+    f"&details={authors_str}{affiliations_str}LPS Website link: <a href='{event_url}'>{row.title}</a>"
     f"&location={row.location.replace(' ', '+')}"
   )
+
+  match row.type.title():
+    case 'Session':
+      type_span_class = 'badge bg-info'
+    case 'Presentation':
+      type_span_class = 'badge bg-info disabled'
+    case 'Poster':
+      type_span_class = 'badge bg-info disabled'
+    case 'Hands-On':
+      type_span_class = 'badge bg-warning'
+    case 'Tutorial':
+      type_span_class = 'badge bg-warning disabled'
+    case 'Demo':
+      type_span_class = 'badge bg-warning'
+    case 'Social':
+      type_span_class = 'badge bg-danger'
+    case _:
+      type_span_class = 'badge bg-light'
+
+  # print(f"{row = }")
+
   return HTML(f"""
     <div class="card border-primary mb-3">
       <div class="card-header">
@@ -173,15 +198,14 @@ def create_event_html(row, show_abstract=False):
         {location}
       </div>
       <div class="card-body">
-        <h4 class="card-title">{row.type.title()}: {event_title_html}</h4>
+        <h4 class="card-title"><span class="{type_span_class}">{row.type.title()}:</span> {event_title_html}</h4>
         <p class="card-text">
-          <span class="text-success">{tag_str}</span><br/>
+          {'<span class="text-success">{tag_str}</span><br/>' if tag_str else ''}
+          {'<div class="alert alert-dismissible alert-light"><b>Chairs:</b> ' + ', '.join(row.chairs) + '</div>' if isinstance(row.chairs, list) else ''}
+          {'<div class="alert alert-dismissible alert-light"><b>Authors:</b> ' + ', '.join(row.authors) + '</div>' if isinstance(row.authors, list) else ''}
+          {'<div class="alert alert-dismissible alert-light"><b>Affiliations:</b> ' + ', '.join(row.affiliations) + '</div>' if isinstance(row.affiliations, list) else ''}
+          {'<div class="alert alert-dismissible alert-light">' + row.abstract + '</div>' if isinstance(row.abstract, str) else ''}
           <a href="{calendar_url}" class="text-info" target="_blank">Add to Google Calendar</a>
-          <ul class="list-group list-group-flush">
-            {'<li class="list-group-item"><b>Authors:</b> ' + ', '.join(row.authors) + '</li>' if isinstance(row.authors, list) else ''}
-            {'<li class="list-group-item"><b>Affiliations:</b> ' + ', '.join(row.affiliations) + '</li>' if isinstance(row.affiliations, list) else ''}
-            {'<li class="list-group-item"><b>Abstract:</b> ' + row.abstract + '</li>' if isinstance(row.abstract, str) else ''}
-          </ul>
           </p>
         </p>
       </div>
