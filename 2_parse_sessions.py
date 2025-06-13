@@ -67,7 +67,7 @@ def scrape_session_info(id, page):
   chairs_str = info_box_el.locator("div").nth(0).inner_text().split('\n')[1].strip()
   room_str = info_box_el.locator("div").nth(2).inner_text().split('\n')[1].strip()
   duration_str = info_box_el.locator("div").nth(2).inner_text().split('\n')[3].strip()
-  details_str = info_box_el.locator("div.details-grid").nth(1).locator("div").locator("div").nth(0).inner_text()
+  details_str = info_box_el.locator("div.details-grid").nth(1).locator("div").locator("div").nth(0).inner_html()
 
   date_obj = datetime.strptime(date_str.split('-')[1].strip(), '%d.%m.%Y')
   date_iso = date_obj.strftime('%Y-%m-%d')
