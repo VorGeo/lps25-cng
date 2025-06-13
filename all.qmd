@@ -35,16 +35,15 @@ search_terms = [
   {'term': r'\bpangeo\b', 'tag': 'pangeo'},
   {'term': r'\bcopc\b', 'tag': 'copc'},
 ]
-df = (get_lps25_events()
-        .set_tags(search_terms)
-        .as_dataframe()
-)
+df = get_lps25_events().set_tags(search_terms).as_dataframe()
 df['presentation_id'] = df.get('presentation_id', None)
 df['authors'] = df.get('authors', None)
 df['affiliations'] = df.get('affiliations', None)
-df = df.sort_values(by=["start_dt", "session_id", "presentation_id"], ascending=[True, True, False], na_position="first")
-
-
+df = df.sort_values(
+  by=["start_dt", "session_id", "presentation_id"],
+  ascending=[True, True, False],
+  na_position="first",
+)
 ```
 
 ```{python}
@@ -53,11 +52,11 @@ df = df.sort_values(by=["start_dt", "session_id", "presentation_id"], ascending=
 
 for date in [
   date(2025, 6, 22),
-  # date(2025, 6, 23),
+  date(2025, 6, 23),
   date(2025, 6, 24),
-  # date(2025, 6, 25),
-  # date(2025, 6, 26),
-  # date(2025, 6, 27),
+  date(2025, 6, 25),
+  date(2025, 6, 26),
+  date(2025, 6, 27),
 ]:
   display(Markdown(f"\n# {date.strftime("%A %d %B")}"""))
   try:
