@@ -1,0 +1,45 @@
+---
+execute:
+  echo: false
+  engine: python
+---
+
+```{python}
+from datetime import date
+from IPython.display import display, Markdown
+
+from lps25_cng.core import (
+  dt_format,
+  BASE_URL,
+  Events,
+  get_lps25_events,
+  display_info_html,
+  display_footer_html,
+  create_event_html,
+)
+```
+
+
+```{python}
+df = get_lps25_events().as_dataframe()
+```
+
+```{python}
+print("Events by type:")
+counts = df['type'].value_counts()
+print(f'{counts = }')
+print(f'{df.count() = }')
+```
+
+```{python}
+print(
+  (counts['poster'] + counts['presentation']) / 
+  (counts['poster'] + counts['presentation'] + counts['session'] + counts['demo'] + counts['tutorial'] + counts['hands-on'])
+)
+# poster          2812
+# presentation    1616
+# session          453
+# demo             102
+# tutorial          28
+# hands-on          24
+```
