@@ -2,10 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vorgeo.github.io/lps25-cng/index.html</loc>
-    <lastmod>2025-06-13T02:20:29.888Z</lastmod>
+    <lastmod>2025-06-23T20:50:56.991Z</lastmod>
+  </url>
+  <url>
+    <loc>https://vorgeo.github.io/lps25-cng/stats.html</loc>
+    <lastmod>2025-06-23T20:50:56.992Z</lastmod>
   </url>
   <url>
     <loc>https://vorgeo.github.io/lps25-cng/all.html</loc>
-    <lastmod>2025-06-13T02:20:29.886Z</lastmod>
+    <lastmod>2025-06-23T20:50:56.989Z</lastmod>
   </url>
 </urlset>
